@@ -1,0 +1,1001 @@
+Person_ID,Age,Gender,Education,Job_Role,Experience_Years,Work_Environment,Company_Size,Achievements_Score,Praise_Dismissal_Score,Recognition_Score,Promotion_Count,Credit_Taking_Comfort,Self_Doubt_Score,Fear_of_Exposure_Score,Perfectionism_Score,Overworking_Score,Failure_Fear_Score,Peer_Comparison_Score,Social_Media_Comparison,Mentorship_Access,Supportive_Workplace,Anxiety_Score,Depression_Score,Self_Esteem_Score,Burnout_Score,Stress_Level,Therapy_History,Imposter_Syndrome_Level,Seeks_Professional_Help
+IMP00001,30,Female,Bachelor,Developer,0,Hybrid,Mid-size,3.1,8.7,6.2,1,2.8,6.3,8.9,3.4,4.4,7.4,5.1,5.0,No,4.0,4.0,5.8,4.8,6.4,4.5,,Severe,No
+IMP00002,36,Non-binary,Bachelor,Manager,6,Remote,Mid-size,6.9,4.7,5.1,1,7.5,8.8,3.3,9.8,5.6,6.7,4.5,7.3,Yes,4.4,7.3,4.2,7.6,10.0,4.6,Yes,Mild,No
+IMP00003,25,Female,PhD,Entrepreneur,7,Hybrid,Mid-size,6.6,,5.4,2,6.4,6.7,1.9,6.9,3.2,5.3,5.9,6.2,No,5.1,5.4,2.4,8.7,0.7,5.0,No,,No
+IMP00004,31,Female,High School,Teacher,4,Remote,Large Corp,6.1,5.7,5.0,3,5.6,8.4,6.7,5.9,5.2,5.5,6.0,7.5,No,1.2,4.1,1.9,3.3,5.2,4.2,No,Severe,No
+IMP00005,29,Male,High School,Manager,3,,Startup,,4.5,4.4,2,6.7,6.8,2.2,6.7,0.0,5.9,5.2,6.4,Yes,3.3,0.5,2.0,7.2,4.4,6.8,No,,No
+IMP00006,41,Non-binary,Bachelor,Designer,7,Hybrid,Mid-size,3.4,9.5,4.1,2,4.2,3.5,2.4,4.9,5.9,6.5,1.5,2.8,Yes,5.2,6.1,5.0,7.6,5.1,8.0,No,,No
+IMP00007,41,Male,Bachelor,Developer,6,Remote,Startup,8.4,5.3,2.7,3,5.1,9.5,10.0,4.7,6.5,8.9,4.1,4.7,No,5.1,0.6,0.0,3.5,3.3,9.1,No,Severe,Yes
+IMP00008,33,Male,PhD,Analyst,3,Hybrid,Large Corp,4.6,9.0,2.2,1,7.6,4.8,6.3,7.5,7.7,5.9,3.1,7.4,No,6.5,4.0,5.2,4.9,3.1,6.9,No,Severe,Yes
+IMP00009,26,Non-binary,Master,Designer,7,Remote,Startup,6.5,8.2,4.2,5,5.2,,9.2,6.1,2.8,3.8,7.4,,Yes,5.4,5.3,5.0,6.4,1.7,7.6,No,Moderate,No
+IMP00010,39,Non-binary,Bachelor,Doctor,0,Hybrid,Mid-size,3.1,4.2,5.5,1,4.3,6.9,3.5,8.9,10.0,6.3,7.1,4.7,Yes,7.4,1.1,6.0,3.5,2.3,5.3,No,Mild,No
+IMP00011,27,Male,PhD,Doctor,0,Hybrid,Mid-size,6.3,8.0,6.9,0,6.1,7.0,,5.9,3.7,2.9,7.5,8.9,Yes,4.6,4.7,4.2,9.2,6.1,6.0,No,Mild,No
+IMP00012,26,Non-binary,Master,Doctor,4,Remote,Large Corp,3.1,7.0,1.3,2,7.2,7.7,2.8,8.9,7.4,2.7,,6.4,No,4.5,9.4,3.1,5.1,7.2,8.1,No,Severe,Yes
+IMP00013,37,Female,Master,Teacher,3,Hybrid,Large Corp,7.3,3.1,6.2,5,8.0,5.8,7.0,6.9,3.9,4.4,3.7,3.7,Yes,2.4,7.0,3.4,4.3,4.8,5.0,,Mild,Yes
+IMP00014,48,Female,Bachelor,Manager,4,Remote,Startup,6.7,7.2,4.1,0,3.5,4.9,8.0,7.8,7.1,7.7,10.0,7.0,Yes,5.1,6.1,2.4,1.4,0.5,5.1,Yes,Severe,Yes
+IMP00015,54,Female,Master,Developer,0,Remote,Large Corp,4.9,8.1,3.9,1,5.4,5.1,9.4,4.0,4.5,8.8,,6.2,No,3.8,6.1,8.7,3.5,2.3,7.0,Yes,Severe,No
+IMP00016,33,Non-binary,High School,Developer,10,Remote,Large Corp,4.0,6.6,7.2,1,4.9,7.4,4.3,6.3,6.3,5.8,6.5,5.5,No,8.6,5.6,5.1,3.9,6.0,6.6,No,Severe,Yes
+IMP00017,39,Female,Master,Entrepreneur,3,Remote,Mid-size,6.1,7.1,0.0,3,2.9,1.8,4.9,2.9,10.0,3.0,5.7,2.9,No,3.0,9.9,6.7,2.5,1.7,9.2,Yes,Moderate,Yes
+IMP00018,36,Male,Master,Analyst,4,On-site,Large Corp,8.4,7.6,2.1,2,8.8,,4.0,2.4,7.5,6.3,,2.9,No,7.1,4.1,3.5,3.1,0.0,1.3,Yes,,No
+IMP00019,27,Female,Master,Researcher,5,Hybrid,Mid-size,4.8,3.2,5.8,2,4.1,8.8,6.6,7.3,5.4,8.0,5.3,3.4,No,8.7,5.1,7.1,5.2,2.4,3.3,No,Moderate,No
+IMP00020,41,Female,Bachelor,Manager,3,On-site,Large Corp,6.6,7.2,3.0,1,6.5,2.8,8.4,4.8,7.0,7.2,6.1,5.7,No,5.3,5.7,2.8,4.6,8.8,9.5,No,Severe,Yes
+IMP00021,47,Female,Bachelor,Developer,10,Remote,Startup,,9.0,2.5,0,2.4,3.5,,9.1,5.9,8.7,4.4,5.7,No,3.3,3.8,2.2,5.9,6.5,6.2,No,Severe,No
+IMP00022,49,Female,Bachelor,Manager,13,On-site,Mid-size,6.2,5.2,5.3,1,5.4,4.2,8.2,6.9,5.6,10.0,6.7,4.3,No,8.0,7.9,4.1,7.1,6.4,3.4,No,Moderate,Yes
+IMP00023,30,Male,Master,Researcher,5,Hybrid,Large Corp,7.1,6.2,3.9,0,8.3,4.6,2.4,4.4,3.1,6.3,4.0,6.3,No,3.8,3.6,6.2,9.0,4.9,9.7,No,,No
+IMP00024,37,Female,Bachelor,Designer,11,Hybrid,Mid-size,8.3,4.0,2.1,3,4.9,4.2,7.9,6.8,5.8,5.0,5.3,6.1,No,7.6,7.1,9.6,4.6,1.6,3.4,No,Mild,No
+IMP00025,21,Female,Bachelor,Analyst,6,Remote,Mid-size,5.7,10.0,6.0,1,1.5,2.0,2.1,1.6,7.7,6.7,6.0,1.2,Yes,3.8,6.8,0.4,9.0,6.8,4.5,Yes,,No
+IMP00026,26,Male,Master,Entrepreneur,10,Hybrid,Mid-size,7.4,9.5,4.6,2,3.9,3.3,5.9,7.2,6.2,9.2,4.9,2.6,Yes,4.7,3.6,4.5,8.4,8.0,4.3,No,Mild,No
+IMP00027,26,Male,Master,Researcher,6,Hybrid,Startup,3.8,6.7,8.7,3,2.2,3.6,6.3,6.4,7.0,3.9,4.8,,Yes,4.3,3.8,2.3,4.4,1.0,7.7,Yes,,No
+IMP00028,25,Female,PhD,Entrepreneur,6,On-site,Large Corp,4.6,4.2,2.0,0,5.8,5.0,9.5,9.2,6.9,6.6,5.9,0.7,No,2.2,7.2,3.9,5.1,4.0,5.8,Yes,Severe,No
+IMP00029,33,Female,Master,Manager,9,Hybrid,Mid-size,4.1,5.5,8.2,1,3.6,4.3,6.6,5.8,3.8,8.7,6.2,1.0,No,3.8,0.6,3.2,3.5,5.4,5.3,Yes,Mild,No
+IMP00030,51,Female,PhD,Designer,3,Hybrid,Mid-size,4.3,,9.0,2,5.1,10.0,4.2,6.8,8.6,4.5,5.3,1.2,Yes,8.4,1.1,6.6,8.0,6.4,8.8,Yes,,Yes
+IMP00031,51,Non-binary,PhD,Developer,4,Remote,Large Corp,6.0,1.6,6.4,0,3.7,6.6,5.1,4.4,5.1,6.6,6.0,2.1,No,2.0,3.7,2.9,4.5,5.5,8.2,No,Severe,Yes
+IMP00032,33,Male,Bachelor,Developer,0,Hybrid,Startup,2.2,5.6,7.5,0,2.7,8.9,4.8,7.7,5.9,4.8,,6.4,No,7.4,5.5,2.7,5.3,7.1,7.1,No,Severe,No
+IMP00033,46,Male,Master,Researcher,8,Hybrid,Large Corp,3.6,,3.9,2,2.9,,4.1,6.6,6.7,8.4,3.3,8.9,No,6.9,3.2,5.4,4.2,5.0,4.3,Yes,Moderate,Yes
+IMP00034,53,Male,Bachelor,Teacher,8,On-site,Large Corp,6.4,6.9,7.2,4,4.1,6.6,3.3,5.3,7.9,7.9,7.2,8.2,No,6.3,1.4,3.0,5.6,2.2,8.4,Yes,Mild,Yes
+IMP00035,47,Female,Bachelor,Entrepreneur,4,Hybrid,Startup,3.5,4.4,6.5,0,6.1,4.9,3.0,5.6,6.4,4.1,5.5,4.1,No,7.8,,8.0,6.1,1.7,2.6,Yes,,No
+IMP00036,53,Non-binary,Bachelor,Teacher,12,Remote,Startup,5.4,5.8,0.7,1,6.0,6.9,3.7,4.9,5.6,7.3,8.5,,No,9.8,,4.9,3.8,5.7,6.5,No,Severe,Yes
+IMP00037,46,Male,Bachelor,Analyst,2,On-site,Large Corp,6.4,3.5,5.0,1,4.4,6.4,1.5,8.9,0.0,9.1,9.6,3.2,No,7.4,4.6,5.9,4.3,0.1,9.5,No,Mild,No
+IMP00038,36,Male,PhD,Entrepreneur,12,On-site,Startup,4.3,2.9,3.5,2,4.8,7.3,4.9,8.7,1.5,5.3,6.4,3.4,Yes,5.4,6.7,7.8,,2.3,5.4,No,Mild,No
+IMP00039,23,Female,Bachelor,Teacher,4,On-site,Large Corp,5.7,5.4,5.2,1,8.2,6.8,,5.3,6.4,4.5,7.1,6.9,Yes,7.2,3.5,4.3,2.1,4.9,5.2,No,Moderate,Yes
+IMP00040,28,Male,Bachelor,Manager,5,Hybrid,Mid-size,8.1,5.0,4.1,1,3.3,10.0,6.0,7.7,2.8,6.9,4.6,,Yes,6.6,8.4,4.4,9.5,4.7,2.5,No,Mild,No
+IMP00041,54,Female,Master,Developer,9,Remote,Large Corp,2.5,8.3,2.4,4,3.3,5.7,4.4,9.0,8.2,6.2,3.8,6.2,No,0.2,5.8,5.7,3.9,0.0,1.7,No,Severe,Yes
+IMP00042,29,Female,Bachelor,Entrepreneur,6,On-site,Startup,,8.7,6.8,2,5.0,9.3,4.4,7.8,6.6,4.9,5.1,5.8,Yes,3.4,5.9,2.5,5.1,8.6,3.7,No,Moderate,Yes
+IMP00043,51,Female,Bachelor,Analyst,9,Hybrid,Large Corp,6.0,8.8,6.5,1,8.8,7.3,6.5,8.4,7.1,8.2,6.3,3.6,No,3.6,5.0,4.2,2.6,4.9,5.0,Yes,Severe,Yes
+IMP00044,45,Female,Master,Manager,4,Hybrid,Large Corp,7.9,6.1,3.7,0,2.9,8.0,7.4,6.8,2.8,5.5,7.8,5.5,No,5.8,1.4,6.9,8.3,0.0,6.8,No,Moderate,Yes
+IMP00045,46,Female,Bachelor,Teacher,10,Hybrid,Large Corp,5.6,3.7,2.8,2,6.6,6.2,4.6,7.0,4.7,7.6,3.9,3.4,No,5.6,8.5,6.5,2.6,,4.9,No,Severe,Yes
+IMP00046,21,Female,Master,Manager,11,On-site,Mid-size,4.5,5.9,7.4,4,0.0,5.9,3.7,7.3,0.6,3.6,2.7,6.7,Yes,5.1,8.9,5.2,3.6,6.6,6.5,No,Mild,Yes
+IMP00047,46,Male,Bachelor,Entrepreneur,12,On-site,Startup,4.4,8.7,0.7,0,6.4,5.8,7.0,7.8,7.4,3.2,5.1,4.1,Yes,5.7,5.7,7.8,7.1,5.5,2.8,No,Moderate,No
+IMP00048,49,,Bachelor,Analyst,12,Hybrid,,10.0,3.7,2.9,0,5.9,8.0,3.4,5.5,6.4,5.6,6.1,3.2,No,5.7,5.9,2.9,3.7,5.0,5.6,No,Mild,Yes
+IMP00049,35,Female,Master,Analyst,7,On-site,Large Corp,4.7,6.9,6.2,0,3.4,7.7,8.8,7.0,9.8,6.9,4.1,1.4,No,7.9,3.3,1.3,1.9,1.1,3.0,Yes,Severe,Yes
+IMP00050,26,Male,Master,Doctor,5,On-site,Large Corp,6.4,3.6,5.7,3,4.9,8.8,3.8,8.8,5.4,6.4,3.4,4.9,No,5.0,1.0,7.3,8.7,4.3,5.0,No,Mild,Yes
+IMP00051,39,Female,Master,Entrepreneur,9,Hybrid,Startup,0.7,3.6,7.3,1,6.7,5.4,4.4,2.9,3.3,4.0,4.4,5.9,Yes,2.5,4.4,6.3,5.4,5.8,4.0,Yes,,Yes
+IMP00052,53,Non-binary,Bachelor,Researcher,0,Remote,Startup,6.7,8.8,5.7,1,8.5,1.2,4.6,2.4,2.9,7.4,9.4,0.1,No,1.9,5.2,4.1,3.3,6.7,7.8,No,Mild,No
+IMP00053,25,Female,Master,Entrepreneur,7,On-site,Mid-size,4.4,6.9,6.7,3,6.8,5.7,6.5,7.4,4.0,5.9,5.7,5.7,No,4.8,4.1,4.8,4.7,0.9,5.7,Yes,Mild,No
+IMP00054,53,Non-binary,Bachelor,Entrepreneur,9,On-site,Mid-size,8.9,5.8,4.0,1,6.8,5.1,,7.2,3.8,6.3,6.1,9.2,Yes,6.2,4.1,6.8,4.3,4.3,5.3,No,Mild,No
+IMP00055,37,Female,Bachelor,Entrepreneur,0,On-site,Large Corp,5.5,6.5,6.0,3,4.7,0.5,4.0,5.4,5.3,4.4,3.5,0.0,Yes,4.6,6.9,6.1,5.6,3.8,5.7,Yes,,No
+IMP00056,22,Male,High School,Developer,15,On-site,Large Corp,6.3,4.5,5.4,1,4.4,8.2,4.5,9.7,5.8,6.1,,4.6,No,4.0,4.8,1.7,2.6,4.5,4.1,No,Severe,Yes
+IMP00057,22,Female,Bachelor,Manager,0,Hybrid,Large Corp,6.9,6.5,4.1,1,7.2,6.0,4.5,2.8,8.1,9.0,6.1,0.0,No,3.8,3.6,0.9,1.6,2.8,1.2,Yes,Mild,No
+IMP00058,48,Non-binary,High School,Developer,5,Remote,Large Corp,6.2,7.2,6.3,1,4.7,5.7,7.0,5.7,5.2,6.5,3.3,7.2,Yes,6.1,3.7,4.8,8.8,3.6,3.4,Yes,,No
+IMP00059,54,Female,PhD,Analyst,1,On-site,Large Corp,6.0,7.4,2.4,1,4.2,1.1,8.8,6.0,1.1,4.7,7.3,5.8,No,7.0,4.2,5.2,4.6,7.4,4.6,Yes,Moderate,No
+IMP00060,53,Non-binary,Bachelor,Analyst,3,On-site,Startup,2.6,2.3,5.1,1,7.8,5.6,6.1,7.5,9.1,5.9,7.7,4.7,No,3.9,4.6,3.1,6.8,3.8,6.5,No,Moderate,Yes
+IMP00061,52,Female,Bachelor,Teacher,5,Hybrid,Large Corp,6.9,5.0,3.3,0,3.2,4.9,5.7,6.5,2.6,4.2,8.7,3.6,No,6.3,4.1,8.1,5.0,2.1,8.6,Yes,Mild,No
+IMP00062,23,Male,Master,Analyst,6,On-site,Large Corp,8.5,3.8,3.4,6,7.4,1.6,6.4,5.5,5.9,3.3,,5.2,Yes,2.7,2.4,5.2,8.6,6.7,6.4,Yes,,No
+IMP00063,43,Male,Master,Designer,1,Remote,Startup,6.5,3.3,8.2,2,2.8,4.9,2.5,10.0,2.9,6.1,5.2,0.7,No,8.5,6.2,2.3,5.7,,7.0,Yes,,No
+IMP00064,31,Male,High School,Designer,0,On-site,Large Corp,5.8,2.7,2.7,3,4.4,7.8,7.5,7.9,5.3,2.3,2.6,5.8,Yes,7.4,3.9,5.7,3.1,8.3,7.6,No,Mild,Yes
+IMP00065,50,Non-binary,Master,Developer,1,Hybrid,Large Corp,6.8,4.0,6.4,1,5.5,0.3,5.3,5.8,5.3,5.9,7.1,4.5,No,7.5,6.8,,8.1,4.4,6.2,Yes,,Yes
+IMP00066,46,Non-binary,Master,Entrepreneur,10,Hybrid,Startup,5.5,5.8,3.2,1,2.3,6.2,4.0,10.0,7.2,8.7,3.8,6.0,Yes,4.8,5.0,4.0,7.0,5.9,5.8,No,Moderate,Yes
+IMP00067,38,Female,Bachelor,Analyst,12,Hybrid,Mid-size,7.2,7.7,3.3,0,1.9,3.9,,3.9,2.5,7.7,7.3,6.5,Yes,5.0,4.7,4.0,4.0,3.9,7.5,No,Mild,No
+IMP00068,24,Male,Master,Analyst,6,Remote,Large Corp,6.3,10.0,7.8,2,6.6,3.9,6.3,4.3,5.3,7.5,6.4,7.7,No,5.6,1.9,3.7,2.7,3.4,7.4,No,Moderate,No
+IMP00069,22,Female,Bachelor,Doctor,8,Remote,,3.3,1.5,0.4,1,2.2,4.0,2.3,6.2,4.7,2.6,7.9,3.3,Yes,4.5,6.2,4.7,,7.1,5.6,No,,No
+IMP00070,22,Female,Bachelor,Researcher,11,On-site,Mid-size,7.3,3.7,5.4,2,7.7,3.4,5.4,3.8,8.8,5.7,4.3,7.3,No,5.3,6.6,5.0,7.0,5.2,5.3,Yes,,No
+IMP00071,36,Male,Master,Teacher,6,Hybrid,Startup,7.7,9.7,6.5,3,4.9,6.2,4.3,3.0,8.9,4.3,7.2,10.0,Yes,3.6,4.4,4.7,5.2,1.4,3.0,Yes,Mild,Yes
+IMP00072,54,Male,Bachelor,Developer,0,Hybrid,Large Corp,2.6,5.8,4.7,2,3.7,3.2,4.9,2.8,4.0,9.7,5.9,0.0,Yes,3.0,5.6,0.9,7.9,7.6,5.0,Yes,,Yes
+IMP00073,54,Male,Master,Designer,0,Hybrid,Large Corp,7.8,4.0,8.7,1,6.3,2.9,,5.4,7.6,1.2,3.1,6.7,No,9.0,7.4,3.4,6.3,4.3,5.1,Yes,,Yes
+IMP00074,32,Female,Master,Researcher,2,Hybrid,Large Corp,4.3,6.8,3.3,2,3.8,5.0,4.5,6.9,5.4,6.8,7.3,4.5,No,1.9,5.7,2.1,3.7,6.0,7.9,No,Severe,Yes
+IMP00075,32,Female,High School,Analyst,4,Hybrid,Large Corp,8.9,4.6,7.3,4,2.0,7.6,5.3,5.3,6.9,6.0,5.5,2.1,Yes,8.6,4.8,5.3,5.4,6.2,7.3,No,,No
+IMP00076,34,Female,Bachelor,Designer,6,Hybrid,Startup,4.2,6.5,3.5,0,3.2,3.7,6.6,5.7,2.1,6.1,4.6,6.4,Yes,5.9,4.5,3.7,5.8,6.3,7.8,No,Mild,No
+IMP00077,43,Female,PhD,Analyst,0,Hybrid,Startup,6.5,5.2,4.9,1,6.3,5.3,5.7,5.7,0.7,6.2,4.7,4.0,,1.4,7.4,2.2,5.5,5.1,4.8,Yes,Moderate,Yes
+IMP00078,38,Male,High School,Analyst,0,Hybrid,Large Corp,6.9,7.6,7.1,2,4.8,3.9,8.6,5.0,5.1,5.0,0.0,7.2,No,4.7,3.9,6.9,7.4,5.2,5.1,No,Mild,No
+IMP00079,30,Male,Bachelor,Entrepreneur,5,Remote,Large Corp,6.3,4.2,4.0,2,5.4,4.9,4.6,5.7,4.9,9.5,3.2,3.8,No,7.7,5.4,6.7,5.4,4.8,9.2,Yes,Mild,No
+IMP00080,50,Female,Master,Designer,2,Remote,Mid-size,8.4,5.6,8.1,0,8.0,2.5,4.4,4.7,4.2,3.7,3.0,3.0,No,2.1,6.0,6.8,4.3,5.5,10.0,No,,No
+IMP00081,24,Non-binary,Bachelor,Developer,7,Remote,Mid-size,6.2,,7.7,1,3.9,7.3,7.4,8.4,7.2,6.1,4.8,3.1,No,3.4,7.7,2.4,6.9,8.4,5.6,Yes,Severe,No
+IMP00082,51,Male,High School,Analyst,6,,Large Corp,6.8,5.0,3.8,2,3.3,5.8,4.5,5.4,2.4,3.8,7.9,4.9,No,3.7,3.2,4.6,,7.5,2.4,No,Moderate,Yes
+IMP00083,49,Female,High School,Researcher,2,Remote,Startup,7.2,6.4,5.1,2,3.3,8.2,3.8,6.3,8.4,5.1,7.2,0.9,No,6.0,3.4,7.1,5.1,5.8,7.8,No,Moderate,Yes
+IMP00084,45,Female,Bachelor,Entrepreneur,7,Remote,Mid-size,4.3,0.0,3.7,3,7.4,3.2,9.0,6.3,5.1,4.9,,3.7,No,4.3,,2.5,9.6,3.6,2.3,Yes,,No
+IMP00085,22,Male,Bachelor,Researcher,10,Hybrid,Mid-size,10.0,5.7,6.9,1,4.4,7.2,4.2,4.1,5.0,5.9,4.1,3.0,No,2.6,6.0,4.2,,4.2,5.6,No,Mild,No
+IMP00086,22,Female,Bachelor,Teacher,0,On-site,Startup,7.9,5.8,1.1,1,7.8,5.7,4.5,9.3,6.7,5.6,1.4,4.0,Yes,4.9,3.4,5.3,3.8,4.0,3.0,No,Mild,No
+IMP00087,49,Male,PhD,Entrepreneur,9,Remote,Mid-size,6.5,3.2,3.6,1,2.3,5.8,4.9,5.8,5.5,5.3,5.7,0.0,No,2.1,5.1,2.3,3.6,3.5,5.4,Yes,Mild,No
+IMP00088,37,Female,PhD,Doctor,4,Hybrid,Mid-size,6.5,2.7,7.8,1,7.0,1.9,4.1,4.2,3.6,3.1,4.4,6.8,Yes,6.0,9.3,2.6,3.6,4.4,6.7,No,,No
+IMP00089,46,Non-binary,Bachelor,Developer,7,On-site,Mid-size,7.6,4.0,3.7,0,4.3,7.7,2.6,5.5,5.4,7.8,6.7,3.4,Yes,6.6,3.9,,6.4,2.9,1.9,Yes,,Yes
+IMP00090,31,Male,Bachelor,Developer,2,Hybrid,Startup,5.9,5.1,7.3,3,8.3,4.0,10.0,10.0,6.3,3.9,5.7,6.8,Yes,1.0,2.9,2.9,6.7,3.7,2.7,No,Mild,Yes
+IMP00091,30,Male,Master,Manager,7,,Mid-size,7.8,2.6,5.4,3,3.2,7.0,7.2,0.4,4.8,9.7,5.6,6.0,No,4.9,0.9,6.0,7.6,5.0,0.9,No,Mild,No
+IMP00092,25,Female,Master,Developer,10,Hybrid,Large Corp,5.1,8.3,3.7,1,6.9,4.5,6.0,6.6,3.3,4.6,4.2,7.1,Yes,1.9,6.9,4.2,6.9,3.1,4.4,Yes,Mild,No
+IMP00093,49,Male,Master,Developer,1,Remote,Large Corp,8.8,5.8,5.2,3,6.2,5.4,7.7,10.0,5.8,2.7,2.4,1.1,Yes,3.6,4.5,4.8,6.8,6.8,4.9,No,Mild,No
+IMP00094,37,Non-binary,High School,Developer,7,Hybrid,Mid-size,5.5,5.9,2.8,1,6.0,8.0,10.0,6.9,6.6,8.8,3.0,6.4,Yes,6.6,4.7,3.1,7.8,6.4,6.8,No,Moderate,Yes
+IMP00095,21,Male,Master,Manager,6,Remote,Startup,7.2,6.3,3.9,0,8.4,5.7,5.5,5.8,7.1,4.1,4.7,8.5,No,2.7,10.0,6.1,4.4,5.6,4.7,No,Severe,Yes
+IMP00096,51,Female,Bachelor,Teacher,6,Remote,Mid-size,5.1,7.2,5.7,0,7.9,7.0,7.5,5.1,4.3,7.7,5.1,5.4,Yes,3.0,3.8,3.4,7.9,3.3,,No,,No
+IMP00097,35,Female,Master,Entrepreneur,5,Hybrid,,4.9,2.5,5.6,1,7.4,6.9,4.7,5.0,7.5,4.5,4.3,3.9,No,3.8,7.7,5.3,7.5,8.2,7.2,No,Mild,No
+IMP00098,22,Female,Master,Developer,7,On-site,Startup,4.0,7.9,1.8,1,6.7,7.0,6.7,2.6,7.6,5.4,,10.0,No,2.5,5.6,4.2,,7.0,3.7,Yes,Severe,Yes
+IMP00099,35,Male,PhD,Designer,3,On-site,Mid-size,4.0,4.7,6.7,1,2.8,4.2,3.8,8.4,5.3,2.3,5.8,8.3,Yes,1.1,10.0,6.1,8.3,5.3,7.1,No,Mild,No
+IMP00100,22,Male,Master,Designer,4,Remote,Startup,4.2,7.8,6.4,1,2.4,9.1,5.1,8.4,8.3,5.3,0.5,5.2,Yes,3.6,6.4,3.9,6.0,4.9,2.6,Yes,Mild,No
+IMP00101,21,Non-binary,PhD,Developer,10,On-site,Startup,2.7,5.2,7.9,2,4.2,6.1,4.9,9.9,0.0,3.7,4.7,5.7,No,0.0,6.6,7.7,6.8,3.5,3.8,No,Severe,Yes
+IMP00102,24,Male,Bachelor,Teacher,3,Remote,Startup,5.0,3.7,1.2,1,8.0,6.5,4.4,8.2,7.2,6.3,4.7,8.5,No,0.0,4.8,7.4,0.4,5.4,7.0,Yes,Severe,Yes
+IMP00103,28,Female,Bachelor,Analyst,19,Hybrid,Large Corp,2.7,2.7,4.8,3,1.5,2.8,4.6,5.7,4.2,2.6,1.1,6.6,No,7.6,2.8,2.4,6.5,2.5,5.4,No,,No
+IMP00104,53,Non-binary,Bachelor,Designer,0,On-site,Mid-size,6.4,3.4,2.9,1,3.5,6.6,5.1,6.7,5.4,4.3,4.9,,No,6.3,3.2,6.7,5.0,4.5,5.3,No,Mild,Yes
+IMP00105,45,Female,PhD,Developer,0,Remote,Startup,5.0,,1.8,1,5.5,4.0,4.9,8.3,6.1,2.6,3.3,2.7,No,2.3,4.9,1.0,7.8,3.2,7.0,No,Severe,No
+IMP00106,51,Female,Master,Analyst,12,On-site,Mid-size,,5.5,8.3,2,7.8,8.6,3.5,8.0,7.7,4.1,4.6,6.1,Yes,4.5,,6.4,5.3,6.8,8.5,Yes,,No
+IMP00107,31,Male,Bachelor,Developer,4,On-site,Large Corp,4.0,5.4,0.6,1,3.8,7.0,5.7,5.9,3.3,2.1,3.6,4.1,Yes,3.1,4.3,9.9,3.6,2.6,4.7,No,Moderate,Yes
+IMP00108,50,Non-binary,PhD,Doctor,0,Remote,Mid-size,7.9,4.9,3.5,2,6.6,6.8,6.0,6.3,3.6,1.7,6.1,6.9,No,3.5,1.4,6.3,3.9,,2.9,No,Moderate,No
+IMP00109,44,Female,High School,Developer,8,Hybrid,Mid-size,3.8,10.0,2.5,0,3.6,4.2,5.9,8.7,5.0,3.6,5.3,4.9,No,2.1,7.7,3.1,3.8,2.2,5.9,No,Severe,Yes
+IMP00110,51,Male,Bachelor,Manager,11,Remote,Mid-size,3.7,2.6,2.1,2,4.7,4.5,5.8,3.6,5.1,4.4,4.0,4.4,Yes,6.7,3.9,0.9,3.9,7.1,4.1,No,,No
+IMP00111,33,Male,Bachelor,Developer,3,Hybrid,,9.3,4.4,3.6,4,2.7,8.2,4.7,5.2,3.4,8.3,1.3,4.4,Yes,5.8,6.1,3.3,6.3,0.9,5.6,Yes,,No
+IMP00112,39,Male,High School,Teacher,10,Hybrid,Mid-size,4.4,7.1,3.2,0,6.8,7.6,,6.0,3.4,8.4,7.0,5.1,No,7.8,0.7,5.0,6.4,7.0,6.8,No,Moderate,Yes
+IMP00113,47,Non-binary,High School,Analyst,3,Remote,Mid-size,6.7,3.9,2.9,0,4.9,10.0,4.8,4.3,2.9,5.0,6.3,6.6,Yes,7.4,4.4,6.0,2.6,3.5,3.1,No,Mild,No
+IMP00114,52,Male,Bachelor,Teacher,8,Remote,Large Corp,2.0,6.4,5.7,2,5.7,3.1,5.5,4.1,7.9,5.7,6.7,5.2,No,4.8,1.3,4.5,6.4,5.7,7.3,,Mild,No
+IMP00115,36,Female,PhD,Entrepreneur,6,On-site,Large Corp,6.9,3.6,5.4,3,1.9,,3.9,2.5,0.7,5.1,,2.7,No,6.8,1.4,,4.9,7.0,6.8,No,Moderate,Yes
+IMP00116,46,Non-binary,Bachelor,Developer,7,Hybrid,Large Corp,4.8,6.8,0.8,1,2.8,8.1,10.0,7.1,3.9,7.9,8.2,1.7,No,5.2,6.3,4.4,8.8,6.5,5.7,No,Severe,Yes
+IMP00117,39,Female,Master,Developer,2,Remote,Startup,4.7,6.5,1.0,2,2.5,7.8,5.2,9.8,4.2,7.7,7.3,3.5,No,4.8,3.9,2.0,7.2,2.0,6.0,No,Severe,Yes
+IMP00118,35,Male,Bachelor,Doctor,10,Remote,Large Corp,5.2,4.0,4.4,0,5.4,6.0,8.3,6.4,5.2,8.5,7.2,5.3,Yes,4.6,5.0,6.9,9.7,,7.7,No,Mild,No
+IMP00119,24,Female,Bachelor,Analyst,5,Hybrid,Large Corp,6.4,8.4,6.9,0,4.0,6.4,4.1,6.6,6.7,5.5,2.7,4.8,No,3.1,2.5,6.1,7.1,4.2,1.4,No,Mild,No
+IMP00120,47,Female,High School,Analyst,8,On-site,Large Corp,4.5,4.0,4.2,1,2.9,3.2,6.1,8.5,8.2,2.9,6.1,7.0,No,6.4,9.0,8.6,8.9,3.6,4.8,,Mild,Yes
+IMP00121,33,Female,Master,Manager,4,Remote,Mid-size,6.3,6.1,8.7,1,4.9,3.3,8.7,3.6,5.0,4.9,8.2,2.4,No,3.8,2.9,3.0,4.0,1.8,4.3,Yes,,No
+IMP00122,22,Male,High School,Entrepreneur,0,On-site,Startup,6.2,5.1,7.3,2,1.6,7.6,3.4,7.0,3.5,5.7,7.0,3.3,No,6.6,3.8,3.9,4.5,3.3,5.0,No,Moderate,No
+IMP00123,26,Male,Master,Developer,7,Hybrid,Startup,6.3,8.1,0.0,3,5.2,5.6,6.4,6.1,5.6,5.4,9.1,4.5,No,7.6,7.0,3.4,6.2,3.2,4.7,Yes,Moderate,No
+IMP00124,31,Female,Master,Doctor,6,,Startup,6.2,0.2,5.4,2,3.6,8.8,3.9,2.7,8.5,7.7,3.0,3.4,No,7.1,3.0,2.4,8.3,,5.4,No,Mild,Yes
+IMP00125,24,Female,Master,Teacher,8,Remote,Mid-size,5.9,,5.7,1,1.1,5.7,7.1,3.8,4.5,6.5,8.4,2.1,No,0.8,5.0,3.3,5.3,1.7,8.2,Yes,Mild,Yes
+IMP00126,43,Non-binary,Master,Entrepreneur,5,On-site,Mid-size,4.8,6.0,4.7,1,4.0,7.1,5.7,2.7,4.9,5.9,6.0,1.9,Yes,7.5,5.7,4.0,6.0,7.1,8.2,No,Mild,No
+IMP00127,26,Female,Bachelor,Manager,3,Remote,Large Corp,7.0,3.6,4.3,0,6.9,4.8,7.2,5.2,4.7,4.4,5.8,6.3,No,4.4,9.2,5.8,1.9,3.8,4.8,Yes,Moderate,Yes
+IMP00128,32,Male,Master,Doctor,2,On-site,Large Corp,2.0,3.4,6.5,4,3.1,5.1,7.2,8.1,2.4,3.9,10.0,4.5,No,3.6,2.3,,,1.8,4.3,Yes,Moderate,No
+IMP00129,40,Female,Bachelor,Developer,0,Remote,,8.7,3.6,7.2,2,6.0,3.1,3.9,7.6,0.1,4.9,8.7,3.5,Yes,7.6,3.2,1.1,6.1,7.1,6.6,No,,No
+IMP00130,32,Non-binary,High School,Teacher,11,Hybrid,Large Corp,3.7,7.0,3.9,0,4.0,7.5,8.6,5.2,1.4,3.9,2.4,5.5,No,4.0,4.2,2.4,,5.9,7.2,Yes,Moderate,No
+IMP00131,21,Female,PhD,Manager,0,Remote,Large Corp,6.9,7.0,3.2,1,4.9,6.2,6.3,6.4,5.1,3.3,3.0,4.8,No,4.5,2.7,2.5,5.1,6.3,0.0,Yes,Moderate,No
+IMP00132,26,Male,Bachelor,Developer,7,Hybrid,Mid-size,5.8,3.0,5.2,2,6.0,8.5,,6.2,7.3,9.3,6.1,6.8,Yes,3.9,6.1,2.6,5.1,2.9,5.3,No,Moderate,No
+IMP00133,22,Male,High School,Analyst,3,Remote,Mid-size,6.8,4.2,6.2,1,3.8,3.2,3.6,2.5,2.5,5.8,6.6,,Yes,4.1,4.9,4.5,3.8,4.8,7.4,No,,No
+IMP00134,47,Male,Bachelor,Designer,5,Remote,Startup,8.7,7.5,4.6,1,5.0,6.8,4.0,4.7,3.6,6.1,1.8,6.9,No,3.5,3.5,0.0,6.1,2.8,5.7,Yes,Mild,No
+IMP00135,42,Male,Bachelor,Manager,11,On-site,Large Corp,6.5,5.1,5.8,0,5.0,4.3,4.1,3.9,0.5,5.3,1.8,2.9,Yes,6.8,3.7,3.1,,8.6,5.3,No,,No
+IMP00136,37,,Master,Developer,2,Remote,Mid-size,1.2,2.0,4.1,2,9.1,9.8,5.6,5.0,4.8,2.6,4.4,3.2,Yes,3.7,,6.9,6.1,3.1,5.0,No,,No
+IMP00137,34,Male,Bachelor,Entrepreneur,9,On-site,Large Corp,5.4,6.5,2.6,0,1.8,3.9,6.8,8.3,6.6,4.7,5.8,4.6,No,10.0,4.9,5.3,,5.0,2.8,No,Severe,Yes
+IMP00138,36,Male,Bachelor,Manager,7,Remote,Mid-size,4.3,5.5,5.5,2,2.5,6.8,2.6,10.0,5.4,5.4,2.8,3.2,Yes,3.8,7.5,2.9,6.1,9.3,7.3,No,Mild,No
+IMP00139,44,Male,Bachelor,Researcher,11,On-site,Large Corp,1.9,6.5,5.5,1,8.1,9.2,5.4,5.7,2.2,4.1,6.9,,No,6.1,5.4,3.0,5.1,5.5,1.6,No,Severe,Yes
+IMP00140,23,Female,Master,Developer,0,Hybrid,Large Corp,7.3,6.8,5.5,1,3.9,6.5,8.9,6.5,5.6,5.8,4.0,3.1,Yes,2.5,7.7,9.8,3.8,6.3,4.6,No,Severe,No
+IMP00141,36,Female,PhD,Developer,4,Remote,Startup,7.3,6.9,8.4,1,1.6,,4.0,8.8,3.5,5.3,5.9,4.0,No,2.2,3.4,7.5,0.2,,6.5,No,Severe,No
+IMP00142,32,Male,Bachelor,Designer,13,Hybrid,Startup,4.3,5.2,6.5,4,4.6,7.3,4.6,4.6,5.9,4.5,9.2,6.2,Yes,6.8,3.6,1.8,2.9,3.4,4.7,Yes,,Yes
+IMP00143,49,Male,Master,Entrepreneur,1,Remote,Large Corp,5.5,5.8,5.2,3,3.3,4.8,3.0,7.9,2.8,4.9,4.5,5.6,No,5.5,3.2,2.4,7.2,,8.9,Yes,Mild,No
+IMP00144,40,Male,Master,Teacher,6,On-site,,4.8,5.8,3.2,0,6.9,1.6,5.1,5.8,4.0,5.4,6.6,6.0,Yes,5.3,7.0,5.1,8.8,5.9,4.0,No,Mild,No
+IMP00145,39,Female,PhD,Teacher,4,Hybrid,Large Corp,4.0,8.2,3.6,1,4.1,2.3,3.6,6.0,6.9,6.4,9.2,6.2,No,5.8,5.9,1.5,3.5,0.8,7.4,No,Severe,Yes
+IMP00146,44,Female,Master,Developer,0,Hybrid,Mid-size,4.4,0.0,2.5,1,6.1,4.0,4.5,5.2,4.6,6.1,8.4,10.0,No,5.3,8.0,3.8,4.9,1.1,4.8,Yes,Mild,No
+IMP00147,47,Male,Bachelor,Researcher,11,Remote,Large Corp,2.0,2.9,2.7,1,6.7,5.8,5.1,3.9,8.5,9.0,1.3,6.2,No,3.1,6.9,6.1,4.9,3.3,0.9,No,Moderate,Yes
+IMP00148,37,Female,Bachelor,Teacher,2,Hybrid,Large Corp,7.6,5.2,6.4,4,7.0,6.0,,3.1,6.8,2.5,5.5,5.8,No,3.8,6.3,,2.6,5.3,8.5,Yes,Mild,No
+IMP00149,35,Non-binary,Bachelor,Designer,5,Remote,Large Corp,3.9,2.6,4.6,0,4.0,9.4,5.1,5.7,3.1,5.3,2.8,4.5,No,4.8,6.3,,2.9,8.7,6.3,Yes,Moderate,Yes
+IMP00150,28,Male,Master,Manager,6,On-site,Mid-size,4.9,10.0,2.7,1,3.9,,4.7,6.1,9.7,4.4,7.2,5.9,No,7.9,7.5,5.6,6.4,4.6,6.0,,Severe,Yes
+IMP00151,54,Male,Master,Analyst,1,Hybrid,,1.8,1.0,1.1,2,3.0,,6.0,3.7,6.6,7.3,5.6,4.1,Yes,3.6,7.4,3.3,6.6,4.8,4.2,No,Moderate,Yes
+IMP00152,31,Male,Master,Doctor,12,Remote,Startup,7.6,3.3,7.6,1,5.2,6.7,5.0,5.3,2.8,4.7,6.6,6.8,No,5.7,3.2,6.8,,1.0,3.0,No,Mild,No
+IMP00153,52,Male,Bachelor,Manager,5,Hybrid,Mid-size,,2.9,7.0,0,2.7,5.2,2.9,5.4,0.0,5.9,4.8,4.8,,3.6,3.2,1.6,2.0,5.4,6.6,No,Mild,No
+IMP00154,43,Female,Bachelor,Manager,1,Hybrid,Startup,8.5,10.0,5.8,4,8.3,6.8,9.4,5.3,7.3,5.2,3.8,5.9,,4.8,5.9,6.0,7.7,4.1,2.5,Yes,Moderate,No
+IMP00155,21,Female,Bachelor,Developer,6,,Startup,4.6,8.3,3.8,0,8.8,6.2,6.1,8.8,1.7,6.6,6.2,2.0,Yes,8.0,3.0,3.3,3.5,0.9,3.8,No,Mild,No
+IMP00156,38,Male,High School,Developer,6,Hybrid,Startup,5.6,3.7,3.5,1,0.0,4.2,4.1,5.7,4.3,5.7,7.0,5.2,Yes,0.0,4.8,8.3,6.6,4.6,4.4,No,Mild,No
+IMP00157,22,Non-binary,Master,Manager,0,Remote,Mid-size,5.1,2.7,4.3,0,3.5,5.4,3.5,5.2,5.8,5.0,,8.1,No,5.6,2.9,5.8,8.9,5.5,,No,,No
+IMP00158,26,Female,Master,Entrepreneur,7,Remote,Large Corp,8.0,4.7,3.2,0,6.6,5.6,4.2,2.6,5.1,6.8,7.1,6.2,Yes,2.7,7.0,2.3,6.7,4.7,6.5,Yes,,No
+IMP00159,43,Female,Bachelor,Researcher,3,Hybrid,Mid-size,7.0,5.2,3.7,1,7.0,6.7,8.7,5.4,4.8,4.5,10.0,7.3,Yes,3.4,4.4,0.7,0.9,5.9,8.3,No,Severe,No
+IMP00160,42,Male,PhD,Developer,4,On-site,Mid-size,1.1,4.4,3.6,0,6.5,8.2,4.8,7.7,3.9,4.8,6.5,7.1,Yes,6.5,3.4,1.6,4.5,,4.5,Yes,Moderate,Yes
+IMP00161,31,Non-binary,Master,Analyst,5,Hybrid,Mid-size,7.4,4.9,4.7,0,6.6,6.8,5.8,8.3,6.7,5.4,7.0,5.2,No,2.9,5.2,6.2,5.5,4.2,6.1,No,Severe,Yes
+IMP00162,32,Non-binary,Master,Developer,2,Hybrid,Large Corp,2.9,6.3,7.3,1,5.4,2.1,5.2,7.8,4.8,4.6,10.0,,Yes,3.1,3.5,6.3,7.1,0.0,3.8,Yes,,No
+IMP00163,36,Female,Bachelor,Teacher,3,Hybrid,Mid-size,5.7,5.6,0.4,2,4.4,8.2,6.3,7.5,4.2,6.1,6.9,4.6,No,4.4,3.8,,4.5,4.1,4.4,No,Severe,Yes
+IMP00164,34,Non-binary,Master,Designer,3,Remote,Startup,8.3,8.9,4.5,0,8.1,6.6,5.6,8.4,2.6,5.5,,6.5,Yes,2.7,,3.5,9.1,6.1,8.2,No,Moderate,No
+IMP00165,40,Female,High School,Designer,7,Hybrid,Mid-size,3.8,4.6,2.9,1,3.4,3.6,4.9,8.4,6.1,5.3,6.0,7.5,Yes,7.1,4.6,5.3,3.9,5.9,2.8,Yes,Mild,No
+IMP00166,30,Non-binary,Master,Entrepreneur,13,On-site,Startup,4.5,5.6,3.4,2,5.7,6.1,5.3,7.5,6.3,9.2,9.3,6.4,No,7.2,5.5,7.3,4.8,3.4,2.4,No,Severe,Yes
+IMP00167,53,Female,Bachelor,Designer,10,Hybrid,Large Corp,4.8,4.8,5.4,1,5.0,5.8,4.5,8.4,5.8,4.8,5.7,4.1,Yes,8.1,6.0,0.8,7.3,3.2,4.2,No,,No
+IMP00168,39,Female,Master,Developer,11,Remote,Mid-size,10.0,8.2,5.7,5,3.2,7.7,5.7,8.1,5.9,6.4,3.8,2.7,No,6.3,6.1,3.5,6.4,9.0,3.7,No,Moderate,No
+IMP00169,24,Male,Bachelor,Analyst,1,Remote,Startup,7.4,6.9,4.2,2,6.6,4.6,3.3,6.7,3.8,2.8,4.8,5.9,No,4.7,,2.8,7.6,6.6,5.5,No,Mild,Yes
+IMP00170,24,Male,Bachelor,Manager,4,Remote,Large Corp,4.8,3.7,6.7,1,2.1,4.0,7.4,9.5,7.1,5.8,3.4,6.1,Yes,5.6,5.3,1.1,4.8,6.0,8.0,Yes,Mild,Yes
+IMP00171,30,Female,Master,Analyst,8,Hybrid,Startup,6.7,5.6,4.4,0,8.7,6.3,5.3,7.3,6.4,5.0,6.8,3.3,No,6.1,5.7,6.0,2.2,7.4,6.7,No,Severe,Yes
+IMP00172,46,Female,PhD,Manager,0,Remote,Mid-size,5.4,3.5,6.3,2,5.1,,3.8,5.1,4.0,4.4,3.4,9.4,No,6.4,4.1,5.0,5.2,4.4,5.7,No,,No
+IMP00173,47,Male,Bachelor,Researcher,11,On-site,Large Corp,5.0,5.2,4.3,2,3.2,5.2,4.8,6.2,10.0,2.5,4.1,5.8,Yes,3.2,7.7,7.2,9.0,5.1,6.7,No,Mild,Yes
+IMP00174,23,Female,Bachelor,Analyst,12,On-site,Startup,5.2,8.6,6.0,1,4.0,5.9,0.9,5.9,6.0,4.0,4.1,4.8,No,4.3,7.3,5.4,6.9,5.6,3.1,No,Mild,No
+IMP00175,22,Female,Master,Doctor,10,Remote,Mid-size,4.0,5.7,4.1,0,6.3,7.2,7.1,5.6,8.2,0.0,4.1,3.4,Yes,4.1,2.2,6.7,6.7,2.4,4.7,No,,No
+IMP00176,45,Male,Bachelor,Doctor,9,Remote,Large Corp,5.5,4.0,4.7,3,3.0,6.9,6.8,5.1,5.8,5.1,3.0,9.9,No,4.0,6.6,10.0,3.6,1.4,6.5,Yes,Moderate,Yes
+IMP00177,32,Female,Master,Teacher,9,On-site,Large Corp,9.1,4.8,9.1,0,6.6,,,4.5,5.8,5.0,5.6,3.8,Yes,6.9,7.3,6.2,7.5,6.6,3.6,Yes,,No
+IMP00178,42,Male,Master,Developer,8,Remote,Startup,5.5,2.5,3.1,1,6.7,5.6,8.1,7.5,7.8,5.5,,6.7,Yes,2.6,6.5,3.4,5.8,3.0,2.8,Yes,Mild,No
+IMP00179,51,Female,Master,Designer,9,Remote,Mid-size,,3.9,7.4,2,6.9,6.5,5.9,9.3,2.6,5.4,4.6,4.9,No,5.2,1.9,8.1,6.5,6.3,6.7,No,Mild,No
+IMP00180,32,Male,Master,Doctor,1,Remote,Startup,6.0,2.7,5.8,2,2.3,3.3,,7.2,2.8,2.5,2.9,6.7,Yes,0.0,3.9,2.1,7.9,4.8,9.0,No,,No
+IMP00181,54,Male,Master,Researcher,0,On-site,Startup,7.1,3.1,6.8,0,6.2,4.9,4.5,5.7,5.5,7.7,2.4,4.0,No,6.3,6.0,4.8,5.8,3.3,6.4,No,Mild,No
+IMP00182,32,Male,Master,Analyst,5,On-site,Mid-size,8.0,4.2,7.2,1,8.6,4.6,4.2,6.7,3.9,8.1,,5.9,No,8.0,2.2,2.0,6.6,4.5,4.5,No,,No
+IMP00183,26,Male,High School,Manager,0,Hybrid,Startup,6.6,2.2,1.2,2,3.2,6.3,8.4,5.3,2.8,4.0,6.0,6.1,Yes,3.4,7.3,2.9,4.3,5.3,0.0,,Moderate,No
+IMP00184,22,Non-binary,PhD,Entrepreneur,3,Remote,Mid-size,5.3,9.5,4.6,3,4.9,6.9,4.3,4.1,5.3,7.7,7.6,7.1,Yes,3.5,6.4,4.3,8.4,6.7,4.9,No,Severe,No
+IMP00185,28,Male,Bachelor,Entrepreneur,8,On-site,Mid-size,8.7,6.5,3.5,2,5.3,9.7,5.6,6.5,4.9,4.5,5.7,5.5,Yes,8.9,6.8,6.2,4.9,5.5,1.8,No,Moderate,No
+IMP00186,34,Female,Bachelor,Teacher,7,Hybrid,Large Corp,,6.5,5.5,4,6.5,8.6,9.3,5.5,6.2,4.7,5.3,6.8,No,6.3,4.1,4.6,7.4,5.1,6.1,No,Severe,No
+IMP00187,41,Male,High School,Researcher,8,Remote,Large Corp,6.0,5.4,3.7,2,4.8,2.6,5.9,4.5,5.4,6.1,7.5,10.0,,3.5,3.3,4.0,5.9,5.9,8.8,Yes,,No
+IMP00188,34,Male,Bachelor,Entrepreneur,0,,Mid-size,3.4,7.3,7.4,2,2.3,5.6,2.9,5.0,5.1,4.7,7.7,3.6,No,4.0,4.8,2.1,6.5,1.1,3.8,,Mild,No
+IMP00189,49,,Bachelor,Developer,5,Hybrid,,4.6,5.4,3.4,0,7.8,6.5,3.4,1.3,2.5,5.2,5.8,4.3,Yes,6.2,5.2,4.8,7.6,3.7,4.6,No,,No
+IMP00190,24,Non-binary,PhD,Developer,3,Hybrid,Large Corp,3.9,10.0,5.4,0,4.1,4.8,7.6,6.3,5.2,4.8,4.8,4.3,Yes,2.6,3.6,4.9,5.9,8.0,8.1,No,Severe,Yes
+IMP00191,21,Non-binary,Bachelor,Researcher,1,On-site,Large Corp,7.6,5.6,2.0,2,5.5,5.0,4.3,4.0,3.5,1.5,5.1,1.9,Yes,2.3,4.5,4.9,6.2,5.3,6.6,No,,No
+IMP00192,36,Non-binary,PhD,Developer,3,Hybrid,Startup,3.6,5.4,3.6,0,4.3,8.2,3.4,9.8,7.8,6.0,6.8,3.5,No,2.1,6.9,5.6,2.6,0.5,6.1,No,Severe,Yes
+IMP00193,24,Male,Master,Analyst,9,Hybrid,Large Corp,6.5,6.9,6.5,2,8.3,7.3,2.8,6.5,9.3,3.1,5.3,5.1,Yes,2.6,0.4,3.0,6.7,3.9,7.5,No,,No
+IMP00194,49,Female,Master,Entrepreneur,6,Hybrid,Startup,5.7,2.3,6.3,1,4.9,5.9,6.1,7.7,5.4,6.5,5.0,3.4,No,6.1,3.6,4.4,6.6,10.0,2.5,No,Moderate,Yes
+IMP00195,30,Male,Bachelor,Entrepreneur,12,Hybrid,Large Corp,6.4,5.5,4.2,2,3.8,6.6,3.3,7.5,7.1,3.2,8.9,6.7,No,6.5,7.4,5.0,6.1,5.1,5.2,No,Severe,Yes
+IMP00196,38,Female,Master,Developer,4,Remote,Large Corp,5.3,7.5,4.6,0,5.9,0.0,3.3,4.0,6.0,3.8,6.8,4.0,No,3.6,6.5,7.7,3.2,5.8,6.6,No,Moderate,Yes
+IMP00197,27,Non-binary,Master,Doctor,8,On-site,Startup,6.9,9.0,6.0,2,1.9,10.0,10.0,5.5,7.1,7.3,5.5,4.7,No,2.0,7.2,4.6,7.6,7.3,3.8,No,Severe,Yes
+IMP00198,22,Male,High School,Designer,9,Hybrid,Startup,2.8,4.4,4.8,1,4.2,7.8,6.9,4.4,7.5,5.1,6.7,2.1,No,2.4,7.1,2.7,7.7,4.8,7.1,No,Mild,No
+IMP00199,51,Male,PhD,Designer,3,Hybrid,Mid-size,2.8,4.7,6.2,1,0.6,6.3,3.0,4.4,8.4,7.6,3.0,,No,6.4,4.6,4.9,7.3,5.0,4.5,No,Moderate,No
+IMP00200,40,Male,Bachelor,Developer,5,Remote,Startup,7.0,7.0,5.3,1,7.0,5.6,4.5,7.7,2.0,7.1,10.0,2.2,Yes,4.4,7.3,7.3,6.6,4.6,4.3,No,Moderate,No
+IMP00201,43,Female,Master,Analyst,5,Remote,Mid-size,5.8,5.5,7.4,4,3.2,1.3,6.8,7.5,4.4,4.3,6.8,6.1,No,4.2,0.9,6.2,,4.4,5.9,No,Mild,No
+IMP00202,54,Male,Master,Designer,4,On-site,Startup,7.6,6.8,6.4,1,5.1,5.9,8.4,6.1,4.3,6.0,3.9,5.3,No,7.5,4.3,6.6,7.3,6.8,3.4,Yes,Mild,No
+IMP00203,43,Female,Bachelor,Manager,10,Hybrid,Large Corp,4.5,4.4,7.6,2,4.1,3.8,4.9,3.9,9.7,7.9,10.0,5.0,No,5.1,3.7,0.6,4.0,3.9,6.7,Yes,Moderate,Yes
+IMP00204,33,Female,Bachelor,Developer,2,On-site,Large Corp,6.1,0.7,7.6,1,3.9,6.8,6.9,5.2,5.8,3.7,5.2,7.2,Yes,6.7,5.1,5.5,4.4,,6.8,No,Mild,No
+IMP00205,44,Male,Master,Researcher,0,Hybrid,Large Corp,6.8,5.0,3.3,2,6.1,2.5,8.0,10.0,10.0,4.3,4.7,1.6,Yes,0.5,5.1,2.3,1.8,9.3,6.5,Yes,Moderate,No
+IMP00206,28,Female,Bachelor,Analyst,8,Remote,Mid-size,1.4,7.8,7.2,0,3.0,3.3,4.1,8.2,5.4,4.0,1.5,10.0,No,4.1,8.9,1.9,4.7,6.7,5.2,No,Severe,Yes
+IMP00207,39,Female,Master,Teacher,6,On-site,Startup,4.9,8.0,4.0,1,4.1,7.4,0.0,5.4,3.4,7.0,7.5,2.8,No,5.1,4.6,4.3,6.8,2.4,2.6,Yes,Mild,No
+IMP00208,50,Male,High School,Researcher,7,Remote,Startup,8.1,0.0,5.6,3,8.6,0.6,,8.2,4.9,2.0,6.7,5.5,Yes,3.4,3.8,3.3,5.0,5.5,4.0,Yes,,Yes
+IMP00209,52,Male,High School,Analyst,7,Remote,Startup,6.6,3.5,6.8,1,7.7,3.2,7.1,8.2,5.9,9.0,6.8,4.6,No,5.2,3.2,5.5,7.1,5.2,9.5,No,Mild,Yes
+IMP00210,47,Female,Master,Analyst,7,On-site,Startup,5.8,7.1,5.9,2,3.0,6.4,9.6,3.1,2.2,3.6,7.3,7.4,No,2.6,1.7,6.7,6.2,4.8,7.5,No,Severe,Yes
+IMP00211,42,Male,PhD,Designer,2,On-site,Startup,1.4,5.1,3.7,2,8.4,7.8,9.5,4.5,4.0,7.6,5.5,8.1,No,3.3,6.5,4.0,5.1,8.4,4.9,No,Severe,Yes
+IMP00212,44,Female,PhD,Researcher,10,Remote,Startup,3.7,6.7,3.4,2,6.3,6.4,7.0,4.5,7.1,5.2,10.0,8.4,No,4.5,2.6,,5.4,4.1,8.2,No,Severe,Yes
+IMP00213,40,Female,Bachelor,Researcher,3,On-site,Startup,4.9,7.4,5.9,0,7.2,10.0,2.7,6.3,5.4,3.4,2.8,5.9,,7.9,8.6,0.5,8.3,6.5,4.6,Yes,,No
+IMP00214,33,Male,Bachelor,Manager,7,On-site,Mid-size,6.4,7.1,6.4,2,8.0,5.2,7.6,6.1,1.4,10.0,0.8,4.0,No,3.9,1.9,8.9,3.5,1.4,5.1,Yes,,No
+IMP00215,26,Female,Master,Developer,6,Hybrid,Startup,5.1,4.0,3.5,0,7.6,6.4,6.5,8.2,7.8,6.1,5.1,3.3,Yes,4.7,3.8,1.2,9.5,5.6,7.3,Yes,,No
+IMP00216,44,Female,Bachelor,Developer,6,Hybrid,Startup,6.5,3.9,0.0,5,4.6,4.0,2.8,9.4,3.4,4.5,6.5,2.5,Yes,2.8,0.0,4.7,4.7,0.0,3.1,Yes,,No
+IMP00217,26,Male,PhD,Analyst,3,On-site,Mid-size,2.0,3.3,6.2,1,5.4,7.1,6.1,5.0,3.9,5.6,5.8,4.4,No,2.0,7.3,4.5,4.5,9.6,0.5,Yes,Moderate,Yes
+IMP00218,37,Female,Bachelor,Designer,3,Hybrid,Mid-size,5.2,0.2,4.3,2,2.6,2.5,7.5,8.0,7.0,4.8,5.7,2.4,Yes,4.3,3.2,4.4,5.1,6.0,7.3,No,,Yes
+IMP00219,54,Male,Bachelor,Researcher,15,On-site,Mid-size,4.9,3.9,4.0,1,4.4,6.9,,7.4,3.1,3.4,5.6,6.5,Yes,1.2,4.9,1.4,7.9,3.7,6.8,No,,No
+IMP00220,53,Male,PhD,Analyst,7,On-site,Mid-size,3.2,4.4,2.9,0,6.7,8.1,5.2,5.5,9.2,4.8,4.2,6.1,Yes,5.9,5.7,3.3,3.5,7.1,0.4,No,Moderate,No
+IMP00221,48,Female,Bachelor,Researcher,3,Remote,Mid-size,5.3,3.5,6.1,5,2.8,6.2,2.3,1.5,6.2,1.8,7.4,4.5,No,8.5,7.2,5.2,6.4,5.0,6.5,No,,No
+IMP00222,36,Male,High School,Developer,3,On-site,Large Corp,6.5,7.1,4.2,3,3.1,5.0,4.4,5.7,5.5,3.5,5.8,5.5,,6.9,3.8,4.7,4.7,,4.0,No,,Yes
+IMP00223,48,Non-binary,Master,Doctor,8,On-site,Large Corp,4.3,5.7,5.3,0,4.9,1.4,4.8,3.4,9.0,5.6,7.2,5.2,No,5.5,4.2,2.4,8.1,2.1,6.4,No,Mild,No
+IMP00224,50,Male,Bachelor,Developer,11,On-site,Mid-size,1.8,3.3,3.6,0,5.3,6.3,7.5,7.7,5.7,5.9,6.6,5.0,No,5.7,2.9,3.5,5.5,6.1,2.6,No,Moderate,Yes
+IMP00225,25,Male,Bachelor,Developer,3,On-site,Startup,5.3,2.6,3.2,0,4.8,7.6,,8.8,3.2,4.1,4.9,2.4,No,5.6,7.1,3.1,4.7,7.5,8.8,No,Severe,Yes
+IMP00226,31,Female,Master,Analyst,10,Hybrid,Mid-size,7.6,6.4,5.9,0,7.0,5.7,6.5,4.7,7.9,7.6,9.6,0.0,No,6.3,4.0,6.4,6.7,5.5,2.8,No,Moderate,No
+IMP00227,45,Female,Bachelor,Manager,7,Remote,Large Corp,4.8,5.1,6.2,1,5.3,,4.6,2.1,3.2,7.3,6.1,6.1,Yes,5.5,3.4,5.6,8.7,5.2,3.6,Yes,,No
+IMP00228,45,Female,Master,Developer,7,Remote,Large Corp,2.3,7.7,6.0,3,3.5,4.0,4.4,5.7,6.0,1.5,4.1,9.0,No,4.9,8.5,7.5,4.1,,5.2,No,Severe,Yes
+IMP00229,34,Male,Bachelor,Entrepreneur,6,Remote,Mid-size,2.3,3.5,3.6,2,6.3,6.2,6.5,3.7,6.6,6.1,4.9,5.8,No,3.1,3.9,5.8,5.9,6.5,7.0,Yes,Mild,No
+IMP00230,23,Male,Bachelor,Teacher,8,Remote,Large Corp,2.4,2.0,6.2,1,6.6,4.3,5.8,6.1,5.7,5.9,,5.6,No,7.4,4.3,3.7,7.3,3.8,3.9,No,,No
+IMP00231,27,Male,Bachelor,Manager,0,Remote,Mid-size,8.9,4.3,4.5,1,4.7,,6.8,7.1,3.1,7.9,5.0,4.6,No,3.0,4.6,5.3,8.6,5.3,5.7,No,Mild,No
+IMP00232,45,Male,Master,Teacher,12,Hybrid,Large Corp,4.0,5.2,4.5,1,2.4,9.7,7.5,6.4,4.8,8.1,7.5,7.0,Yes,6.9,6.9,3.4,8.0,3.4,5.8,No,Severe,Yes
+IMP00233,38,Female,PhD,Analyst,4,On-site,Large Corp,1.0,5.0,5.2,1,10.0,4.6,7.4,6.8,6.6,6.0,9.1,4.7,No,2.5,2.8,8.2,4.7,2.5,2.5,No,Severe,Yes
+IMP00234,47,Non-binary,Bachelor,Manager,6,On-site,Large Corp,8.4,4.8,2.7,2,5.3,2.9,4.0,6.9,3.3,5.6,3.3,2.1,No,5.4,4.2,7.6,4.9,1.5,2.7,No,,No
+IMP00235,49,Male,Bachelor,Entrepreneur,2,,Large Corp,5.5,4.9,6.0,1,4.0,4.1,5.6,9.3,2.7,2.6,5.3,8.1,No,8.0,0.9,9.4,3.0,5.7,2.2,Yes,Mild,No
+IMP00236,25,Female,Bachelor,Developer,11,Remote,Large Corp,0.9,7.3,7.7,0,4.6,2.7,3.2,2.9,5.3,4.6,5.7,5.4,Yes,4.8,6.9,0.0,8.6,4.3,6.4,No,,No
+IMP00237,43,,Master,Developer,8,Hybrid,Startup,4.8,1.3,5.5,1,3.3,7.2,1.4,5.5,2.1,9.0,3.9,7.1,Yes,2.4,4.5,4.5,7.0,6.1,5.0,Yes,,No
+IMP00238,28,Female,Bachelor,Developer,13,Hybrid,Large Corp,6.0,7.7,4.0,1,3.8,4.1,6.0,9.1,2.6,9.2,,5.0,Yes,4.2,5.1,4.4,5.5,3.5,8.4,No,Moderate,No
+IMP00239,52,Non-binary,Master,Manager,7,Remote,Startup,8.3,6.2,5.5,2,4.9,6.1,8.3,4.1,6.3,8.2,5.2,3.6,No,3.9,5.8,7.3,4.3,6.0,7.7,No,Severe,Yes
+IMP00240,51,Male,Master,Analyst,1,On-site,,5.7,5.9,5.8,3,5.2,6.5,3.1,6.4,4.9,4.1,8.4,6.5,No,5.9,3.8,,6.2,3.8,6.0,No,Moderate,Yes
+IMP00241,35,Female,High School,Analyst,8,Remote,Startup,6.0,5.2,6.2,1,3.0,7.3,6.0,4.3,5.4,1.7,3.3,8.0,Yes,5.5,6.8,3.6,5.6,8.7,9.4,Yes,,No
+IMP00242,28,Non-binary,Master,Developer,10,On-site,Mid-size,3.6,6.5,5.9,1,1.3,7.2,5.8,5.4,10.0,3.7,3.4,,No,4.7,0.4,5.2,6.1,10.0,5.4,No,Severe,Yes
+IMP00243,51,Non-binary,High School,Analyst,3,On-site,Large Corp,4.8,2.7,5.1,1,10.0,5.2,9.4,3.7,4.5,8.8,3.3,4.0,Yes,6.4,8.1,6.1,3.5,8.1,4.3,Yes,,No
+IMP00244,45,Male,Master,Teacher,5,Remote,Startup,2.8,10.0,4.0,1,4.6,7.6,3.3,5.7,4.7,5.9,8.1,9.3,No,3.8,7.3,4.4,7.5,5.3,5.8,Yes,Severe,Yes
+IMP00245,50,Female,High School,Analyst,4,On-site,Mid-size,2.4,8.3,7.1,0,3.7,6.6,10.0,5.6,8.1,7.5,7.9,6.2,No,6.7,4.9,4.5,5.9,1.0,7.0,No,Severe,Yes
+IMP00246,46,Male,PhD,Developer,3,Hybrid,Startup,4.7,6.9,2.5,2,8.3,4.7,3.0,4.5,5.5,6.5,5.1,4.0,Yes,1.8,4.6,2.5,5.0,7.5,3.8,No,Mild,No
+IMP00247,37,Female,Bachelor,Entrepreneur,8,On-site,Large Corp,7.3,3.7,2.6,1,5.4,6.0,4.7,8.5,6.3,5.0,5.3,7.3,No,4.9,1.5,9.3,8.9,6.0,5.5,Yes,,No
+IMP00248,39,Female,Bachelor,Researcher,7,On-site,Large Corp,8.3,8.4,8.4,1,6.3,3.9,8.4,6.5,6.0,3.7,4.0,6.6,No,6.3,4.7,4.0,3.7,2.6,2.3,Yes,Mild,No
+IMP00249,33,Female,Master,Researcher,5,On-site,Mid-size,3.3,6.5,6.7,0,7.6,5.3,8.4,6.1,6.7,5.7,4.9,5.6,No,5.7,2.9,3.7,3.7,2.3,5.9,Yes,Mild,Yes
+IMP00250,45,Female,Master,Researcher,9,Remote,Mid-size,4.5,3.6,3.9,2,7.0,5.8,7.0,4.3,4.2,6.4,6.3,3.6,No,5.7,5.6,5.8,10.0,0.0,6.4,Yes,,No
+IMP00251,47,Male,Bachelor,Researcher,10,Remote,Large Corp,7.2,6.5,3.9,3,5.7,1.7,6.4,9.6,6.3,4.0,1.7,3.7,No,6.1,7.0,7.4,3.8,8.5,5.6,No,Moderate,No
+IMP00252,24,Male,PhD,Developer,2,Hybrid,Large Corp,5.5,4.4,6.1,0,7.8,5.0,5.1,4.8,3.5,6.7,6.4,4.8,No,6.2,2.6,2.9,5.8,4.4,4.3,Yes,Mild,No
+IMP00253,50,Female,High School,Teacher,6,On-site,Startup,2.8,7.7,9.5,4,7.4,7.2,3.4,1.8,6.1,3.3,5.1,4.3,No,3.1,4.9,5.5,3.8,7.9,10.0,No,Mild,No
+IMP00254,30,Female,Master,Doctor,9,Remote,Mid-size,8.4,9.5,3.1,1,6.9,8.0,6.5,6.5,6.5,7.9,3.9,,Yes,6.0,0.8,5.1,,6.9,2.0,No,Mild,No
+IMP00255,31,Female,Master,Developer,6,Hybrid,Mid-size,5.0,4.1,5.7,0,6.3,5.8,6.9,5.2,7.4,3.2,5.1,3.9,No,2.1,7.8,3.2,4.4,4.8,4.2,No,Severe,No
+IMP00256,22,,Bachelor,Doctor,0,Remote,Large Corp,8.2,6.2,5.6,1,7.9,6.6,1.9,7.2,9.7,7.8,2.9,5.7,No,3.7,2.0,4.0,3.9,3.1,6.3,No,Mild,No
+IMP00257,38,Non-binary,Master,Developer,8,On-site,Large Corp,7.8,7.3,5.0,0,2.8,3.4,4.7,4.9,5.7,7.1,6.1,5.6,No,5.2,8.1,6.7,5.5,,1.8,No,Moderate,Yes
+IMP00258,49,Male,Bachelor,Developer,8,Hybrid,Large Corp,10.0,5.1,6.3,3,7.5,2.2,6.5,6.9,6.0,4.6,9.9,3.2,No,6.3,4.0,2.0,9.0,6.6,6.4,Yes,,No
+IMP00259,46,Female,Bachelor,Developer,7,Remote,Large Corp,8.0,4.6,4.9,2,8.5,8.0,4.1,6.0,7.4,5.4,4.7,4.1,Yes,8.0,2.8,4.1,5.1,5.7,0.0,Yes,,No
+IMP00260,50,Female,Bachelor,Researcher,10,Hybrid,Startup,6.6,2.4,4.0,2,5.8,6.8,3.9,5.0,6.0,3.9,5.4,2.2,Yes,2.6,6.0,2.6,,5.2,5.2,No,Mild,No
+IMP00261,53,Female,Bachelor,Designer,2,Hybrid,Startup,5.5,4.7,2.8,0,6.1,4.8,4.6,5.9,7.5,10.0,,,No,6.4,3.1,2.6,6.7,1.1,7.7,No,Mild,No
+IMP00262,28,Male,Bachelor,Researcher,6,Remote,Large Corp,4.5,8.9,2.2,3,7.1,2.9,5.9,5.4,9.3,6.8,5.1,4.1,Yes,7.2,2.8,2.1,6.3,1.2,5.7,No,,No
+IMP00263,21,,PhD,Analyst,3,,Mid-size,4.6,8.1,5.9,1,4.9,6.4,6.0,10.0,4.2,3.3,3.8,4.8,Yes,2.0,3.3,1.2,6.6,9.2,4.0,No,Severe,Yes
+IMP00264,46,Male,High School,Entrepreneur,2,Hybrid,Large Corp,6.1,4.6,6.1,1,7.2,7.0,4.9,7.3,6.7,4.6,7.3,7.3,Yes,8.0,2.8,6.9,2.8,4.5,8.2,No,,No
+IMP00265,43,Female,Bachelor,Developer,4,Remote,Large Corp,4.3,3.8,3.7,1,6.2,4.5,6.1,7.3,6.5,5.6,2.5,1.4,No,4.3,5.4,3.3,1.0,4.6,7.4,No,Moderate,No
+IMP00266,29,Male,Bachelor,Doctor,2,Hybrid,Mid-size,8.5,4.3,6.7,0,7.5,3.4,7.7,4.0,4.6,4.2,4.6,0.4,Yes,6.3,6.7,2.7,3.6,6.0,5.5,No,,No
+IMP00267,31,Female,High School,Entrepreneur,5,Remote,Large Corp,5.1,5.0,5.6,0,1.1,1.6,3.8,5.3,7.9,7.7,4.6,4.3,Yes,3.1,5.2,2.4,6.8,,5.1,Yes,,No
+IMP00268,33,Female,Master,Researcher,3,Hybrid,Startup,6.4,3.2,3.4,5,3.9,5.6,4.3,6.2,5.6,3.1,4.3,5.2,No,3.7,5.6,4.4,,4.7,4.1,Yes,Mild,No
+IMP00269,52,Male,Master,Entrepreneur,2,Hybrid,Large Corp,6.1,3.7,2.8,1,1.8,6.4,7.5,5.0,4.2,6.3,6.0,4.3,Yes,5.8,7.9,5.7,4.7,,7.4,Yes,Mild,Yes
+IMP00270,50,Male,Bachelor,Entrepreneur,1,Remote,Large Corp,6.9,,3.1,1,3.9,7.3,4.1,8.8,4.7,4.5,6.1,4.9,,5.0,3.8,9.6,4.9,7.2,4.4,No,Severe,Yes
+IMP00271,47,Male,Bachelor,Teacher,6,Remote,Large Corp,8.4,2.0,4.3,1,6.5,5.2,4.5,7.5,5.1,3.4,6.0,3.3,No,5.4,5.7,7.7,3.5,9.9,7.5,Yes,,No
+IMP00272,32,Female,Bachelor,Doctor,11,,Large Corp,,5.8,5.2,2,5.0,7.4,5.0,7.0,2.3,9.0,5.7,4.7,No,9.4,2.1,3.2,6.6,4.8,5.1,No,Moderate,Yes
+IMP00273,50,Female,Master,Entrepreneur,9,Hybrid,,7.6,6.2,7.0,3,4.8,7.9,2.7,8.1,4.4,5.6,7.0,3.1,Yes,5.2,1.7,7.1,5.3,5.6,3.6,No,Mild,No
+IMP00274,26,Male,Bachelor,Teacher,10,On-site,Large Corp,7.3,8.0,6.7,1,6.8,3.1,10.0,7.1,7.9,7.5,4.6,,No,6.2,4.1,4.5,3.7,7.7,6.8,No,Severe,Yes
+IMP00275,27,Male,Master,Analyst,7,Hybrid,Startup,6.0,3.1,5.1,2,8.9,7.2,3.9,3.0,6.5,5.9,6.1,3.1,No,5.6,3.6,5.6,2.6,2.6,,,Mild,No
+IMP00276,44,Male,Master,Designer,2,On-site,Mid-size,7.6,4.6,3.2,4,1.6,5.3,5.4,8.3,3.3,6.3,3.1,5.9,No,7.0,6.6,4.2,5.9,4.1,5.8,Yes,Mild,No
+IMP00277,36,Female,Bachelor,Developer,4,On-site,Large Corp,6.9,7.9,3.9,2,6.7,3.0,2.5,6.5,4.3,6.7,6.9,10.0,Yes,2.2,1.8,5.4,4.6,5.3,,Yes,,No
+IMP00278,31,Female,Bachelor,Manager,3,Remote,Startup,4.2,5.2,0.6,1,6.4,2.7,5.2,5.4,6.5,3.8,2.5,2.9,No,5.0,3.9,3.6,3.2,5.8,4.6,No,Moderate,No
+IMP00279,41,Female,Master,Researcher,9,Hybrid,Startup,5.6,4.9,5.2,1,5.1,3.9,5.8,6.8,2.6,1.7,5.3,4.9,No,6.6,3.9,8.2,6.4,1.5,4.6,No,Mild,No
+IMP00280,29,Female,Master,Teacher,8,On-site,Mid-size,7.8,4.6,7.6,1,6.0,,5.8,6.7,4.7,9.0,5.0,8.2,No,4.8,5.9,3.3,5.1,3.7,6.4,No,Severe,No
+IMP00281,50,Male,Bachelor,Manager,5,Remote,Mid-size,7.7,7.5,3.7,1,6.7,,9.6,3.2,4.8,3.1,7.1,3.3,No,3.1,0.7,5.9,5.2,1.6,5.8,Yes,Mild,No
+IMP00282,39,Female,Master,Manager,4,On-site,Mid-size,5.0,6.0,9.1,1,3.2,8.9,3.6,6.8,4.5,4.9,8.0,5.4,No,6.4,,6.4,5.6,4.0,5.9,No,Moderate,No
+IMP00283,26,Female,Master,Designer,8,Hybrid,Mid-size,2.6,,4.6,3,2.2,6.1,3.4,7.6,6.9,5.1,3.7,6.5,Yes,4.3,4.7,5.9,5.1,0.0,3.7,,Mild,No
+IMP00284,39,Male,Bachelor,Teacher,10,Hybrid,Mid-size,5.4,8.8,5.4,3,4.8,7.9,5.7,7.8,6.1,4.9,6.9,6.4,No,3.5,,4.2,6.3,3.2,8.4,No,Severe,Yes
+IMP00285,29,Female,Master,Analyst,4,Remote,Mid-size,3.4,5.9,3.4,2,5.1,10.0,7.7,6.7,3.4,8.3,5.4,4.9,No,7.3,1.1,5.5,4.4,9.9,6.3,No,Severe,Yes
+IMP00286,35,Non-binary,Bachelor,Manager,2,,Large Corp,4.4,1.7,2.6,3,4.3,6.0,,5.3,4.8,3.0,6.3,5.2,No,6.1,2.4,7.2,5.2,4.4,6.9,No,Mild,No
+IMP00287,40,Female,PhD,Developer,5,Remote,Startup,5.4,7.9,6.4,0,2.0,7.4,8.8,1.9,3.6,7.3,3.9,6.0,No,7.1,4.8,4.4,5.6,6.2,8.1,No,Severe,Yes
+IMP00288,21,Non-binary,PhD,Manager,3,Hybrid,Mid-size,5.3,7.9,3.1,2,6.4,6.4,7.4,9.1,5.8,5.1,2.3,2.6,No,4.6,3.1,3.0,6.2,6.8,6.5,No,Severe,Yes
+IMP00289,28,,Master,Developer,2,Remote,Mid-size,5.4,6.6,5.9,3,3.5,9.0,6.1,5.7,7.5,5.3,8.1,5.7,No,3.0,4.6,,3.6,6.7,7.3,Yes,Severe,Yes
+IMP00290,47,Male,Master,Developer,5,Remote,,5.3,7.8,5.5,4,5.2,8.5,5.7,7.5,7.2,1.0,7.0,5.6,No,4.3,6.3,7.4,6.4,7.5,,No,Severe,Yes
+IMP00291,47,Male,Bachelor,Entrepreneur,6,Hybrid,Startup,,7.6,5.0,1,5.5,7.2,1.6,3.2,5.4,5.7,6.1,5.0,No,3.3,6.1,4.6,5.1,6.5,7.5,Yes,Mild,Yes
+IMP00292,37,Female,Master,Developer,3,Remote,Mid-size,6.1,3.8,3.8,2,7.2,7.1,5.3,4.4,6.4,2.1,4.1,1.9,No,2.7,5.6,0.0,5.7,5.2,6.3,No,Mild,No
+IMP00293,53,Female,Master,Manager,4,Hybrid,Mid-size,7.1,7.0,8.7,1,9.3,6.9,2.8,0.6,7.8,4.0,5.8,6.8,No,1.9,7.7,7.8,4.5,5.2,3.9,Yes,,No
+IMP00294,42,Female,Bachelor,Analyst,10,Remote,Mid-size,5.5,4.4,1.6,1,5.5,6.4,6.4,4.4,7.7,4.7,5.6,,No,8.1,7.7,4.6,2.8,10.0,2.6,No,Severe,Yes
+IMP00295,21,Non-binary,Master,Developer,6,Hybrid,Large Corp,8.2,8.2,5.0,2,6.2,3.1,6.5,6.2,4.3,4.2,2.7,4.8,No,4.1,6.1,6.3,5.0,6.0,2.2,No,Moderate,No
+IMP00296,54,Male,Master,Manager,0,Hybrid,Startup,3.9,7.3,6.3,0,3.0,7.0,5.9,8.5,6.0,2.6,4.6,5.3,Yes,6.7,7.7,2.6,7.0,5.6,6.2,No,Moderate,Yes
+IMP00297,41,Female,High School,Teacher,9,On-site,Mid-size,7.2,4.4,1.7,1,4.6,3.6,5.6,6.7,8.0,3.2,5.3,5.2,Yes,4.2,,2.3,3.7,2.8,8.1,Yes,,No
+IMP00298,41,Female,Bachelor,Designer,7,Hybrid,Large Corp,6.9,7.4,4.1,1,10.0,6.4,5.4,6.5,4.7,5.1,2.6,2.7,Yes,2.4,4.8,1.0,5.5,,6.2,No,,No
+IMP00299,23,Non-binary,PhD,Developer,3,Hybrid,Mid-size,7.0,3.7,5.2,2,5.1,0.5,6.0,4.2,4.7,5.0,6.8,1.9,No,5.5,6.3,0.4,4.3,2.5,7.6,No,,No
+IMP00300,35,Male,Master,Researcher,0,Remote,,6.8,4.1,3.0,1,5.4,4.2,4.6,5.5,4.9,5.8,0.0,2.3,No,5.0,5.4,3.6,5.9,3.5,0.6,Yes,,Yes
+IMP00301,36,Female,High School,Designer,4,Hybrid,Startup,3.3,1.8,6.1,0,4.9,6.5,3.0,9.9,3.0,6.9,7.7,4.3,Yes,2.7,6.2,1.1,9.0,2.6,4.2,Yes,,No
+IMP00302,22,Male,Bachelor,Researcher,10,Remote,Startup,6.0,9.6,3.9,0,2.6,3.0,8.5,3.9,3.4,6.4,,4.3,,5.9,6.3,7.5,5.6,2.8,9.1,Yes,Moderate,Yes
+IMP00303,43,Female,Bachelor,Teacher,6,Remote,Large Corp,5.5,4.1,8.8,1,7.8,6.6,7.0,4.2,6.7,6.4,5.6,7.6,Yes,6.2,5.5,7.0,5.7,1.7,5.2,No,,No
+IMP00304,24,Non-binary,Master,Manager,8,Remote,Large Corp,4.8,1.2,6.4,2,9.0,4.3,5.7,5.6,7.9,1.7,4.4,5.6,No,5.8,3.1,7.7,9.0,1.1,3.7,No,,No
+IMP00305,21,Male,Master,Entrepreneur,6,On-site,,5.8,5.7,5.2,2,2.5,4.9,6.7,5.4,5.1,3.3,5.3,5.0,No,5.6,0.9,5.1,4.0,,7.9,No,Moderate,No
+IMP00306,53,Female,High School,Manager,5,Remote,Large Corp,4.7,7.3,2.6,2,4.9,8.1,4.7,4.1,5.2,4.8,6.8,8.1,No,5.2,1.5,3.5,5.4,5.1,5.7,No,Moderate,No
+IMP00307,44,Male,Master,Manager,0,Hybrid,Startup,8.4,6.1,7.4,2,3.2,4.6,4.4,8.6,8.7,2.1,5.7,6.8,No,4.2,8.3,2.0,3.0,6.3,7.8,Yes,Moderate,No
+IMP00308,45,Male,PhD,Researcher,11,Hybrid,Startup,5.8,7.7,6.2,4,3.4,,7.8,5.3,7.5,5.0,2.9,4.8,No,6.6,4.3,5.8,7.7,6.2,8.4,Yes,Mild,No
+IMP00309,25,Male,Bachelor,Developer,10,Hybrid,Large Corp,5.7,4.5,4.8,3,2.5,3.2,6.6,7.2,5.5,5.0,6.8,7.1,No,7.4,5.5,4.8,4.9,2.2,7.1,No,Severe,No
+IMP00310,26,Male,Bachelor,Developer,3,On-site,Mid-size,6.2,7.8,4.8,1,0.8,5.2,5.3,5.4,8.4,5.9,3.3,0.8,Yes,6.0,6.2,6.0,6.3,10.0,7.2,Yes,,Yes
+IMP00311,51,Female,PhD,Developer,6,Hybrid,Large Corp,5.2,5.4,0.9,3,4.6,3.7,3.7,7.7,5.0,5.1,8.5,5.2,Yes,5.3,3.8,4.6,9.8,4.0,2.9,Yes,,No
+IMP00312,42,Male,Bachelor,Researcher,3,Remote,Mid-size,4.2,7.1,6.1,1,7.2,6.1,5.5,7.4,5.9,4.4,2.2,10.0,No,6.8,5.6,3.7,3.2,4.4,6.0,No,Moderate,No
+IMP00313,26,Male,High School,Researcher,17,Remote,Startup,3.9,5.8,7.3,1,8.6,6.1,,6.3,3.5,4.7,4.8,5.3,No,4.4,4.7,,1.5,2.6,5.3,No,Moderate,No
+IMP00314,21,Female,Bachelor,Analyst,3,Hybrid,Mid-size,7.5,3.2,5.2,1,8.9,5.1,2.2,5.2,4.8,6.1,3.7,8.0,No,4.8,3.2,0.0,2.1,7.2,4.1,No,,No
+IMP00315,27,Non-binary,Master,Designer,3,Remote,Mid-size,5.5,2.8,3.0,3,5.5,4.0,9.1,5.4,4.5,5.9,4.3,3.8,Yes,5.8,4.9,2.6,4.0,0.0,4.1,Yes,,No
+IMP00316,34,Male,High School,Analyst,8,Hybrid,Mid-size,6.1,7.0,1.7,1,5.1,4.4,7.1,4.3,0.9,4.4,7.2,5.1,Yes,7.0,4.6,4.3,6.3,6.3,4.7,Yes,,No
+IMP00317,47,Female,Bachelor,Doctor,7,On-site,Startup,7.3,5.4,7.2,1,5.6,5.7,10.0,8.5,8.1,5.1,8.0,7.1,No,5.0,5.3,3.5,5.0,8.5,6.4,No,Severe,Yes
+IMP00318,35,Female,Master,Analyst,4,Remote,,4.0,3.5,7.8,1,7.6,,7.4,7.0,4.8,9.1,8.0,2.8,Yes,4.2,4.8,4.1,5.8,2.5,7.8,,Mild,No
+IMP00319,30,Male,PhD,Entrepreneur,8,Remote,Large Corp,5.0,0.0,8.3,0,4.4,5.8,4.3,5.1,6.4,9.0,7.6,2.6,No,4.4,5.5,4.9,7.6,4.9,3.1,No,Mild,No
+IMP00320,41,Male,Bachelor,Manager,6,Remote,,5.5,6.0,6.2,0,10.0,6.5,4.4,5.1,3.4,8.7,7.7,1.4,No,4.6,5.3,7.2,5.3,7.0,4.1,No,Mild,Yes
+IMP00321,23,Female,Master,Manager,4,Hybrid,Startup,,6.9,8.6,1,4.4,6.2,,5.8,9.1,6.5,9.6,3.5,Yes,5.6,2.0,5.4,3.2,5.0,6.9,No,Mild,No
+IMP00322,36,Female,Master,Developer,0,On-site,Startup,,3.6,6.5,0,1.8,1.7,6.3,7.7,3.3,5.3,5.1,9.6,Yes,1.6,2.7,7.8,3.3,3.8,5.6,No,Mild,No
+IMP00323,38,Male,Bachelor,Developer,5,Remote,Mid-size,2.7,4.6,3.2,1,4.4,6.4,5.7,5.5,7.7,6.9,1.0,2.5,No,1.1,4.7,6.0,3.2,6.0,2.2,Yes,Mild,No
+IMP00324,31,Non-binary,Master,Analyst,8,Remote,Large Corp,7.9,6.4,6.2,0,3.3,3.3,8.3,4.9,9.7,4.9,8.6,0.0,Yes,5.8,3.6,4.3,0.0,5.0,7.1,No,Moderate,No
+IMP00325,36,Female,PhD,Researcher,8,Hybrid,Startup,6.1,,5.7,1,7.6,6.0,5.6,6.9,6.5,4.5,6.7,7.7,No,5.3,10.0,1.0,3.5,6.5,5.3,No,Severe,Yes
+IMP00326,30,Male,Bachelor,Teacher,7,Remote,Startup,4.7,7.6,2.5,0,7.9,10.0,6.1,4.1,5.8,2.0,5.6,5.7,No,3.2,2.5,1.1,9.9,4.5,6.3,No,Mild,No
+IMP00327,23,Male,Bachelor,Teacher,3,Hybrid,Startup,7.1,8.3,4.4,2,8.9,7.7,2.6,7.7,7.3,1.0,2.1,4.4,No,7.2,3.7,,7.4,5.7,7.2,Yes,,No
+IMP00328,24,Female,Master,Developer,10,On-site,Mid-size,3.7,4.0,6.6,0,3.3,2.2,,10.0,2.4,4.1,,5.4,No,4.0,0.0,5.3,7.1,1.9,8.4,No,Mild,No
+IMP00329,45,Female,Master,Researcher,2,Hybrid,Large Corp,4.7,2.6,5.4,4,6.7,3.2,6.0,9.6,3.9,7.2,5.3,8.0,Yes,3.3,1.6,3.5,3.2,3.6,8.8,No,Mild,No
+IMP00330,36,Female,Bachelor,Doctor,4,Remote,Startup,10.0,7.0,3.6,2,6.5,2.1,4.7,6.3,1.6,6.5,6.5,1.6,Yes,3.4,5.9,5.3,1.4,5.4,,No,Mild,No
+IMP00331,45,Male,Bachelor,Manager,9,Hybrid,Large Corp,4.7,5.0,7.5,2,4.1,5.4,4.3,5.3,6.0,7.5,3.1,2.2,No,6.4,4.5,2.5,7.0,3.7,0.0,No,,No
+IMP00332,48,Female,PhD,Doctor,3,Hybrid,Mid-size,8.2,8.0,3.4,1,5.6,4.9,4.9,3.0,2.7,2.0,6.7,5.5,No,2.2,4.5,5.1,5.7,6.2,4.4,No,Mild,No
+IMP00333,42,Female,PhD,Entrepreneur,9,Hybrid,Large Corp,,7.4,6.1,1,3.0,6.8,7.6,2.7,8.2,6.8,4.3,1.8,Yes,9.3,5.5,1.2,,3.6,7.7,Yes,Mild,No
+IMP00334,42,Male,Bachelor,Researcher,7,Remote,Mid-size,4.2,7.4,8.3,2,9.6,6.8,6.3,4.7,7.1,7.4,6.4,6.6,No,7.7,3.8,0.0,7.8,2.1,8.7,No,Moderate,Yes
+IMP00335,30,,PhD,Developer,0,On-site,Startup,7.6,4.6,1.5,1,4.3,,6.4,4.7,6.5,9.6,3.8,6.3,Yes,6.5,,0.0,4.3,3.3,5.4,Yes,Moderate,Yes
+IMP00336,26,Female,Bachelor,Designer,12,Hybrid,Mid-size,6.9,4.9,6.9,1,0.6,5.4,5.9,4.6,7.1,5.0,6.7,5.9,No,3.9,1.0,3.9,3.0,1.3,4.4,No,Moderate,No
+IMP00337,43,Non-binary,PhD,Analyst,6,Remote,Startup,3.7,6.3,4.0,0,4.1,4.6,4.9,6.7,6.9,4.5,4.0,3.8,Yes,5.2,3.2,4.9,8.4,6.1,7.6,No,Mild,Yes
+IMP00338,50,Female,PhD,Designer,9,Hybrid,Large Corp,4.9,2.3,7.9,1,5.9,6.0,4.0,6.0,5.7,6.7,9.6,9.1,No,7.7,4.7,,5.9,5.2,2.7,No,Severe,Yes
+IMP00339,50,Male,Bachelor,Designer,3,Hybrid,Large Corp,5.5,5.3,5.1,2,6.1,4.8,5.4,4.2,3.1,9.0,5.0,2.1,No,6.8,0.0,6.7,7.0,5.6,6.0,No,,Yes
+IMP00340,33,Male,Bachelor,Teacher,0,On-site,Mid-size,4.8,6.6,4.0,2,2.5,3.4,3.5,7.2,3.7,5.5,4.2,4.8,,5.3,6.0,8.6,8.0,9.6,8.7,Yes,Mild,No
+IMP00341,31,Male,Bachelor,Developer,6,Hybrid,Large Corp,6.2,6.9,6.4,0,4.5,7.6,5.0,6.0,4.8,3.8,2.3,0.5,No,5.6,5.6,5.3,8.5,5.3,8.1,No,Mild,No
+IMP00342,23,Female,Bachelor,Manager,10,Hybrid,Mid-size,10.0,6.5,4.3,1,4.2,5.1,6.9,7.8,7.8,8.2,7.2,4.5,No,8.0,8.5,1.2,6.8,3.7,,No,Severe,Yes
+IMP00343,25,Male,Bachelor,Developer,9,,Mid-size,4.1,2.1,5.1,3,7.5,7.4,3.6,6.1,7.0,6.7,6.8,4.4,No,4.9,5.7,2.1,3.3,8.3,7.8,Yes,Moderate,Yes
+IMP00344,46,Female,Bachelor,Entrepreneur,0,Hybrid,Startup,8.4,3.2,7.2,1,1.6,6.2,7.2,9.2,3.3,6.3,6.6,6.9,No,3.4,3.6,4.7,5.9,4.0,5.0,No,Severe,Yes
+IMP00345,27,Male,Master,Researcher,0,Hybrid,Mid-size,7.5,2.6,6.9,2,1.7,4.9,5.8,6.8,4.2,1.5,9.3,6.8,No,3.7,4.4,,6.0,5.5,1.5,No,Moderate,No
+IMP00346,51,Male,High School,Teacher,0,Hybrid,Large Corp,8.4,,2.7,0,3.9,4.3,,8.5,2.6,4.8,4.7,2.5,No,6.9,7.8,5.9,6.2,3.6,,No,Moderate,No
+IMP00347,34,Female,PhD,Entrepreneur,0,On-site,Large Corp,10.0,8.3,4.9,3,5.9,3.5,6.2,6.8,6.8,4.1,8.3,1.4,No,5.9,6.0,5.7,6.4,7.5,5.5,No,Moderate,Yes
+IMP00348,32,Male,Bachelor,Analyst,8,,Large Corp,3.6,5.9,3.4,1,4.5,3.1,3.0,4.3,6.8,6.6,3.2,4.8,No,6.5,3.6,1.0,6.3,4.5,5.9,No,Mild,No
+IMP00349,44,Female,High School,Doctor,7,Remote,Large Corp,3.3,6.1,5.7,0,4.1,7.9,3.9,6.8,4.9,4.1,5.4,7.3,Yes,6.0,4.5,2.6,9.0,4.8,10.0,Yes,,No
+IMP00350,28,Female,Master,Doctor,1,Hybrid,Startup,2.9,3.2,4.3,1,6.1,7.7,3.4,5.3,8.3,4.1,4.1,5.4,No,4.5,3.7,,5.4,5.5,4.2,No,Moderate,No
+IMP00351,50,Male,Bachelor,Manager,5,Remote,Startup,3.5,6.1,4.9,0,9.5,5.8,5.6,5.1,4.3,3.2,6.0,5.4,No,6.3,3.0,2.2,6.5,6.1,5.5,No,Mild,No
+IMP00352,27,Male,Master,Analyst,10,On-site,Large Corp,5.9,2.9,7.5,2,4.3,6.1,9.1,6.2,6.9,8.6,0.4,9.7,Yes,2.1,1.2,5.1,,2.4,7.9,No,Mild,No
+IMP00353,46,Male,Bachelor,Teacher,5,Remote,Mid-size,4.3,8.6,4.2,1,2.4,6.4,0.2,4.6,3.1,3.2,2.3,5.8,No,3.0,4.3,5.7,2.2,6.4,4.0,No,Mild,No
+IMP00354,45,Male,Bachelor,Developer,1,Remote,Startup,7.3,,6.3,2,9.1,4.4,3.8,8.2,8.0,9.8,7.9,2.5,No,5.8,6.5,3.5,7.7,5.7,7.8,No,Mild,No
+IMP00355,39,Male,Bachelor,Researcher,2,Hybrid,Startup,3.0,6.4,3.6,0,3.9,4.4,10.0,5.0,3.1,4.0,4.8,,No,3.4,10.0,3.4,7.1,6.4,4.5,Yes,Severe,Yes
+IMP00356,28,Female,Bachelor,Analyst,8,On-site,Startup,6.9,6.0,7.1,3,5.3,4.7,2.3,8.9,6.0,6.0,3.9,7.8,No,4.7,0.7,1.2,5.7,5.3,0.0,,Moderate,No
+IMP00357,52,Male,Bachelor,Manager,7,On-site,Large Corp,4.8,7.2,3.3,1,8.7,6.7,6.9,8.0,4.4,4.7,8.2,1.3,No,5.2,3.7,3.5,5.9,8.5,5.3,No,Severe,No
+IMP00358,50,Female,Master,Analyst,6,On-site,Mid-size,7.1,5.6,7.1,2,3.4,8.4,4.2,7.3,8.1,7.8,3.7,3.9,No,6.3,2.7,7.3,4.2,9.3,8.3,Yes,Moderate,No
+IMP00359,26,Female,Master,Researcher,9,Remote,Mid-size,3.5,5.1,5.1,1,4.2,8.8,4.9,4.8,6.0,3.2,6.5,3.6,No,4.3,4.1,5.0,6.9,3.6,6.7,No,Moderate,Yes
+IMP00360,54,Female,High School,Entrepreneur,10,Remote,,3.0,7.0,4.6,2,5.5,1.8,6.8,4.1,4.4,5.0,8.0,5.9,No,7.8,5.1,6.9,2.5,8.0,6.4,No,Moderate,No
+IMP00361,26,Female,Master,Analyst,0,Hybrid,Mid-size,4.6,4.9,2.0,0,0.0,5.9,6.0,3.6,4.5,5.1,0.7,3.3,,6.6,6.8,4.5,4.8,4.5,6.9,No,Moderate,No
+IMP00362,29,Non-binary,Bachelor,Developer,8,On-site,,4.0,5.8,4.4,1,4.8,5.9,4.6,7.2,4.9,2.4,2.6,4.9,No,0.2,4.9,2.2,,2.1,4.8,,,No
+IMP00363,30,Female,Bachelor,Manager,3,On-site,Mid-size,3.3,6.4,9.0,1,8.7,6.3,8.4,8.1,5.0,3.5,,4.6,Yes,2.8,,2.7,3.5,7.6,4.2,,,Yes
+IMP00364,54,Female,PhD,Entrepreneur,8,On-site,Startup,,6.1,4.0,0,5.6,5.6,5.2,7.0,5.7,4.0,6.8,2.6,No,2.6,3.7,5.8,5.8,,1.3,No,Moderate,Yes
+IMP00365,39,Male,PhD,Entrepreneur,5,Remote,Mid-size,7.7,3.0,4.7,3,7.1,6.7,3.9,5.5,7.8,6.9,6.1,5.5,No,6.2,4.0,5.0,2.7,,4.9,No,Moderate,No
+IMP00366,33,Male,Master,Designer,8,Remote,Startup,5.6,1.9,5.3,2,3.7,5.0,2.1,5.8,7.3,6.8,6.8,1.2,No,4.4,3.6,2.6,5.1,6.2,,No,Mild,Yes
+IMP00367,29,Male,Bachelor,Manager,9,On-site,Mid-size,5.6,3.9,5.0,2,6.9,9.0,6.5,5.8,6.6,8.1,7.3,6.6,No,6.7,4.7,4.3,7.4,1.9,,No,Moderate,Yes
+IMP00368,48,Female,Bachelor,Developer,2,Hybrid,Large Corp,3.1,8.5,5.4,1,8.3,5.1,4.3,6.4,7.5,1.0,3.3,9.1,Yes,3.9,4.8,6.4,4.9,5.6,8.2,Yes,,No
+IMP00369,29,Female,PhD,Developer,5,Hybrid,Mid-size,3.5,4.4,2.4,1,3.4,5.6,9.1,10.0,7.1,2.1,6.9,4.2,Yes,4.9,5.2,2.1,4.8,2.4,0.8,No,Severe,No
+IMP00370,30,Male,Bachelor,Analyst,7,Remote,Mid-size,7.8,3.8,7.5,0,6.3,9.7,4.9,5.4,4.2,7.9,2.8,6.7,No,4.8,7.3,5.9,3.5,6.2,6.0,Yes,Mild,Yes
+IMP00371,52,Female,Bachelor,Entrepreneur,4,On-site,Large Corp,5.2,5.9,5.8,1,3.6,7.3,3.2,5.9,5.1,7.4,4.3,3.2,No,4.3,2.9,2.6,9.5,9.4,7.7,No,Mild,No
+IMP00372,26,Male,Bachelor,Designer,2,Hybrid,Startup,4.7,4.0,6.7,1,5.4,6.6,3.0,7.4,2.5,6.3,2.5,5.0,Yes,7.2,5.1,2.6,0.0,5.3,5.5,Yes,,No
+IMP00373,41,Male,Master,Designer,8,Remote,Large Corp,8.1,7.1,4.3,0,2.1,5.9,,6.1,4.3,6.0,0.8,10.0,No,3.2,4.8,1.6,7.5,4.2,6.6,No,Severe,Yes
+IMP00374,51,Male,Bachelor,Developer,0,On-site,Startup,7.8,2.3,5.1,1,4.9,4.1,6.6,2.7,4.6,5.1,6.1,10.0,No,3.3,4.6,3.5,7.8,5.3,4.0,No,Mild,No
+IMP00375,25,Non-binary,Master,Analyst,1,Hybrid,Mid-size,7.5,7.0,8.0,1,8.2,6.8,8.0,7.4,5.1,4.3,7.3,4.5,No,10.0,6.5,2.9,1.8,4.5,10.0,Yes,Moderate,No
+IMP00376,54,Male,Bachelor,Teacher,4,Hybrid,Mid-size,5.2,5.2,6.0,0,2.7,5.0,5.1,4.9,7.6,4.2,6.6,,No,4.4,4.7,0.4,1.9,5.7,5.7,No,Severe,No
+IMP00377,54,Non-binary,Bachelor,Manager,8,Hybrid,Startup,4.0,4.4,3.9,2,5.1,6.6,6.3,7.6,7.4,8.0,5.3,4.8,No,7.8,6.1,2.3,3.5,0.0,0.0,No,Moderate,No
+IMP00378,30,Female,Master,Entrepreneur,1,Hybrid,Startup,5.0,7.2,0.8,1,6.6,2.7,4.1,3.9,7.9,4.4,5.7,5.3,No,1.9,3.4,4.9,3.5,4.9,3.5,No,Moderate,Yes
+IMP00379,50,Female,High School,Designer,6,Remote,Mid-size,2.0,8.1,6.5,0,3.9,,4.4,4.5,4.7,2.6,9.8,8.6,,6.3,2.9,3.8,5.3,6.1,5.6,No,,No
+IMP00380,51,Non-binary,Master,Manager,4,On-site,Startup,2.4,7.9,6.0,1,1.7,0.0,7.4,5.8,6.0,10.0,4.0,4.7,No,1.5,6.3,4.7,6.4,,5.6,No,Severe,No
+IMP00381,31,Female,High School,Designer,0,On-site,Startup,6.8,5.2,5.4,4,5.9,6.4,4.5,2.8,5.9,6.0,6.5,1.4,,1.5,6.3,3.8,5.0,,6.7,No,Mild,Yes
+IMP00382,45,Female,PhD,Teacher,5,Hybrid,Mid-size,4.7,3.6,2.6,4,2.4,5.8,7.4,5.4,7.5,2.9,1.7,7.1,No,6.0,4.2,3.7,6.1,9.2,2.4,No,Severe,No
+IMP00383,31,Male,High School,Developer,0,Remote,Mid-size,5.8,0.6,7.1,0,9.0,7.6,4.2,6.1,6.4,4.6,5.8,8.9,No,5.9,4.2,4.5,4.1,5.9,4.5,No,Mild,No
+IMP00384,42,Male,Master,Entrepreneur,3,Remote,Mid-size,,5.8,5.6,5,5.0,9.8,7.7,7.5,3.2,1.8,5.1,2.9,No,6.3,,6.9,10.0,4.5,7.0,No,Moderate,No
+IMP00385,48,Male,PhD,Manager,4,Hybrid,Startup,9.1,7.2,5.5,4,2.3,4.3,3.8,5.2,6.6,10.0,3.8,6.3,No,5.1,6.6,6.6,6.1,1.8,7.9,Yes,Moderate,Yes
+IMP00386,46,Female,Bachelor,Designer,8,On-site,Mid-size,6.2,4.2,5.8,0,5.9,5.3,8.0,8.2,3.2,4.1,7.8,3.2,Yes,6.0,9.3,2.9,4.9,4.3,4.6,No,Mild,Yes
+IMP00387,43,Male,PhD,Developer,1,Hybrid,Mid-size,5.6,3.9,8.0,0,6.0,1.3,,6.4,6.5,5.7,2.8,2.6,No,3.9,8.3,1.4,3.2,3.4,1.6,No,Mild,No
+IMP00388,50,Male,Bachelor,Doctor,6,Remote,Mid-size,4.8,3.7,4.7,3,7.0,4.4,7.4,8.7,4.0,5.0,6.6,7.4,No,9.9,4.5,6.2,7.1,3.5,3.9,,Mild,No
+IMP00389,54,Male,Bachelor,Manager,0,On-site,Mid-size,6.0,4.8,2.9,0,1.8,3.5,5.2,8.5,7.8,8.6,5.8,3.8,No,6.9,,4.1,2.6,5.2,6.2,Yes,Mild,No
+IMP00390,42,Male,Bachelor,Manager,8,Hybrid,Startup,4.4,3.2,5.3,3,4.1,4.2,5.7,5.6,3.8,9.0,4.6,6.3,Yes,4.5,4.4,4.1,6.0,2.6,5.5,No,,No
+IMP00391,38,Female,Bachelor,Doctor,9,Hybrid,Large Corp,8.0,3.4,5.1,4,5.0,8.3,6.3,5.6,9.0,6.0,8.2,,Yes,6.6,3.8,4.0,6.0,3.9,7.6,No,Moderate,No
+IMP00392,43,,Master,Developer,1,Remote,Mid-size,2.4,5.5,5.1,1,1.8,5.0,8.8,3.8,7.7,5.0,4.8,4.3,No,3.2,5.4,6.1,7.2,6.3,3.3,No,Severe,Yes
+IMP00393,35,Non-binary,High School,Doctor,6,Remote,Large Corp,6.2,,4.5,2,3.1,7.9,8.2,2.7,9.6,5.0,2.1,5.2,No,4.7,1.8,0.0,5.9,8.2,5.6,No,Moderate,Yes
+IMP00394,51,Female,PhD,Analyst,2,Hybrid,Mid-size,4.5,4.5,5.1,1,5.5,8.7,3.5,4.7,5.3,3.7,3.2,6.0,Yes,7.2,3.7,2.8,5.4,5.1,2.7,No,,No
+IMP00395,33,Female,Bachelor,Doctor,6,,Mid-size,6.6,7.5,5.4,1,5.4,4.3,1.2,7.7,4.0,2.5,5.6,5.2,No,7.9,5.6,1.1,7.4,5.8,2.1,No,,No
+IMP00396,52,Female,Bachelor,Designer,9,On-site,Large Corp,10.0,6.6,6.2,3,4.8,2.9,2.3,8.4,5.4,6.8,5.5,5.4,Yes,5.7,3.1,7.2,5.9,6.0,7.2,No,,No
+IMP00397,31,Male,Bachelor,Entrepreneur,4,On-site,Mid-size,2.6,3.4,3.0,1,3.7,7.1,6.7,7.1,1.0,6.1,8.3,,No,9.0,3.4,,7.3,4.9,3.6,Yes,Moderate,Yes
+IMP00398,44,Male,High School,Analyst,0,Remote,Large Corp,,8.8,1.3,2,1.7,6.3,5.7,3.9,4.6,6.6,4.9,3.9,No,3.5,4.6,4.9,5.6,4.3,2.1,No,Severe,Yes
+IMP00399,26,Female,Bachelor,Manager,0,Hybrid,Large Corp,3.8,7.2,7.8,1,5.8,,5.2,2.6,1.0,4.4,6.1,5.3,Yes,4.8,2.8,6.0,6.5,4.7,9.7,Yes,,No
+IMP00400,50,Male,High School,Manager,3,On-site,Startup,3.2,7.1,5.0,2,3.0,4.1,7.5,6.1,6.8,3.0,4.4,6.1,No,4.2,0.8,3.9,7.8,4.7,5.9,,Mild,Yes
+IMP00401,43,Female,Bachelor,Developer,5,Hybrid,Mid-size,6.5,6.7,4.4,0,5.9,6.8,3.2,4.8,4.9,3.5,5.0,5.5,No,2.8,5.9,5.3,5.7,5.8,2.9,No,Moderate,Yes
+IMP00402,49,Male,Bachelor,Researcher,10,,Mid-size,3.3,4.5,7.0,2,3.5,6.7,,8.7,2.9,10.0,4.8,2.1,Yes,6.9,2.4,5.7,7.3,4.2,8.1,Yes,,No
+IMP00403,52,Male,Bachelor,Entrepreneur,5,Hybrid,Startup,5.1,6.1,7.2,0,4.7,0.5,1.9,5.5,7.1,6.7,7.7,2.9,No,4.9,1.4,5.5,2.4,5.6,6.5,No,Mild,Yes
+IMP00404,32,,Bachelor,Developer,0,Hybrid,Startup,4.5,10.0,2.8,2,3.2,6.2,6.2,3.5,3.7,10.0,7.9,2.3,Yes,3.5,4.4,8.6,3.4,4.1,6.5,Yes,Moderate,No
+IMP00405,53,Male,Bachelor,Developer,7,Hybrid,Large Corp,7.4,9.4,7.3,1,6.9,0.6,5.6,6.6,5.6,6.5,4.6,1.6,No,3.3,2.0,2.9,7.1,8.7,4.7,No,Mild,No
+IMP00406,52,Male,Master,Researcher,4,Hybrid,Large Corp,4.9,4.1,4.9,2,7.4,9.9,5.9,4.9,4.9,4.3,4.2,1.1,No,4.4,7.1,6.1,2.1,4.8,7.1,No,Severe,Yes
+IMP00407,46,Female,PhD,Developer,10,On-site,Startup,5.2,3.2,3.2,2,5.5,3.2,5.6,3.1,3.8,8.3,4.7,2.9,Yes,7.0,3.5,3.1,0.6,9.2,7.6,No,Mild,No
+IMP00408,54,Male,Bachelor,Manager,9,Remote,Mid-size,7.3,,8.2,2,6.1,,6.1,5.0,9.4,5.9,6.3,7.2,No,4.3,0.7,5.6,2.4,0.4,3.7,Yes,,No
+IMP00409,48,Female,Master,Designer,12,On-site,Mid-size,6.1,3.8,5.5,2,3.0,5.2,4.3,6.2,6.8,8.0,7.5,3.6,No,5.6,3.2,1.3,6.7,10.0,4.0,No,Mild,No
+IMP00410,43,Female,Master,Entrepreneur,5,On-site,Large Corp,4.9,5.4,6.8,0,2.3,4.5,4.1,6.1,7.2,4.7,6.5,4.5,Yes,4.8,5.6,3.4,5.8,3.2,6.5,Yes,,No
+IMP00411,24,Female,Bachelor,Developer,4,Remote,Mid-size,6.4,7.8,5.6,0,3.9,4.1,10.0,3.2,2.4,7.2,2.0,4.5,Yes,4.9,7.1,7.2,6.2,5.5,5.9,No,Mild,No
+IMP00412,52,Male,PhD,Analyst,3,Remote,Mid-size,6.5,9.6,1.8,0,4.7,6.9,0.0,6.3,4.7,8.0,6.1,3.5,No,4.6,4.0,2.9,3.0,6.0,4.8,Yes,Severe,Yes
+IMP00413,52,Female,Master,Developer,4,Remote,Mid-size,3.7,6.4,2.7,2,0.8,5.0,,5.4,4.2,5.6,2.6,9.1,No,7.9,5.7,7.5,5.1,3.2,7.5,Yes,Moderate,Yes
+IMP00414,49,Non-binary,Bachelor,Analyst,11,Hybrid,Large Corp,6.0,6.7,6.8,0,5.4,6.0,4.3,7.0,4.3,7.4,5.6,3.6,,5.6,10.0,7.6,2.7,5.5,6.1,No,Severe,Yes
+IMP00415,30,Male,PhD,Manager,7,Remote,Large Corp,2.9,2.0,6.9,3,8.7,7.3,3.3,5.2,5.2,7.0,5.8,5.9,No,10.0,,3.4,,0.4,9.4,Yes,,No
+IMP00416,36,Non-binary,Master,Manager,4,Hybrid,Large Corp,6.7,7.5,7.6,0,6.0,9.0,3.1,5.6,4.3,9.1,7.6,2.4,No,5.9,2.1,4.0,,7.1,6.1,No,Moderate,Yes
+IMP00417,48,Female,Bachelor,Designer,3,On-site,Startup,4.9,5.7,5.5,0,3.7,4.0,5.8,3.4,2.9,7.5,2.6,6.2,Yes,6.1,1.1,0.0,3.0,6.6,8.3,Yes,,No
+IMP00418,46,Male,PhD,Designer,6,On-site,Mid-size,,6.7,0.9,3,2.6,10.0,9.2,5.3,6.4,3.3,6.9,3.2,No,5.5,1.8,4.1,5.1,4.8,4.6,No,Severe,No
+IMP00419,28,Female,Master,Researcher,9,Hybrid,Startup,8.2,4.4,5.1,3,5.3,7.7,6.8,7.4,7.2,5.5,3.6,1.8,Yes,6.9,8.4,4.9,1.0,5.7,,No,Moderate,No
+IMP00420,43,Male,High School,Manager,8,Hybrid,Startup,2.5,6.5,4.7,2,4.6,4.8,4.1,6.0,5.1,6.6,1.3,4.8,No,5.7,3.3,3.9,4.7,7.0,4.3,No,Moderate,Yes
+IMP00421,53,Female,Master,Designer,5,Remote,Startup,4.4,,3.2,1,6.7,7.4,4.3,6.1,5.0,8.2,7.5,3.3,No,5.3,2.4,4.3,10.0,5.6,3.3,Yes,,Yes
+IMP00422,23,Male,High School,Developer,8,Hybrid,Startup,4.0,8.8,1.6,1,6.4,7.7,3.0,8.1,9.4,3.7,3.9,3.9,No,6.9,6.8,4.4,6.1,1.6,2.3,No,Moderate,Yes
+IMP00423,32,Male,Master,Manager,2,Remote,Startup,5.0,6.1,4.7,4,7.9,7.3,4.7,4.5,6.9,5.8,7.5,2.1,Yes,1.3,7.4,4.8,1.7,7.7,7.8,No,Severe,Yes
+IMP00424,52,Male,High School,Developer,11,Remote,Mid-size,4.3,2.1,6.8,3,5.0,7.4,5.0,7.1,8.4,8.0,5.9,5.8,No,4.3,5.4,6.3,2.5,9.6,9.1,Yes,Severe,Yes
+IMP00425,27,Male,High School,Researcher,7,Remote,Large Corp,7.0,7.5,3.9,2,1.8,5.6,5.5,5.8,5.8,3.6,2.8,4.2,No,3.9,2.5,6.6,4.0,1.9,6.3,No,Moderate,No
+IMP00426,39,Female,Bachelor,Researcher,2,Remote,Mid-size,5.3,9.4,4.6,0,6.6,2.9,6.4,7.9,5.8,4.4,5.8,7.6,No,4.4,6.2,8.7,2.1,6.6,9.2,No,Severe,Yes
+IMP00427,46,Non-binary,Bachelor,Entrepreneur,6,On-site,Large Corp,5.2,5.7,5.8,0,6.3,8.5,6.3,4.3,3.9,7.0,6.4,6.8,No,6.9,6.3,3.4,5.3,3.3,6.8,Yes,Moderate,Yes
+IMP00428,32,Male,Bachelor,Teacher,9,Remote,Large Corp,4.3,8.3,5.1,1,4.5,5.0,3.4,7.0,4.6,3.0,8.1,9.9,No,7.6,4.0,4.9,6.0,4.9,9.5,No,Moderate,No
+IMP00429,46,Non-binary,High School,Developer,0,Remote,Startup,4.5,0.0,4.8,2,7.5,5.7,7.0,7.0,4.8,9.9,7.3,8.8,No,5.6,5.6,5.9,6.4,5.7,4.8,Yes,Mild,No
+IMP00430,34,Female,Bachelor,Manager,7,Hybrid,Mid-size,5.7,7.3,6.6,1,2.2,5.8,5.2,8.7,4.0,8.8,7.0,7.3,Yes,8.1,7.1,4.7,6.2,5.2,4.3,No,Moderate,No
+IMP00431,26,Non-binary,Master,Developer,9,On-site,Mid-size,7.9,6.6,2.6,1,10.0,2.6,7.5,2.0,9.3,7.4,9.6,4.5,Yes,4.6,5.3,,7.7,1.2,0.4,Yes,,Yes
+IMP00432,43,Male,Master,Designer,2,Remote,Mid-size,5.2,3.2,3.8,4,5.7,8.6,6.5,3.9,4.5,6.5,4.1,4.5,No,7.4,2.5,6.1,4.4,,5.5,No,Moderate,No
+IMP00433,35,Female,Bachelor,Manager,8,Remote,Large Corp,1.7,4.3,6.6,2,5.4,6.1,5.0,7.3,6.9,5.6,7.2,2.8,No,7.0,5.7,5.4,8.0,7.9,4.3,No,Severe,Yes
+IMP00434,22,Male,Master,Teacher,3,Remote,Mid-size,5.5,5.6,7.4,1,2.1,3.0,5.4,6.5,7.7,4.6,3.9,4.8,Yes,1.2,5.1,5.6,8.5,3.5,3.1,Yes,,No
+IMP00435,34,Male,PhD,Doctor,0,Remote,Startup,5.1,5.9,4.4,1,6.0,4.4,8.2,6.3,9.5,6.2,8.2,5.5,No,5.6,8.8,2.8,5.8,8.0,5.1,No,Severe,Yes
+IMP00436,21,Female,PhD,Developer,8,On-site,Large Corp,4.2,7.1,1.3,2,0.9,2.1,6.8,4.4,10.0,1.7,3.5,5.3,Yes,10.0,10.0,6.9,9.7,5.6,7.4,Yes,,Yes
+IMP00437,47,Male,High School,Teacher,6,Hybrid,Mid-size,6.1,4.1,5.1,1,1.8,0.5,4.8,8.7,6.2,5.5,6.2,5.3,No,5.7,3.1,2.2,4.0,5.9,3.4,Yes,,No
+IMP00438,42,Male,Bachelor,Entrepreneur,7,Hybrid,Mid-size,5.6,7.3,7.1,2,3.3,5.6,8.2,4.0,9.2,5.1,3.0,,No,4.5,0.0,4.9,5.3,4.9,5.4,Yes,,No
+IMP00439,39,Non-binary,Bachelor,Researcher,1,Hybrid,Large Corp,4.1,10.0,5.4,0,6.5,5.4,5.1,5.8,5.5,7.3,3.6,4.9,Yes,6.8,3.0,4.2,2.9,7.6,9.6,No,Moderate,No
+IMP00440,37,Male,PhD,Manager,4,Hybrid,Mid-size,5.3,6.2,5.8,1,1.7,3.8,,1.9,6.4,2.7,4.9,4.8,No,7.5,5.7,8.6,7.5,9.2,7.4,No,Mild,No
+IMP00441,37,Female,Master,Analyst,13,On-site,Mid-size,6.5,5.0,6.9,2,7.2,6.8,4.4,6.5,6.2,0.8,3.3,6.8,Yes,1.2,7.4,4.7,7.6,4.2,8.7,No,,No
+IMP00442,25,Male,Master,Manager,11,On-site,Large Corp,8.0,6.2,6.3,1,4.6,5.2,7.4,5.6,6.7,5.3,5.7,,Yes,8.3,5.6,7.0,2.5,1.9,6.0,No,Moderate,No
+IMP00443,40,Non-binary,Master,Doctor,0,On-site,Mid-size,6.3,4.5,5.1,3,6.5,6.0,5.9,9.8,6.1,8.1,10.0,7.0,Yes,5.7,8.0,4.6,6.3,7.0,3.6,No,Moderate,Yes
+IMP00444,50,Male,Bachelor,Developer,13,Hybrid,Large Corp,3.3,5.1,0.4,0,2.6,7.4,2.5,8.6,5.6,5.0,3.0,5.2,Yes,4.3,1.1,1.6,5.2,,6.1,No,Mild,Yes
+IMP00445,41,Non-binary,Master,Researcher,12,Remote,Mid-size,5.8,2.0,8.2,0,1.7,5.9,4.9,4.0,7.7,2.7,2.1,3.3,No,5.6,5.1,3.2,5.2,6.9,5.0,Yes,,No
+IMP00446,34,Male,Bachelor,Manager,0,Remote,Mid-size,6.8,4.8,7.4,2,2.5,8.0,8.5,7.4,7.5,4.5,3.9,6.1,No,4.9,4.8,2.9,4.8,3.7,6.3,No,Severe,Yes
+IMP00447,51,Male,Master,Doctor,1,On-site,Mid-size,5.0,5.0,4.3,0,6.4,7.2,4.2,7.9,2.9,5.7,3.0,3.5,No,6.7,1.0,2.2,8.4,2.7,5.6,Yes,,Yes
+IMP00448,53,Male,Bachelor,Analyst,0,Remote,Mid-size,6.7,4.7,5.0,1,6.2,5.1,9.0,7.5,6.2,7.6,6.6,6.2,Yes,3.9,0.4,8.0,3.2,,5.6,Yes,Mild,Yes
+IMP00449,39,Male,PhD,Analyst,6,Hybrid,Large Corp,4.9,5.3,4.3,4,5.8,9.7,7.7,4.3,7.8,6.6,2.7,4.8,Yes,2.8,2.9,4.2,4.6,,2.3,No,Severe,Yes
+IMP00450,27,Female,Master,Researcher,0,On-site,Large Corp,10.0,5.2,7.2,1,5.0,4.8,6.1,9.3,6.8,4.0,7.0,5.5,Yes,8.4,3.1,3.3,4.3,1.3,5.0,Yes,,No
+IMP00451,23,Male,Bachelor,Entrepreneur,0,Remote,Large Corp,8.5,4.4,3.6,2,3.9,3.0,4.1,3.4,5.3,7.9,2.0,4.5,Yes,5.9,6.3,5.0,8.3,7.1,,No,,No
+IMP00452,40,Male,Master,Designer,7,Hybrid,Large Corp,4.3,5.4,6.5,3,4.2,7.2,7.7,9.3,8.7,10.0,7.3,6.1,No,3.3,0.6,3.7,4.7,3.5,5.4,No,Severe,Yes
+IMP00453,52,Male,PhD,Analyst,6,On-site,Mid-size,4.5,5.2,4.2,0,4.1,5.0,4.5,4.3,5.8,3.5,5.4,4.6,No,6.8,1.1,5.3,5.4,7.5,5.9,Yes,Mild,Yes
+IMP00454,49,Male,Master,Manager,5,Hybrid,Startup,1.8,5.4,2.2,0,7.7,2.7,4.0,7.2,9.2,4.6,4.3,6.7,Yes,3.9,7.5,7.6,4.0,,7.4,No,Mild,Yes
+IMP00455,49,Female,Master,Doctor,7,Remote,Startup,7.8,5.2,6.7,2,2.8,7.6,2.9,4.3,9.7,5.9,10.0,4.4,No,7.1,5.0,4.7,0.0,6.6,1.6,No,Severe,Yes
+IMP00456,33,Male,Master,Manager,0,Remote,Startup,9.8,6.7,5.3,3,5.0,6.3,1.7,7.0,6.2,5.6,2.6,9.4,,1.5,3.0,6.5,5.3,3.7,5.4,No,Moderate,Yes
+IMP00457,34,Female,Bachelor,Teacher,7,Hybrid,Large Corp,3.6,5.4,3.3,0,3.7,1.9,5.8,9.1,10.0,5.4,5.4,8.4,No,3.0,3.9,6.3,6.9,5.7,4.2,Yes,Moderate,Yes
+IMP00458,37,Non-binary,Master,Manager,10,Hybrid,Mid-size,3.7,6.3,5.2,0,4.3,7.5,4.2,5.2,7.1,4.7,5.4,6.1,Yes,4.9,3.7,2.2,5.1,,9.2,No,Mild,No
+IMP00459,36,Female,Bachelor,Developer,5,On-site,Startup,7.9,8.2,2.3,1,8.7,8.1,2.7,7.9,3.4,4.5,3.6,4.0,Yes,2.5,4.7,4.2,,3.9,2.7,No,Mild,No
+IMP00460,36,Female,Master,Manager,7,On-site,Large Corp,8.5,4.2,7.0,2,4.7,6.8,5.9,2.9,7.2,6.0,9.8,7.3,Yes,3.9,5.6,0.7,9.5,8.2,3.4,No,Mild,Yes
+IMP00461,37,Female,Master,Doctor,7,Remote,Startup,4.1,4.4,7.8,2,3.5,5.8,3.5,6.8,8.5,2.2,5.2,7.5,No,5.8,6.9,6.8,4.0,5.2,5.4,No,Moderate,Yes
+IMP00462,48,Male,Master,Developer,2,Remote,Large Corp,4.2,3.2,4.6,0,5.5,7.4,5.3,3.6,7.7,9.9,5.2,4.8,No,1.8,5.8,6.2,6.6,5.9,4.9,,Severe,Yes
+IMP00463,33,Male,Bachelor,Analyst,3,On-site,Mid-size,7.2,,4.0,1,2.9,3.8,8.1,6.3,10.0,5.9,1.8,7.3,Yes,5.2,7.0,5.1,5.7,5.6,7.0,No,Mild,Yes
+IMP00464,54,,PhD,Teacher,8,On-site,Mid-size,4.4,,6.0,0,4.8,8.0,6.3,5.8,5.4,5.5,,4.5,No,6.9,7.6,6.7,6.4,6.7,6.7,Yes,Severe,Yes
+IMP00465,27,Male,Bachelor,Designer,2,Hybrid,Startup,4.0,4.4,2.0,2,5.2,3.8,7.5,7.4,1.3,4.7,4.0,6.8,No,5.9,0.0,6.4,,6.2,3.6,Yes,Mild,No
+IMP00466,34,Male,Master,Researcher,7,Remote,Mid-size,1.8,5.2,5.7,4,6.3,6.9,3.0,7.7,2.3,4.1,7.4,7.0,No,2.9,2.6,3.1,8.2,,4.5,No,Mild,No
+IMP00467,23,Female,Master,Analyst,0,On-site,Mid-size,7.5,7.7,6.9,2,7.7,4.5,6.9,4.3,4.7,8.0,3.3,3.9,Yes,3.1,3.2,2.6,4.5,6.4,5.4,No,,No
+IMP00468,29,Female,Bachelor,Doctor,6,Remote,Large Corp,5.6,6.3,7.3,0,5.0,3.0,4.2,1.3,5.2,3.4,7.1,6.6,Yes,4.9,4.5,,3.7,4.9,4.0,Yes,,No
+IMP00469,44,Female,Bachelor,Analyst,3,Hybrid,Mid-size,5.4,7.7,6.2,1,4.2,6.2,4.6,7.9,4.4,7.2,4.0,4.7,No,7.4,4.3,7.3,8.7,3.9,0.9,Yes,,Yes
+IMP00470,43,Female,High School,Doctor,0,Remote,Large Corp,0.2,6.7,3.9,1,2.2,,2.7,7.6,5.3,5.6,4.1,4.3,No,4.2,4.9,1.7,,6.4,8.0,No,Severe,No
+IMP00471,54,Female,Bachelor,Analyst,1,On-site,Startup,6.1,5.9,7.4,3,4.2,6.4,9.9,6.1,4.8,7.4,2.9,5.3,No,7.6,6.7,,9.7,4.8,5.1,No,Moderate,No
+IMP00472,30,Female,Bachelor,Researcher,2,On-site,Large Corp,5.1,8.1,4.7,3,6.6,3.3,7.7,6.7,4.4,8.2,5.9,4.8,Yes,4.8,2.8,8.5,4.7,8.5,3.7,Yes,Mild,No
+IMP00473,40,Male,Bachelor,Teacher,8,Remote,Startup,6.6,3.5,1.9,2,3.0,4.7,2.4,5.1,8.0,3.9,2.3,1.9,Yes,3.7,6.1,6.2,4.7,2.9,5.0,Yes,,No
+IMP00474,53,Female,Master,Researcher,10,,Large Corp,10.0,6.3,5.4,1,8.6,5.3,4.8,6.9,2.1,5.1,1.5,2.9,No,7.3,5.2,2.3,7.2,6.3,5.5,Yes,,No
+IMP00475,21,Female,Bachelor,Doctor,3,Remote,Large Corp,6.3,8.2,2.0,0,0.1,8.6,2.7,4.4,5.2,3.8,7.8,4.3,Yes,4.3,3.7,3.7,6.9,6.7,3.7,No,Severe,Yes
+IMP00476,25,Male,Master,Researcher,8,Hybrid,Startup,4.0,6.3,2.0,2,6.1,6.7,,3.8,8.0,2.5,4.9,5.1,Yes,1.8,4.5,2.6,5.3,6.6,6.6,Yes,Mild,No
+IMP00477,33,Non-binary,Bachelor,Designer,0,On-site,Startup,4.7,4.8,6.9,4,3.9,4.4,5.9,5.2,3.0,2.6,6.2,3.7,,6.6,9.5,7.0,8.4,4.5,6.5,No,,No
+IMP00478,29,Male,PhD,Designer,6,,Startup,7.4,5.9,6.1,1,1.8,2.0,6.7,8.2,5.3,5.6,5.9,5.1,Yes,0.1,6.4,2.6,6.8,5.8,7.0,No,Moderate,Yes
+IMP00479,35,Female,Bachelor,Analyst,8,On-site,Large Corp,3.7,6.3,1.2,1,2.4,5.2,4.1,9.2,8.2,4.5,5.1,1.7,Yes,6.3,3.3,7.4,3.2,6.5,7.6,No,Moderate,No
+IMP00480,41,Male,High School,Developer,10,Hybrid,Mid-size,4.1,7.1,4.9,1,2.1,3.0,2.5,2.3,6.0,6.6,4.8,10.0,,2.5,3.6,7.1,4.9,4.6,4.6,Yes,Mild,No
+IMP00481,40,Female,Master,Analyst,12,Remote,Large Corp,8.7,7.1,7.6,3,7.2,0.9,7.7,1.4,8.0,10.0,5.2,2.4,No,2.0,4.8,5.9,5.5,7.2,5.3,No,Mild,No
+IMP00482,41,Female,Master,Doctor,4,On-site,Mid-size,5.9,4.1,5.2,2,1.7,3.9,2.3,1.1,2.5,5.0,4.0,5.5,Yes,6.4,7.4,0.4,5.5,6.5,6.2,No,,No
+IMP00483,53,Female,Bachelor,Entrepreneur,7,Remote,,4.7,2.4,1.9,3,5.5,7.3,6.4,3.9,4.9,6.4,6.6,7.6,No,8.0,3.8,5.6,3.7,3.8,5.4,Yes,Moderate,No
+IMP00484,39,Female,High School,Researcher,3,Hybrid,Large Corp,,5.0,4.5,2,5.1,6.9,4.9,10.0,9.5,3.0,5.0,1.9,Yes,7.3,5.7,6.5,1.2,2.9,8.6,Yes,,No
+IMP00485,41,Female,Master,Doctor,2,Remote,Mid-size,4.6,6.6,4.0,1,5.3,1.6,9.6,6.2,1.8,2.2,4.1,6.1,Yes,5.0,7.8,0.0,1.5,5.5,8.7,Yes,,No
+IMP00486,48,Female,Bachelor,Designer,2,Remote,Startup,2.6,6.5,5.3,0,7.6,7.7,4.9,6.8,6.7,4.9,6.8,1.7,No,3.9,3.2,7.0,8.6,4.7,3.9,Yes,Mild,No
+IMP00487,43,Female,Master,Doctor,0,On-site,Startup,6.6,5.0,4.7,3,2.8,2.6,5.9,7.1,2.7,3.1,3.6,7.6,No,7.2,2.6,5.5,6.8,0.0,2.3,No,Mild,No
+IMP00488,53,Female,PhD,Teacher,9,Hybrid,Mid-size,3.3,10.0,2.2,0,5.9,8.5,4.6,2.2,6.6,6.4,1.1,5.2,No,4.0,7.0,4.6,2.6,2.2,6.7,No,Severe,Yes
+IMP00489,31,Non-binary,Bachelor,Researcher,1,On-site,Startup,2.6,,2.0,1,7.8,4.0,2.3,4.4,6.5,7.1,2.3,5.8,No,5.1,2.4,6.9,5.6,3.7,6.1,No,Moderate,No
+IMP00490,23,Non-binary,High School,Researcher,4,Remote,Startup,3.9,4.0,4.6,0,1.0,6.5,7.0,7.1,5.4,10.0,0.7,6.7,No,7.1,10.0,2.8,8.8,,3.8,No,Moderate,No
+IMP00491,45,Female,Master,Designer,6,On-site,Startup,4.5,10.0,7.4,3,5.6,7.4,7.5,6.0,4.6,6.3,7.7,2.4,No,5.7,2.6,2.1,2.3,6.3,5.8,Yes,Severe,Yes
+IMP00492,54,Female,High School,Researcher,0,On-site,Startup,7.4,4.5,2.4,3,8.6,4.3,8.1,5.4,3.5,5.6,4.8,4.1,No,7.4,2.1,3.2,9.1,5.4,6.2,No,Mild,No
+IMP00493,46,Male,Bachelor,Doctor,10,On-site,Startup,6.6,2.9,6.8,2,4.3,6.6,2.5,6.8,5.7,10.0,6.1,4.4,Yes,3.0,8.3,4.7,5.6,8.8,1.7,No,Mild,Yes
+IMP00494,40,Male,Bachelor,Researcher,8,On-site,Startup,7.2,3.2,3.4,0,3.4,2.7,1.2,6.0,3.4,6.3,6.8,3.6,No,3.9,5.5,3.5,1.2,3.8,2.4,Yes,Mild,No
+IMP00495,44,Female,Bachelor,Manager,16,Hybrid,Startup,4.9,6.7,4.0,1,6.5,4.6,7.0,7.1,6.8,3.4,4.6,6.9,Yes,4.7,3.8,6.6,,7.0,4.7,No,Moderate,No
+IMP00496,33,Male,Bachelor,Designer,2,Remote,Large Corp,4.2,4.7,2.3,2,5.3,4.7,7.0,0.5,8.7,0.0,5.4,7.2,Yes,6.6,4.2,2.9,4.0,3.1,4.3,No,Mild,No
+IMP00497,22,Non-binary,Bachelor,Entrepreneur,6,Hybrid,Large Corp,5.6,1.7,5.5,2,4.8,5.5,8.8,5.7,7.1,6.0,4.2,10.0,,6.8,,2.6,6.1,5.9,2.0,No,Moderate,No
+IMP00498,54,Male,Bachelor,Entrepreneur,9,On-site,Mid-size,6.4,6.2,2.8,2,3.6,,7.0,4.2,7.1,9.1,8.5,1.5,No,3.9,4.1,5.5,6.1,5.6,4.6,No,Severe,Yes
+IMP00499,35,Female,Master,Developer,8,Remote,Large Corp,8.7,7.1,8.0,0,4.9,8.0,6.1,7.7,6.1,3.7,4.1,3.3,No,3.5,7.1,0.5,9.0,7.9,,No,Severe,Yes
+IMP00500,32,Male,Bachelor,Entrepreneur,9,On-site,Startup,9.3,5.5,4.7,2,5.8,4.6,7.1,7.3,3.8,8.6,7.2,2.3,No,4.5,1.1,6.1,2.6,7.1,6.7,No,Moderate,No
+IMP00501,47,Male,Bachelor,Manager,7,Hybrid,Large Corp,4.0,4.8,9.6,1,5.9,7.1,4.4,3.4,6.9,0.4,4.1,6.5,Yes,7.2,6.3,2.4,5.4,3.9,3.4,No,,No
+IMP00502,31,Male,Bachelor,Developer,1,Hybrid,Large Corp,6.3,1.5,3.3,0,4.9,3.4,5.0,7.5,6.4,8.6,7.5,2.9,No,2.1,4.0,6.1,7.4,4.7,0.0,No,Mild,No
+IMP00503,29,Female,Master,Teacher,0,Hybrid,Mid-size,5.1,5.1,7.6,3,7.6,6.7,3.4,5.0,4.5,4.3,5.9,3.8,Yes,9.9,7.9,5.4,6.5,8.0,6.2,No,,Yes
+IMP00504,49,Non-binary,Bachelor,Teacher,7,Remote,Startup,7.5,5.4,6.7,1,4.3,,5.5,5.4,4.1,6.2,5.1,4.2,,4.8,5.2,6.3,6.7,7.6,7.4,No,Moderate,Yes
+IMP00505,26,Female,Bachelor,Designer,6,Remote,Large Corp,8.6,6.6,1.5,2,4.6,7.1,3.6,6.0,7.3,6.7,1.4,7.1,Yes,5.6,7.5,6.5,5.2,4.4,7.6,No,Moderate,No
+IMP00506,33,Male,High School,Developer,7,Remote,Mid-size,5.4,5.8,0.6,2,5.6,5.3,4.8,4.1,3.8,4.0,5.6,,No,3.4,4.7,7.9,6.1,7.0,5.3,No,Moderate,Yes
+IMP00507,41,Female,PhD,Researcher,7,Hybrid,Startup,6.7,2.3,3.1,2,6.6,4.1,3.8,7.0,6.6,4.6,5.1,3.1,No,5.4,4.6,5.0,8.6,4.3,,No,Mild,No
+IMP00508,38,Female,Master,Analyst,10,On-site,Mid-size,7.5,4.6,7.3,2,7.1,1.4,4.4,9.8,5.0,8.0,3.4,,Yes,3.6,4.2,5.4,4.4,3.1,6.7,Yes,,No
+IMP00509,29,Female,Bachelor,Teacher,11,On-site,Mid-size,8.1,3.9,3.5,1,3.6,10.0,5.0,7.6,8.3,3.7,2.8,3.9,No,3.7,8.3,0.0,4.4,2.7,6.0,No,Severe,Yes
+IMP00510,49,Male,Bachelor,Manager,0,On-site,,6.9,5.6,6.2,0,3.5,0.7,,4.5,8.4,5.4,8.9,7.7,No,3.1,1.8,6.8,5.4,3.6,5.7,Yes,,No
+IMP00511,32,Male,Bachelor,Developer,4,On-site,Large Corp,6.4,5.1,7.7,0,5.5,7.2,5.3,8.6,5.0,5.6,8.4,5.9,No,2.8,5.1,2.2,6.5,2.8,3.0,No,Severe,Yes
+IMP00512,28,Male,Bachelor,Researcher,10,Hybrid,Startup,7.9,7.7,4.7,1,3.3,6.1,6.5,6.1,4.4,7.5,7.5,5.2,Yes,6.0,3.7,3.7,5.9,3.9,6.1,No,Moderate,No
+IMP00513,23,Male,High School,Analyst,8,Remote,Large Corp,4.8,6.1,6.8,1,8.0,7.6,6.3,3.6,5.1,6.4,2.8,4.1,No,4.7,4.8,5.7,,6.1,2.1,No,Mild,No
+IMP00514,23,Non-binary,High School,Analyst,7,Hybrid,Mid-size,5.6,4.8,3.9,1,6.5,5.2,7.8,8.1,4.5,6.6,6.1,2.6,Yes,1.0,5.5,5.4,10.0,0.1,2.3,No,,No
+IMP00515,45,Female,Master,Teacher,3,Remote,Large Corp,5.9,5.4,6.7,3,8.1,10.0,7.6,6.2,4.3,3.7,4.9,5.4,No,6.1,,7.6,5.6,4.0,10.0,No,Moderate,Yes
+IMP00516,29,Female,Bachelor,Teacher,4,Hybrid,Mid-size,5.0,,5.8,1,8.0,4.6,6.9,2.2,3.1,7.6,1.9,8.9,Yes,3.6,2.3,6.0,8.7,3.6,5.8,Yes,,No
+IMP00517,30,Non-binary,High School,Designer,4,Remote,Startup,4.3,5.9,3.8,3,5.8,6.3,8.2,6.9,3.7,5.5,9.9,4.7,Yes,2.6,5.5,4.3,4.5,0.6,4.2,Yes,Mild,No
+IMP00518,37,Female,Bachelor,Doctor,13,On-site,Large Corp,4.7,8.9,2.8,1,5.3,0.0,3.3,4.4,6.9,3.2,4.6,,Yes,6.5,6.5,0.4,3.6,5.2,5.7,No,,No
+IMP00519,41,Female,Bachelor,Manager,9,Remote,Large Corp,4.4,4.3,6.0,1,5.8,8.6,4.0,4.9,5.7,2.6,6.3,7.1,No,7.4,,4.4,7.0,7.0,6.8,Yes,,No
+IMP00520,45,Male,Bachelor,Doctor,5,Remote,Mid-size,5.3,5.8,5.5,0,4.3,7.3,3.9,6.6,3.7,4.9,2.5,5.3,No,3.7,6.8,,,3.3,2.5,Yes,Mild,Yes
+IMP00521,42,Female,PhD,Teacher,0,Remote,Large Corp,8.4,5.6,4.3,1,8.5,5.6,2.4,4.0,4.9,4.7,3.6,5.5,No,6.5,,1.4,5.6,6.9,8.2,,Moderate,No
+IMP00522,31,Female,Bachelor,Entrepreneur,2,Hybrid,Startup,2.1,3.7,6.2,3,4.7,2.4,6.1,5.8,5.2,7.3,3.6,4.1,No,5.6,1.3,2.3,6.3,8.7,2.4,No,Mild,No
+IMP00523,37,Female,Bachelor,Doctor,8,On-site,Large Corp,3.8,3.7,4.5,2,9.6,7.6,8.9,7.0,4.4,6.1,6.5,8.4,No,8.6,0.1,3.2,,7.6,6.2,No,Moderate,No
+IMP00524,31,Male,High School,Developer,10,On-site,Startup,5.5,9.4,5.2,1,4.5,4.5,4.1,8.3,9.6,5.4,5.9,4.0,Yes,5.4,7.2,3.8,3.1,6.6,8.0,No,Moderate,No
+IMP00525,33,Male,Master,Entrepreneur,0,Remote,Startup,5.3,1.5,6.3,1,8.1,3.4,1.1,4.0,7.8,6.4,5.5,3.7,No,1.3,5.7,7.4,6.4,4.6,4.2,No,,No
+IMP00526,30,Female,Master,Developer,13,Remote,Large Corp,5.1,6.8,5.4,0,6.5,6.5,6.2,7.9,4.1,8.6,8.3,3.4,No,9.4,5.7,3.6,3.8,4.5,2.2,Yes,Moderate,No
+IMP00527,36,Male,Bachelor,Analyst,8,Hybrid,Large Corp,7.1,2.4,9.0,2,4.7,6.5,3.5,7.6,6.1,4.2,3.7,7.3,No,7.6,5.5,5.6,,1.5,4.9,No,Mild,No
+IMP00528,31,Male,Master,Designer,6,Remote,Large Corp,5.2,2.8,3.9,0,4.1,6.9,6.0,8.5,6.9,5.0,7.9,7.6,Yes,2.4,3.7,2.2,7.1,8.1,8.2,No,Severe,Yes
+IMP00529,30,Non-binary,Bachelor,Manager,4,Remote,Large Corp,4.0,3.0,1.9,1,4.9,8.3,,4.6,5.8,1.9,,5.5,No,3.2,3.4,3.8,7.3,7.9,3.9,,Mild,Yes
+IMP00530,50,Male,High School,Manager,2,On-site,Large Corp,5.1,5.8,3.4,3,5.1,5.2,7.0,5.9,3.6,1.9,4.9,3.4,No,5.6,4.3,6.5,9.9,4.0,5.4,No,,No
+IMP00531,30,,Master,Developer,14,Remote,Large Corp,3.8,6.1,3.9,2,5.8,3.9,7.1,5.5,5.0,3.8,5.9,6.9,No,7.1,9.8,4.2,4.9,4.0,,No,Severe,Yes
+IMP00532,54,Female,Master,Doctor,16,Hybrid,Mid-size,5.2,7.3,4.2,0,4.5,7.2,6.1,5.8,6.5,3.4,2.7,6.2,No,4.6,2.0,,4.4,7.8,,No,Severe,No
+IMP00533,44,Male,PhD,Entrepreneur,6,Hybrid,Mid-size,9.5,5.0,1.7,1,3.6,6.5,3.7,4.4,4.9,5.1,6.5,2.5,Yes,5.4,6.0,1.3,6.5,,5.4,Yes,,No
+IMP00534,54,Female,PhD,Researcher,4,Hybrid,Large Corp,2.7,3.6,5.1,2,2.7,4.1,5.3,5.3,7.0,6.8,6.4,4.1,No,5.5,5.0,3.2,2.9,3.2,,Yes,Mild,No
+IMP00535,22,Female,Bachelor,Researcher,6,Remote,Startup,4.4,4.5,4.2,0,4.3,8.7,1.0,6.9,4.6,5.9,3.1,5.4,No,6.2,5.9,2.2,5.1,4.2,1.9,Yes,Mild,No
+IMP00536,33,Female,Master,Manager,7,On-site,Large Corp,6.4,6.5,6.2,0,4.6,5.6,2.5,4.6,5.2,5.1,0.8,8.3,Yes,5.7,5.8,1.4,6.4,2.1,8.4,No,,No
+IMP00537,44,Female,PhD,Researcher,1,On-site,Startup,7.0,5.6,2.7,4,10.0,5.7,,2.9,2.7,3.8,1.9,8.1,No,3.5,10.0,0.1,4.2,3.1,4.1,No,Mild,No
+IMP00538,25,Male,Master,Researcher,2,On-site,Large Corp,5.6,,4.9,0,5.3,6.2,2.4,7.5,6.4,9.9,6.7,5.4,Yes,4.7,8.1,5.0,5.5,5.4,7.4,Yes,Mild,Yes
+IMP00539,23,Male,Bachelor,Doctor,5,Remote,Mid-size,8.4,6.7,5.6,3,7.4,9.6,,5.7,4.9,3.1,3.9,3.7,No,4.4,,2.5,3.8,0.7,6.2,Yes,,No
+IMP00540,48,Male,Bachelor,Developer,1,On-site,Mid-size,9.2,7.5,2.5,1,2.6,3.0,4.3,6.0,6.8,6.0,1.1,8.2,Yes,8.7,4.2,2.1,3.7,4.7,5.8,No,Mild,No
+IMP00541,40,Male,High School,Designer,2,Remote,Large Corp,2.5,3.8,4.8,1,3.4,4.3,5.9,6.2,6.6,6.9,8.5,3.7,No,1.8,2.5,7.4,4.6,8.4,4.1,No,Severe,Yes
+IMP00542,25,Female,Master,Manager,7,Remote,Startup,7.0,7.7,5.0,0,5.9,3.3,5.8,8.3,6.1,4.8,6.2,7.2,No,1.7,1.3,3.6,8.1,7.2,4.0,No,Moderate,Yes
+IMP00543,31,Female,Master,Developer,6,Remote,Mid-size,6.5,6.5,5.4,1,4.0,3.6,6.0,5.3,5.7,2.6,6.9,3.3,Yes,6.5,3.1,5.5,6.3,2.3,5.2,No,,No
+IMP00544,54,Female,Master,Analyst,10,On-site,Mid-size,7.2,5.5,3.6,1,6.9,2.4,1.7,7.7,3.7,3.0,7.8,7.3,No,3.4,6.3,4.0,3.6,4.8,5.1,No,Moderate,No
+IMP00545,35,Female,PhD,Manager,11,Hybrid,Large Corp,8.9,8.6,1.3,0,4.7,7.7,3.9,5.1,6.0,9.2,6.1,6.2,No,5.9,5.8,3.1,4.7,5.5,3.8,No,Severe,Yes
+IMP00546,35,Male,Bachelor,Teacher,7,On-site,Mid-size,6.5,6.1,3.1,1,2.5,6.1,5.7,8.4,6.0,4.0,5.0,5.8,Yes,3.0,5.1,4.1,4.2,5.9,5.6,No,Moderate,Yes
+IMP00547,49,Female,Bachelor,Teacher,9,Hybrid,Large Corp,8.4,6.5,3.9,1,5.6,4.8,7.6,5.8,6.4,6.2,3.4,5.8,No,6.1,3.6,5.1,9.4,4.4,3.5,Yes,,No
+IMP00548,39,Male,PhD,Manager,6,Hybrid,Large Corp,3.5,9.5,4.8,1,3.4,10.0,4.9,3.5,5.4,3.4,7.4,3.4,No,6.2,2.3,7.4,6.1,2.5,9.0,Yes,Severe,Yes
+IMP00549,24,Female,Bachelor,Researcher,4,Hybrid,Large Corp,10.0,7.9,4.6,0,5.2,1.7,6.0,6.0,1.1,2.3,6.2,6.8,Yes,1.7,8.0,,4.5,9.8,6.2,No,Mild,No
+IMP00550,36,Male,PhD,Analyst,10,Hybrid,Startup,4.3,4.8,1.4,1,3.8,7.3,6.4,6.7,4.5,6.9,9.7,1.5,No,6.3,4.8,7.3,5.6,7.6,9.7,No,Severe,Yes
+IMP00551,53,Non-binary,PhD,Entrepreneur,7,Hybrid,Mid-size,4.2,8.5,7.1,0,7.4,4.4,5.2,2.6,6.5,5.3,3.8,2.3,Yes,8.7,6.8,2.7,5.5,0.9,4.7,No,,No
+IMP00552,35,Male,Bachelor,Doctor,4,Remote,Mid-size,5.4,6.0,5.5,2,7.1,4.5,6.2,7.4,3.9,10.0,3.9,3.7,No,3.9,9.2,5.5,9.5,2.6,2.8,Yes,,No
+IMP00553,46,Male,Bachelor,Entrepreneur,0,Remote,Mid-size,5.1,1.7,6.9,1,7.9,8.0,4.8,7.1,5.1,5.2,4.8,6.9,Yes,7.7,0.6,7.1,6.9,3.5,5.9,Yes,,No
+IMP00554,34,Female,Bachelor,Manager,6,On-site,Large Corp,7.8,7.6,3.1,1,3.0,8.2,1.5,7.5,7.0,4.7,5.7,3.8,No,3.1,3.3,8.4,2.5,3.2,4.3,No,Severe,No
+IMP00555,40,Male,Bachelor,Manager,13,On-site,Large Corp,4.5,8.2,5.3,1,5.3,6.7,7.6,4.2,3.1,5.0,7.2,2.2,Yes,0.9,,8.2,10.0,10.0,7.2,Yes,,No
+IMP00556,45,Male,Bachelor,Developer,9,Hybrid,Large Corp,7.1,4.5,2.9,1,3.6,6.3,8.1,7.7,5.3,5.0,4.5,8.2,No,3.5,5.6,6.8,5.8,2.0,3.4,No,Severe,No
+IMP00557,53,Male,Master,Doctor,4,Hybrid,Large Corp,6.5,2.2,1.7,2,1.7,4.2,4.3,5.4,5.1,5.0,5.2,10.0,No,6.5,8.7,2.9,3.0,3.0,5.6,No,Severe,Yes
+IMP00558,27,Male,Master,Analyst,7,Remote,Startup,8.5,3.8,5.6,3,5.2,2.1,8.6,6.6,7.4,5.9,5.1,1.6,No,6.1,7.8,5.7,5.0,7.9,,No,Mild,No
+IMP00559,48,Non-binary,PhD,Developer,7,On-site,Large Corp,3.0,3.6,2.1,1,5.3,10.0,6.2,5.2,3.4,6.2,8.1,,Yes,6.3,5.4,,3.5,5.1,6.0,No,Severe,Yes
+IMP00560,38,Female,Bachelor,Developer,6,Hybrid,Large Corp,6.6,3.7,6.6,1,0.4,4.3,7.8,6.4,2.6,8.0,2.2,6.0,Yes,2.2,5.5,2.8,2.9,2.7,7.0,,Mild,No
+IMP00561,23,Female,Master,Designer,8,Remote,Mid-size,4.8,4.6,8.4,0,6.0,3.7,7.0,6.4,2.2,4.8,6.2,6.7,No,8.4,6.7,4.6,3.0,4.0,5.6,Yes,Mild,No
+IMP00562,49,Non-binary,High School,Developer,4,Remote,Mid-size,3.1,6.0,4.5,1,7.6,4.1,5.9,5.3,1.4,3.4,4.5,3.4,No,7.5,6.8,6.6,5.7,5.7,6.1,No,,No
+IMP00563,53,Male,Master,Designer,1,Remote,Mid-size,4.2,4.1,4.4,2,2.1,,7.2,6.6,8.0,5.6,6.3,7.0,Yes,1.9,4.7,5.1,6.3,4.2,3.4,Yes,Mild,No
+IMP00564,46,Female,High School,Researcher,1,,Large Corp,4.5,4.0,3.1,0,5.3,6.7,6.4,4.7,4.9,7.3,3.7,6.4,No,8.5,6.4,,5.7,10.0,9.3,Yes,Moderate,No
+IMP00565,48,Male,Bachelor,Developer,8,On-site,Large Corp,5.5,5.4,2.0,0,8.4,7.1,4.8,4.0,5.2,1.8,5.9,6.9,Yes,8.3,2.8,,5.4,1.1,,Yes,,Yes
+IMP00566,48,Female,Bachelor,Manager,0,On-site,Mid-size,7.3,6.2,7.7,1,7.1,1.0,6.4,4.8,5.6,5.6,,3.7,Yes,4.3,8.0,7.1,4.1,4.3,6.3,Yes,,No
+IMP00567,54,Male,PhD,Analyst,8,Hybrid,Mid-size,4.8,4.7,5.8,4,5.5,5.2,6.8,6.2,5.8,6.7,9.8,5.3,Yes,7.0,,5.2,9.5,5.1,2.1,No,Mild,Yes
+IMP00568,49,Female,Bachelor,Developer,16,Remote,,5.0,6.0,5.5,2,3.8,6.0,4.2,4.0,8.9,6.2,7.0,4.2,No,8.4,3.0,0.0,2.2,3.9,4.3,No,Moderate,No
+IMP00569,47,Female,Master,Manager,13,Hybrid,Mid-size,6.7,3.4,7.0,1,7.3,4.5,5.6,5.1,5.1,7.3,5.9,4.3,No,3.6,8.2,4.9,7.3,7.9,3.8,No,Moderate,Yes
+IMP00570,48,Female,Master,Developer,4,Remote,Mid-size,0.8,3.9,3.4,1,3.6,5.3,7.0,7.2,3.6,4.4,8.7,2.7,Yes,5.8,1.1,5.7,5.5,,8.1,No,,No
+IMP00571,45,Male,PhD,Researcher,5,Hybrid,Startup,6.2,7.3,2.2,0,3.7,5.1,7.1,6.6,5.7,4.6,6.4,4.6,Yes,5.0,3.3,0.0,6.2,7.6,2.6,No,Severe,Yes
+IMP00572,41,Male,PhD,Developer,1,On-site,Mid-size,5.1,3.6,4.1,3,4.7,5.9,3.6,8.3,6.1,7.8,6.7,0.3,No,2.5,4.8,4.6,5.7,5.8,6.0,No,Moderate,Yes
+IMP00573,33,Female,High School,Teacher,0,Remote,Startup,3.4,5.9,1.3,0,3.5,2.2,7.6,4.7,4.9,5.6,1.4,6.6,No,5.2,2.7,4.5,4.5,5.2,7.0,,Moderate,No
+IMP00574,44,Female,High School,Teacher,2,Hybrid,,5.1,7.9,4.8,1,2.9,2.5,3.7,3.1,6.7,8.7,6.9,5.6,No,4.1,4.5,6.2,3.7,1.9,5.4,No,Severe,No
+IMP00575,27,Non-binary,PhD,Manager,9,On-site,Large Corp,4.3,4.0,3.6,2,5.8,3.9,8.1,4.1,8.4,5.2,4.6,,No,8.8,1.2,2.7,8.9,3.6,7.8,No,,No
+IMP00576,34,,Master,Analyst,14,Remote,Mid-size,9.1,,6.1,2,3.1,6.9,6.8,7.5,3.6,6.8,5.1,7.3,No,6.8,9.0,6.0,6.3,7.0,5.8,Yes,Moderate,Yes
+IMP00577,48,Female,Master,Researcher,1,On-site,Large Corp,4.0,,6.2,2,4.4,3.5,6.9,6.5,4.7,1.5,5.8,7.0,No,3.9,4.5,4.8,1.9,4.5,7.6,No,Severe,No
+IMP00578,34,Male,Master,Manager,7,Remote,Large Corp,6.9,7.4,6.7,2,8.6,4.0,4.6,8.4,4.6,5.8,3.8,5.3,No,8.9,5.8,7.1,7.2,6.2,3.7,No,Mild,No
+IMP00579,27,Female,PhD,Developer,8,On-site,Large Corp,2.5,9.8,4.6,0,5.2,0.0,4.8,5.9,6.4,4.1,8.6,7.9,No,3.1,0.6,8.3,5.3,1.1,7.2,No,Mild,No
+IMP00580,24,Female,Master,Developer,10,Remote,Mid-size,,1.8,0.0,0,5.3,6.9,,5.0,6.2,4.8,5.2,2.7,Yes,5.3,3.0,5.0,5.4,5.3,3.1,No,Mild,No
+IMP00581,30,Male,High School,Manager,0,Hybrid,Startup,5.2,4.4,6.0,1,4.9,6.9,6.5,6.7,5.3,9.7,3.5,4.8,No,0.5,1.5,3.5,5.8,4.9,5.1,No,Moderate,No
+IMP00582,28,Female,Master,Designer,4,Hybrid,Large Corp,4.0,5.0,2.7,2,5.0,5.5,6.0,8.3,6.6,9.0,4.9,2.1,No,7.8,3.8,5.6,4.4,5.4,6.6,No,Moderate,No
+IMP00583,29,Male,Master,Manager,9,Hybrid,Large Corp,7.4,5.1,4.6,3,9.4,4.4,6.1,5.0,5.2,4.6,8.3,7.0,No,8.1,6.2,4.0,6.5,3.9,2.9,No,Mild,Yes
+IMP00584,33,,Bachelor,Manager,2,Hybrid,Mid-size,10.0,9.0,5.1,2,4.5,3.0,2.2,7.5,1.3,2.9,8.8,3.5,No,6.5,3.6,7.5,6.0,0.7,7.6,Yes,,No
+IMP00585,41,Male,Master,Doctor,3,Hybrid,Large Corp,6.6,3.9,4.5,3,4.1,9.8,5.3,7.6,3.8,4.0,6.6,3.2,No,8.4,4.8,3.7,2.4,4.7,5.2,Yes,Moderate,No
+IMP00586,25,Female,Bachelor,Manager,9,Remote,Mid-size,5.0,4.5,6.2,5,4.6,4.7,2.5,8.1,7.7,6.2,5.8,4.6,No,2.5,9.6,10.0,3.3,7.0,6.6,Yes,Moderate,Yes
+IMP00587,23,Non-binary,Master,Analyst,2,Hybrid,Startup,7.3,4.0,7.3,1,5.9,6.4,1.7,1.8,4.6,4.1,,4.1,No,4.8,1.1,3.8,3.7,4.7,4.6,No,,No
+IMP00588,37,Female,Master,Entrepreneur,0,On-site,Large Corp,3.7,5.9,8.1,1,7.3,4.5,7.5,7.6,8.8,4.2,2.8,8.2,Yes,5.9,2.8,6.1,8.7,6.4,8.9,Yes,,No
+IMP00589,52,Non-binary,Bachelor,Developer,0,Remote,Startup,5.4,4.3,7.6,3,7.3,3.3,6.9,3.9,5.8,6.5,2.8,5.8,Yes,2.3,1.4,3.8,2.3,9.9,5.7,No,,No
+IMP00590,28,Female,Master,Analyst,12,On-site,Large Corp,8.8,6.3,3.0,3,6.0,,2.9,3.9,5.9,3.3,5.6,1.3,No,5.5,7.5,1.1,4.6,3.0,2.3,No,Mild,No
+IMP00591,40,Male,Bachelor,Manager,8,On-site,Mid-size,6.9,2.3,1.2,1,5.3,5.8,4.3,8.3,4.6,5.6,4.3,7.5,No,2.1,5.6,1.7,5.8,3.8,,No,Moderate,Yes
+IMP00592,30,Non-binary,Master,Designer,0,Remote,,5.0,10.0,6.7,1,2.6,6.1,8.3,7.9,8.1,5.9,,4.4,No,6.3,8.2,1.8,9.9,7.8,10.0,No,Severe,Yes
+IMP00593,31,Female,Bachelor,Designer,5,Hybrid,Startup,3.5,6.7,6.8,0,2.6,5.2,5.8,5.0,5.4,9.7,2.3,1.6,No,4.8,6.6,5.6,4.9,4.5,3.2,Yes,Mild,No
+IMP00594,43,Male,Bachelor,Manager,7,Remote,Mid-size,6.1,5.5,8.6,3,6.4,4.6,5.5,4.7,7.7,5.8,5.1,5.2,No,5.2,2.2,5.7,8.1,6.5,5.3,No,Mild,No
+IMP00595,51,Male,Bachelor,Designer,5,Hybrid,,5.7,3.1,5.1,1,9.2,4.8,6.0,8.9,3.3,4.6,3.4,9.6,No,7.6,1.6,1.7,5.8,7.1,2.2,,Mild,No
+IMP00596,54,Female,PhD,Manager,3,Hybrid,Mid-size,5.6,9.1,1.1,0,6.0,7.5,8.1,7.2,3.4,4.5,6.5,6.1,No,7.1,4.1,5.0,3.2,5.8,4.8,Yes,Severe,Yes
+IMP00597,34,Female,High School,Entrepreneur,11,On-site,Startup,2.3,7.2,5.1,0,3.7,4.3,6.0,6.0,9.2,7.1,3.6,4.1,Yes,5.2,6.6,7.1,7.7,5.3,6.3,No,Mild,No
+IMP00598,40,Female,High School,Designer,3,Remote,Mid-size,9.2,7.2,7.0,0,1.9,3.6,7.0,9.7,6.6,9.0,6.7,6.8,Yes,4.6,4.7,5.3,,3.6,4.3,No,Moderate,Yes
+IMP00599,42,Female,High School,Developer,10,On-site,Startup,5.2,3.8,0.5,2,4.4,0.0,8.0,5.8,4.9,4.1,6.8,8.6,No,3.3,1.4,5.6,5.4,5.9,9.5,No,Mild,No
+IMP00600,37,Non-binary,PhD,Entrepreneur,0,Remote,Startup,5.8,,5.6,0,6.4,4.7,7.0,6.1,5.4,6.9,3.4,2.8,No,3.4,4.4,5.4,5.0,8.1,10.0,Yes,Severe,Yes
+IMP00601,34,Male,PhD,Designer,5,Hybrid,Startup,5.0,4.4,5.4,2,7.2,2.4,4.1,4.0,6.2,0.6,6.1,4.8,Yes,3.5,1.9,7.5,6.0,6.0,5.8,No,,No
+IMP00602,27,Non-binary,Master,Entrepreneur,4,Remote,Mid-size,4.2,7.6,2.6,2,3.8,9.3,5.0,5.7,9.0,5.2,5.5,7.3,Yes,10.0,6.4,5.7,,0.0,2.5,No,Moderate,Yes
+IMP00603,54,Male,Bachelor,Manager,3,Hybrid,Mid-size,8.2,1.8,0.9,3,3.8,2.7,4.7,7.9,5.6,5.8,5.7,2.2,No,5.4,2.7,3.3,5.7,4.0,9.9,No,,No
+IMP00604,51,Female,Bachelor,Manager,7,Remote,Mid-size,8.1,7.9,8.4,2,3.6,4.7,6.9,8.3,8.9,3.2,5.0,9.2,No,2.5,4.9,6.6,4.8,4.0,5.3,No,Severe,Yes
+IMP00605,47,Female,Bachelor,Teacher,11,Remote,Mid-size,0.0,3.1,3.8,2,7.0,7.7,5.5,5.7,3.2,5.9,3.2,3.8,No,6.6,8.0,2.8,5.5,,6.0,No,Moderate,No
+IMP00606,32,,Master,Manager,11,On-site,Large Corp,5.0,7.0,8.2,1,1.1,3.6,8.5,4.9,2.6,2.2,8.1,4.5,Yes,3.1,6.7,4.0,7.7,4.2,6.0,Yes,,No
+IMP00607,49,Male,Bachelor,Developer,5,Remote,Startup,4.5,5.8,7.0,1,5.4,5.6,8.1,8.4,5.8,4.0,2.6,2.9,Yes,5.7,2.8,6.5,8.6,8.6,5.3,Yes,,No
+IMP00608,35,Female,PhD,Developer,2,On-site,Mid-size,3.8,5.0,4.2,0,7.4,4.3,1.8,5.1,8.3,3.7,3.9,4.9,No,8.0,2.7,5.1,2.2,3.3,2.5,No,Mild,No
+IMP00609,50,Female,PhD,Manager,3,Remote,Startup,4.7,3.1,4.0,1,5.5,6.9,3.2,4.1,5.4,10.0,4.1,4.1,Yes,6.2,4.2,7.0,8.0,5.0,5.9,No,,No
+IMP00610,41,Female,High School,Analyst,14,Remote,Large Corp,8.8,7.7,4.6,1,5.6,9.6,6.7,5.9,6.1,4.7,7.0,7.6,Yes,4.1,3.1,3.9,3.1,7.1,4.7,No,Severe,Yes
+IMP00611,46,Male,High School,Analyst,0,Hybrid,Startup,2.5,5.4,7.8,4,3.6,4.1,8.7,6.1,7.3,4.3,7.1,6.2,,2.2,5.0,4.8,4.3,6.3,5.1,No,Severe,No
+IMP00612,43,Male,Master,Analyst,1,On-site,Large Corp,5.7,8.8,3.8,1,5.4,8.5,6.0,4.1,4.0,4.2,7.0,7.2,Yes,4.3,2.1,6.1,7.4,5.2,6.8,No,Moderate,No
+IMP00613,52,Female,Bachelor,Analyst,0,On-site,Mid-size,3.5,7.2,5.6,1,3.0,7.4,6.2,4.4,2.4,6.2,5.6,5.5,Yes,2.9,3.0,2.2,8.0,5.4,7.8,Yes,,No
+IMP00614,40,Male,PhD,Designer,10,Hybrid,Large Corp,4.9,6.8,6.2,1,4.0,3.0,1.3,7.3,6.1,4.6,4.1,4.3,Yes,2.0,5.1,6.0,7.3,4.5,5.9,No,,No
+IMP00615,36,Male,High School,Teacher,0,On-site,Large Corp,7.5,,6.7,0,7.3,8.3,5.5,6.7,4.2,4.7,4.1,7.3,No,4.6,3.7,7.3,6.0,4.5,1.6,Yes,Mild,No
+IMP00616,34,Male,PhD,Analyst,5,Remote,Large Corp,4.0,5.2,3.2,1,3.1,4.8,5.3,2.7,5.3,5.1,7.1,2.7,Yes,6.5,5.2,3.6,6.6,4.6,9.6,No,Mild,No
+IMP00617,28,Male,Master,Manager,9,Remote,Startup,5.7,2.9,5.4,3,6.5,6.1,8.2,9.4,1.7,3.7,1.0,5.2,No,5.7,3.4,3.1,,6.9,3.3,No,Moderate,No
+IMP00618,21,Non-binary,Master,Doctor,2,Hybrid,Startup,7.0,,4.6,4,1.8,2.0,6.7,6.9,6.3,3.9,5.8,4.9,Yes,5.4,2.7,5.3,4.1,5.2,1.5,Yes,,Yes
+IMP00619,39,Female,Master,Manager,1,Hybrid,Large Corp,4.1,8.7,4.0,1,9.0,3.4,3.6,3.6,4.0,2.9,10.0,5.8,No,6.9,6.7,0.1,6.1,,1.0,No,Moderate,No
+IMP00620,26,Female,High School,Analyst,7,Hybrid,Mid-size,4.6,4.2,5.3,0,3.8,,3.0,7.5,6.4,5.6,4.2,4.1,No,5.5,3.5,1.2,4.3,8.9,7.1,No,Mild,No
+IMP00621,36,Male,Master,Analyst,13,Hybrid,Startup,4.1,2.8,3.4,2,4.3,3.4,4.3,6.6,2.2,2.1,7.6,6.5,Yes,5.0,7.2,2.8,3.9,4.4,7.7,No,Mild,Yes
+IMP00622,52,Female,Master,Analyst,8,Hybrid,Mid-size,5.1,5.9,7.6,0,5.6,5.3,5.3,3.7,4.4,3.7,6.6,6.6,No,4.8,7.6,5.3,7.1,8.2,6.3,No,Mild,No
+IMP00623,26,Female,Bachelor,Manager,8,Hybrid,Large Corp,8.5,3.7,7.4,1,2.2,7.2,5.5,7.9,6.9,4.5,6.1,6.2,No,7.2,5.5,2.8,1.1,6.8,6.1,Yes,Moderate,Yes
+IMP00624,27,Male,Master,Manager,8,On-site,Mid-size,4.5,8.0,4.2,2,8.7,8.6,8.2,6.8,9.0,5.2,4.7,5.2,Yes,5.6,4.3,3.5,7.7,7.9,4.8,Yes,Mild,No
+IMP00625,51,Male,Bachelor,Manager,10,Hybrid,Large Corp,3.2,3.7,2.5,3,7.0,5.9,,8.6,7.6,6.7,3.9,2.8,No,8.6,3.5,4.4,9.4,7.6,1.5,No,Moderate,Yes
+IMP00626,47,Male,Master,Developer,6,Remote,Startup,6.8,7.3,6.3,0,3.6,4.9,8.5,4.2,4.8,7.4,,4.5,Yes,2.1,7.8,5.7,6.7,3.3,4.0,Yes,,Yes
+IMP00627,41,Male,PhD,Analyst,9,On-site,Mid-size,4.3,6.8,2.7,2,5.2,4.3,4.3,6.3,6.3,5.6,8.1,0.0,No,6.4,4.4,5.6,5.7,4.4,4.4,No,Moderate,Yes
+IMP00628,29,Male,Bachelor,Designer,12,Remote,Large Corp,0.7,5.7,5.8,0,7.9,5.1,8.9,6.9,6.2,8.2,7.1,4.5,No,5.5,4.2,7.4,7.4,4.9,4.3,Yes,Moderate,No
+IMP00629,35,Female,Master,Entrepreneur,1,On-site,Mid-size,6.9,2.9,6.0,0,4.0,5.0,3.6,10.0,2.0,9.4,8.0,3.8,No,5.3,6.1,5.6,3.9,6.5,5.7,No,Moderate,Yes
+IMP00630,40,Male,PhD,Manager,7,On-site,Mid-size,0.0,5.0,7.0,4,5.8,5.2,4.2,6.8,4.1,5.6,7.4,8.1,No,8.7,6.9,3.3,2.9,3.6,4.7,Yes,Mild,Yes
+IMP00631,30,Female,Master,Doctor,3,Hybrid,Large Corp,7.9,3.5,3.2,2,8.0,6.7,,7.2,4.3,5.7,10.0,5.8,No,10.0,1.0,,6.7,6.1,7.5,Yes,,No
+IMP00632,53,Female,Bachelor,Developer,0,On-site,Large Corp,4.3,4.4,5.2,0,3.7,7.1,2.5,5.7,5.5,3.7,2.9,4.0,No,3.9,5.6,1.8,4.1,4.6,6.2,Yes,Mild,No
+IMP00633,48,Female,Bachelor,Manager,6,Hybrid,Startup,5.8,2.4,3.8,2,3.8,5.0,3.0,5.8,6.9,3.2,4.1,4.7,,2.3,4.3,4.8,5.1,5.5,3.9,Yes,,Yes
+IMP00634,24,Female,PhD,Manager,0,Remote,Mid-size,6.5,7.2,2.9,2,3.0,5.1,,6.0,9.1,5.7,8.1,3.8,No,9.3,5.7,3.6,3.7,6.2,7.6,No,Severe,Yes
+IMP00635,40,Female,Bachelor,Analyst,4,Hybrid,Large Corp,6.2,2.3,8.2,1,4.2,5.4,3.5,6.3,7.1,2.5,9.9,5.7,No,5.5,7.4,7.0,5.3,5.7,3.9,No,Mild,Yes
+IMP00636,46,Male,PhD,Manager,3,Remote,Mid-size,5.2,8.7,3.0,3,1.7,7.5,3.2,5.0,2.7,6.3,10.0,8.3,No,4.5,6.4,0.6,6.4,3.5,3.6,No,Severe,Yes
+IMP00637,28,Female,Bachelor,Manager,6,On-site,Mid-size,5.6,3.7,6.0,1,1.9,4.6,4.3,4.7,6.8,7.1,3.9,2.0,Yes,6.5,5.7,6.5,6.2,5.3,5.8,No,,No
+IMP00638,50,Male,Master,Researcher,0,Hybrid,Large Corp,4.6,3.1,1.0,1,5.1,5.2,1.7,7.6,4.8,7.8,4.0,2.6,No,5.5,7.1,9.6,4.8,4.7,6.0,No,Moderate,Yes
+IMP00639,30,Non-binary,PhD,Doctor,9,Remote,Large Corp,4.8,,5.7,3,5.0,5.8,8.0,5.8,6.0,6.2,3.6,2.7,Yes,8.4,2.8,3.4,2.9,3.6,9.8,No,Mild,No
+IMP00640,30,Male,Bachelor,Manager,0,Hybrid,Mid-size,2.4,5.1,7.7,1,6.5,6.6,8.8,3.7,5.9,8.2,3.4,3.9,No,6.9,3.7,6.2,4.4,3.4,4.5,No,Mild,No
+IMP00641,22,Female,Master,Developer,2,Remote,Startup,3.0,4.0,4.4,3,5.9,7.1,7.3,6.5,8.1,5.1,7.3,4.1,No,6.7,5.6,1.5,4.7,7.7,6.8,Yes,Severe,Yes
+IMP00642,46,Female,Master,Analyst,6,Hybrid,Startup,4.4,8.4,3.3,1,4.9,7.9,1.2,8.8,5.2,7.3,3.2,7.2,No,6.7,4.8,5.3,7.3,5.6,5.8,No,Severe,Yes
+IMP00643,54,Male,Master,Entrepreneur,1,Hybrid,Startup,7.0,9.7,6.5,1,4.7,5.5,6.1,6.7,3.8,8.2,8.2,7.4,No,5.6,5.4,6.8,6.9,4.5,3.7,Yes,Moderate,Yes
+IMP00644,21,Non-binary,Master,Teacher,4,On-site,Mid-size,4.8,5.8,5.7,2,8.1,4.1,,4.5,5.6,4.8,,5.0,No,4.9,2.8,3.3,4.6,5.8,6.7,No,Mild,No
+IMP00645,33,Male,Master,Doctor,5,Hybrid,Mid-size,2.3,2.9,4.8,1,4.4,3.8,5.7,7.8,6.3,9.0,5.7,3.8,No,4.7,7.3,4.3,7.3,5.7,7.3,No,Moderate,Yes
+IMP00646,36,Non-binary,Bachelor,Designer,5,Remote,Mid-size,6.8,6.1,5.0,1,9.2,6.0,9.0,5.1,8.7,8.4,,2.5,Yes,7.3,0.0,5.0,3.4,2.4,4.5,Yes,,No
+IMP00647,48,Female,Master,Manager,1,Remote,Mid-size,6.7,8.0,2.2,1,5.7,5.2,5.6,8.0,4.0,4.5,5.6,6.5,,5.1,4.3,5.6,1.1,7.3,5.4,No,Severe,No
+IMP00648,32,Female,High School,Analyst,2,Hybrid,Startup,5.5,6.8,4.7,1,1.4,5.5,6.5,4.2,3.4,4.5,6.8,2.0,Yes,6.9,5.6,2.6,5.1,7.3,6.1,No,Mild,No
+IMP00649,31,Female,High School,Teacher,0,Remote,Startup,10.0,6.3,6.7,2,4.5,,4.2,1.8,2.6,10.0,5.2,3.4,Yes,7.0,3.5,5.5,6.4,8.7,2.8,No,,No
+IMP00650,52,Male,Bachelor,Developer,6,On-site,Mid-size,5.2,7.2,5.0,1,6.6,3.3,9.2,8.9,6.1,8.7,5.3,7.5,No,6.6,7.0,7.8,4.8,3.4,6.6,No,Severe,Yes
+IMP00651,24,Non-binary,PhD,Entrepreneur,8,On-site,Large Corp,4.6,8.4,5.3,0,3.8,5.9,5.7,9.0,5.3,5.5,8.1,2.3,No,6.5,4.4,5.2,5.5,3.9,4.8,No,Severe,Yes
+IMP00652,49,Non-binary,Bachelor,Doctor,0,Hybrid,Startup,8.0,7.4,2.3,1,3.1,3.7,6.9,8.5,8.7,6.3,4.9,7.0,No,2.2,7.2,5.7,8.0,8.5,7.5,No,Severe,No
+IMP00653,33,Male,Bachelor,Developer,3,Remote,Startup,7.9,3.8,6.4,2,6.3,4.8,9.1,5.6,9.1,2.5,1.1,7.6,Yes,3.9,3.4,5.6,4.3,4.2,5.8,No,,No
+IMP00654,33,Female,Master,Analyst,8,Hybrid,Mid-size,5.0,8.4,3.3,3,5.4,,4.4,6.0,1.9,8.8,0.5,5.1,No,7.1,,,4.9,9.9,8.5,No,Severe,No
+IMP00655,45,Non-binary,Master,Developer,0,Hybrid,Startup,3.8,3.8,4.1,1,7.5,6.4,6.9,6.0,7.4,6.5,4.2,,No,0.3,4.4,6.2,4.3,8.0,5.1,Yes,Moderate,Yes
+IMP00656,51,Male,Master,Designer,8,Remote,Mid-size,5.0,3.8,4.8,0,4.8,8.1,4.6,7.6,3.6,6.5,7.1,2.8,No,2.4,4.9,4.3,4.2,,,Yes,Moderate,Yes
+IMP00657,29,Male,High School,Manager,1,,Large Corp,4.6,8.3,5.6,1,7.8,2.1,7.3,6.1,4.5,6.6,7.9,3.3,No,4.2,6.6,4.2,9.1,3.7,7.8,No,Moderate,Yes
+IMP00658,23,Female,Bachelor,Developer,10,On-site,Mid-size,4.3,6.8,3.5,2,5.7,6.9,1.9,9.2,7.1,4.5,5.2,6.8,No,5.8,5.7,5.2,6.6,4.5,5.6,No,Moderate,Yes
+IMP00659,41,Male,Master,Entrepreneur,5,Remote,Mid-size,3.7,2.6,5.0,0,7.8,7.0,,7.7,2.6,6.3,9.7,8.6,Yes,6.1,9.4,5.8,6.4,3.9,2.5,No,Moderate,No
+IMP00660,54,Male,Bachelor,Teacher,8,Hybrid,Startup,3.0,8.1,1.5,1,2.5,8.8,7.6,4.0,6.3,5.7,5.4,3.9,No,2.3,3.0,4.5,7.1,7.1,6.0,No,Severe,Yes
+IMP00661,35,Male,PhD,Analyst,4,Hybrid,Mid-size,1.6,6.2,4.0,2,2.7,3.9,5.5,7.1,4.4,7.5,6.4,4.6,Yes,4.3,9.4,6.3,10.0,2.3,6.0,Yes,Mild,No
+IMP00662,44,Female,Master,Researcher,5,Remote,Mid-size,5.8,6.9,5.9,1,5.5,4.8,3.0,5.2,5.0,3.5,7.4,3.4,Yes,5.6,7.6,7.4,5.2,5.0,,Yes,,No
+IMP00663,37,Female,Bachelor,Developer,4,Remote,Large Corp,4.0,1.0,5.6,5,4.0,8.3,8.0,4.9,5.6,6.4,2.3,6.9,No,4.3,3.6,6.6,5.9,,3.9,No,Moderate,No
+IMP00664,40,Female,Bachelor,Developer,3,Hybrid,Large Corp,1.7,5.1,7.2,0,6.9,4.0,6.7,5.8,5.5,6.3,6.5,2.8,Yes,4.0,8.3,8.6,6.2,7.2,1.7,No,Mild,No
+IMP00665,48,Male,Master,Developer,8,Remote,Large Corp,6.4,2.4,6.0,1,6.8,3.9,3.7,6.3,3.8,6.2,4.3,7.7,Yes,4.4,3.4,4.6,8.8,3.0,5.2,Yes,,No
+IMP00666,54,Male,High School,Researcher,1,On-site,Mid-size,4.0,8.5,5.7,2,6.3,3.5,,3.0,3.7,9.0,5.3,3.5,No,8.0,6.9,5.9,3.7,5.5,4.4,Yes,Mild,No
+IMP00667,32,Male,High School,Analyst,4,Hybrid,Mid-size,6.2,3.1,1.6,1,5.9,6.7,4.3,7.0,6.8,2.5,5.3,9.1,Yes,3.4,7.4,5.4,2.9,0.8,6.5,No,Mild,No
+IMP00668,45,Male,Bachelor,Teacher,4,Remote,Startup,4.9,6.7,6.3,1,5.3,8.6,6.8,4.4,6.7,8.6,6.5,1.3,No,7.4,8.0,4.1,6.2,6.1,3.1,Yes,Moderate,No
+IMP00669,31,Female,Bachelor,Entrepreneur,7,Hybrid,Mid-size,3.8,9.2,7.0,0,2.0,7.4,3.3,4.2,3.6,1.2,5.2,3.6,No,1.3,2.0,5.4,4.3,3.4,4.2,Yes,,No
+IMP00670,49,Female,Bachelor,Analyst,7,Remote,Mid-size,9.6,5.7,3.5,2,5.8,5.1,5.1,3.9,5.9,6.0,5.0,6.7,Yes,6.5,,7.3,4.6,6.5,7.4,Yes,,No
+IMP00671,36,Male,Bachelor,Manager,0,On-site,Large Corp,5.0,7.0,8.6,0,7.4,5.0,5.1,6.2,7.4,7.2,6.0,3.8,Yes,2.8,6.5,6.6,5.7,4.0,4.1,Yes,,No
+IMP00672,21,Non-binary,Bachelor,Designer,8,Remote,Large Corp,7.9,,5.9,1,5.6,4.5,5.6,5.6,3.5,6.1,7.3,4.4,No,6.0,4.2,2.4,2.1,4.2,8.1,No,Moderate,No
+IMP00673,44,Male,Bachelor,Designer,11,On-site,Startup,1.8,4.9,5.2,1,1.5,2.5,2.9,8.7,7.9,5.4,9.9,7.3,Yes,6.7,4.8,6.6,5.6,1.8,3.3,Yes,Mild,No
+IMP00674,28,Male,Master,Developer,2,On-site,Large Corp,3.7,8.2,4.7,0,7.0,1.7,5.7,5.5,6.0,7.5,4.9,8.4,No,2.0,1.5,5.8,6.7,,6.3,,Severe,No
+IMP00675,33,Male,Bachelor,Entrepreneur,10,Hybrid,Startup,6.3,8.2,9.1,0,6.8,3.5,4.5,7.2,6.2,6.2,7.1,5.0,No,4.5,5.9,2.6,10.0,6.7,6.9,No,Mild,No
+IMP00676,48,Female,PhD,Manager,10,Remote,Mid-size,4.9,3.7,3.5,3,0.9,1.8,4.5,6.6,6.3,4.1,2.0,6.9,No,8.1,8.6,3.0,6.9,4.9,4.7,Yes,Mild,Yes
+IMP00677,38,Non-binary,PhD,Developer,1,Remote,Startup,9.1,2.7,4.7,1,7.4,5.2,5.3,7.1,7.6,5.5,5.4,5.7,Yes,3.7,0.5,2.9,5.7,6.9,7.7,Yes,,No
+IMP00678,50,Non-binary,High School,Developer,6,On-site,Startup,4.8,6.9,7.7,1,4.0,3.7,8.3,6.3,7.3,6.3,8.9,3.4,Yes,6.6,7.8,0.0,7.9,6.3,8.7,No,Mild,Yes
+IMP00679,41,Female,Bachelor,Teacher,1,On-site,Mid-size,3.5,4.0,4.9,1,1.8,5.9,6.1,6.6,4.9,6.4,4.7,4.5,No,4.1,7.0,7.7,6.7,5.2,7.2,Yes,Moderate,No
+IMP00680,45,Female,Master,Manager,0,On-site,Mid-size,7.4,8.7,7.9,1,8.9,,9.1,4.9,4.1,2.1,6.9,5.6,No,7.0,6.3,7.8,5.6,3.5,3.1,No,Moderate,No
+IMP00681,43,Male,Bachelor,Developer,6,On-site,Large Corp,6.5,7.4,3.0,3,2.8,3.7,3.4,6.3,6.0,6.9,5.7,,Yes,6.4,6.8,7.0,5.5,2.7,6.4,Yes,,No
+IMP00682,28,Male,Master,Designer,2,Remote,Large Corp,6.6,6.3,6.2,2,3.5,6.4,5.8,4.8,4.7,2.9,10.0,7.4,Yes,3.1,8.4,,7.4,3.4,8.8,No,Moderate,No
+IMP00683,40,Female,Master,Designer,5,Remote,Mid-size,7.2,,6.3,2,7.0,3.6,4.6,4.9,4.6,6.9,3.6,5.5,No,1.7,5.7,6.6,5.5,7.7,4.9,No,Mild,No
+IMP00684,53,Male,Bachelor,Researcher,2,On-site,Large Corp,6.0,4.8,3.5,1,8.2,4.5,6.0,5.6,0.0,3.2,5.3,2.1,Yes,6.7,7.8,5.0,7.2,5.9,5.5,No,,No
+IMP00685,23,Male,PhD,Entrepreneur,4,On-site,Mid-size,4.7,3.5,5.6,0,1.1,3.9,2.2,7.1,6.2,4.8,7.1,2.2,No,7.5,5.0,4.0,3.1,1.6,4.9,No,Moderate,Yes
+IMP00686,48,Male,Master,Developer,2,Remote,Large Corp,5.3,7.5,5.2,2,2.0,1.2,6.5,7.9,3.1,6.9,5.5,5.5,No,5.4,5.4,4.3,6.4,1.6,5.6,No,Moderate,Yes
+IMP00687,22,Female,Bachelor,Manager,0,On-site,Startup,3.0,1.4,5.3,2,7.6,2.5,6.0,7.3,2.0,2.0,8.6,3.7,Yes,6.1,2.4,4.7,,5.4,4.1,No,,No
+IMP00688,43,Male,Bachelor,Doctor,7,On-site,Startup,8.3,5.2,5.2,2,5.5,0.0,4.8,5.6,6.0,2.8,6.2,1.3,No,2.5,7.8,4.0,7.7,7.6,7.7,No,Mild,No
+IMP00689,39,Male,Bachelor,Researcher,6,Remote,Startup,6.5,,5.5,1,6.1,1.6,5.0,6.6,3.3,4.4,4.3,3.0,No,7.5,0.7,3.4,2.3,5.0,9.8,No,,No
+IMP00690,28,Female,High School,Analyst,2,,Mid-size,6.3,9.0,6.0,1,10.0,5.5,8.8,8.5,6.3,7.1,3.7,5.4,,1.7,4.5,6.3,4.0,6.7,2.2,,Mild,No
+IMP00691,29,Male,Master,Teacher,5,Hybrid,Startup,3.2,8.0,2.5,3,4.7,4.3,7.9,4.9,10.0,6.7,8.4,3.7,Yes,3.4,7.4,8.3,3.7,2.3,4.6,Yes,Moderate,Yes
+IMP00692,54,Male,PhD,Entrepreneur,7,Hybrid,Mid-size,,5.8,5.3,3,6.2,8.9,6.2,4.9,5.9,5.9,5.9,7.4,,7.2,2.6,10.0,0.4,4.0,5.0,Yes,Severe,Yes
+IMP00693,28,Female,Bachelor,Researcher,14,Remote,Mid-size,5.9,5.8,1.6,3,1.6,3.3,5.7,2.9,4.1,4.4,4.4,4.7,No,1.2,5.7,3.3,6.7,4.7,6.8,Yes,Mild,Yes
+IMP00694,35,Non-binary,Master,Doctor,9,Remote,Mid-size,5.9,7.6,5.1,0,3.9,4.0,6.5,6.0,5.7,8.0,3.2,7.1,No,4.0,3.9,2.9,7.1,6.9,4.6,No,Moderate,Yes
+IMP00695,34,Female,Master,Researcher,0,Hybrid,Startup,2.3,2.5,7.5,2,2.0,2.6,7.0,7.7,3.5,3.4,7.3,5.8,No,6.5,2.3,5.1,5.1,4.8,,No,Mild,No
+IMP00696,21,Male,Bachelor,Designer,7,On-site,Mid-size,7.5,6.7,4.1,1,2.1,3.7,8.1,3.7,7.7,7.1,4.9,2.6,No,2.5,4.9,7.3,5.7,4.9,3.6,Yes,Mild,Yes
+IMP00697,34,Male,Master,Developer,4,On-site,Startup,5.3,6.4,6.1,1,5.4,7.1,4.8,5.5,4.7,4.9,6.9,6.8,Yes,6.0,3.7,5.6,6.6,7.9,7.6,No,Mild,No
+IMP00698,30,Female,Master,Manager,14,Remote,Mid-size,5.8,0.8,4.3,2,4.2,6.2,1.7,4.5,5.9,6.0,3.8,5.0,No,4.6,4.3,4.6,6.1,5.6,6.9,Yes,,Yes
+IMP00699,37,Female,High School,Researcher,2,Hybrid,Mid-size,8.3,,2.9,1,4.4,1.7,9.2,5.8,3.7,4.6,4.0,5.9,Yes,6.0,3.1,4.5,7.2,6.2,3.8,No,,No
+IMP00700,34,Non-binary,PhD,Developer,10,On-site,Mid-size,3.4,3.4,5.7,3,4.3,7.6,,5.7,3.6,2.2,6.3,5.1,No,4.9,0.0,3.6,8.2,4.6,5.7,No,Moderate,No
+IMP00701,42,Male,Master,Analyst,5,Remote,Startup,6.9,4.4,1.6,1,5.5,4.3,,6.1,9.9,8.5,6.6,4.4,No,4.4,10.0,4.9,7.1,4.6,2.8,No,Severe,No
+IMP00702,51,Female,Master,Analyst,1,Hybrid,Mid-size,1.3,3.7,7.3,0,6.2,6.5,3.2,4.5,2.3,6.0,8.5,,Yes,3.1,5.2,4.3,10.0,2.4,10.0,No,,No
+IMP00703,32,Male,Bachelor,Analyst,4,On-site,Large Corp,7.8,4.7,5.4,1,6.3,6.4,3.1,3.7,2.6,6.6,3.9,6.7,No,5.8,8.3,7.7,3.8,6.4,5.2,No,Mild,No
+IMP00704,38,Female,Master,Analyst,4,Remote,Startup,6.6,5.0,2.5,2,6.9,4.2,5.7,4.1,6.9,7.9,7.1,2.6,No,3.9,8.0,3.4,6.3,6.2,4.1,No,Moderate,Yes
+IMP00705,21,Female,High School,Analyst,11,Remote,,,6.9,0.9,0,3.2,8.4,5.0,10.0,7.1,4.8,6.3,9.2,Yes,3.9,5.0,5.5,8.2,8.2,7.9,Yes,Severe,Yes
+IMP00706,50,Non-binary,Bachelor,Teacher,1,On-site,Startup,4.9,5.1,6.9,0,1.9,7.0,,7.1,4.9,3.6,7.8,4.7,No,6.0,8.2,6.3,2.7,1.5,3.8,Yes,Moderate,No
+IMP00707,27,Female,Bachelor,Analyst,0,On-site,Mid-size,5.5,9.3,4.8,2,4.2,7.3,7.1,8.4,6.4,4.7,6.6,5.7,Yes,3.8,4.5,3.4,7.2,4.8,3.2,No,Moderate,No
+IMP00708,43,Female,Master,Developer,8,Hybrid,Mid-size,0.2,6.4,5.5,3,3.4,3.8,5.2,4.2,2.6,7.2,3.5,6.6,No,7.3,8.6,7.5,6.9,7.1,7.7,,Mild,Yes
+IMP00709,34,Male,PhD,Designer,8,On-site,Startup,6.4,6.1,7.8,1,9.0,3.6,7.2,7.1,6.0,6.4,6.7,8.1,No,4.8,6.8,7.8,7.3,4.5,3.0,No,Severe,Yes
+IMP00710,21,Male,Bachelor,Developer,7,Hybrid,Mid-size,6.4,4.4,4.6,1,3.2,7.0,4.5,7.5,5.5,3.6,,3.7,No,4.7,5.9,,1.4,4.2,4.9,No,Moderate,No
+IMP00711,21,Male,PhD,Analyst,6,Remote,Large Corp,7.0,3.0,4.2,1,7.1,8.4,5.4,6.9,3.2,10.0,,5.6,No,8.7,3.2,,9.4,7.7,5.6,No,Mild,Yes
+IMP00712,35,Female,Bachelor,Entrepreneur,2,On-site,Mid-size,5.7,4.5,6.7,3,2.0,4.1,2.8,10.0,1.5,3.3,4.8,,No,5.2,4.7,0.0,3.8,8.0,7.2,No,Mild,Yes
+IMP00713,43,Non-binary,Master,Researcher,5,Remote,Startup,3.3,5.7,6.4,1,6.1,4.6,8.3,5.2,5.1,4.5,5.3,3.7,No,6.2,10.0,7.6,5.3,2.1,5.2,No,Severe,No
+IMP00714,28,Female,Bachelor,Developer,3,,Mid-size,5.8,4.8,9.6,0,3.4,6.5,8.1,3.7,5.5,5.6,6.3,2.7,Yes,10.0,4.3,9.1,7.4,,2.4,No,,No
+IMP00715,30,Male,Bachelor,Analyst,6,On-site,Mid-size,3.5,4.9,1.8,0,4.8,6.5,7.6,4.9,7.5,6.7,3.8,5.5,Yes,6.9,4.9,6.6,6.1,4.8,4.1,Yes,,No
+IMP00716,52,Male,Bachelor,Researcher,7,Hybrid,Startup,5.7,6.9,7.4,4,5.6,6.4,5.7,5.5,5.2,6.5,6.2,0.3,No,3.8,2.7,1.2,4.2,4.7,6.7,Yes,,No
+IMP00717,25,Female,Bachelor,Designer,3,Remote,Large Corp,4.8,3.3,5.4,2,4.7,7.2,4.6,6.5,3.3,5.5,2.7,2.3,Yes,7.6,3.5,4.8,4.3,5.5,4.3,Yes,,No
+IMP00718,51,Female,PhD,Researcher,6,Hybrid,Startup,6.5,5.8,6.3,3,3.1,6.9,5.9,5.9,10.0,3.0,1.2,8.0,Yes,4.2,6.0,3.2,,3.8,7.1,Yes,Mild,Yes
+IMP00719,47,Male,Master,Manager,2,On-site,Startup,4.4,3.0,3.9,0,10.0,7.0,4.0,8.8,6.5,4.0,2.1,5.7,No,3.4,6.2,1.7,5.7,9.4,7.1,No,Moderate,No
+IMP00720,39,Non-binary,PhD,Manager,1,Hybrid,Startup,3.1,6.1,2.8,2,3.7,7.7,8.4,6.5,5.0,4.6,5.2,5.2,Yes,5.1,5.2,2.9,7.2,3.1,8.6,Yes,Severe,Yes
+IMP00721,50,Female,Master,Designer,14,On-site,Startup,3.9,8.4,7.7,1,9.8,5.9,6.1,9.8,6.8,5.9,6.5,3.6,Yes,6.0,3.8,4.2,6.0,6.9,7.7,Yes,Mild,Yes
+IMP00722,31,Non-binary,Bachelor,Analyst,2,Hybrid,Large Corp,8.2,6.4,2.8,1,6.6,6.6,5.6,3.7,10.0,4.7,9.8,,No,1.8,5.9,7.4,3.7,4.4,4.5,Yes,Severe,Yes
+IMP00723,41,Male,High School,Researcher,1,Hybrid,Mid-size,8.2,6.4,1.5,1,3.8,8.1,7.7,6.2,3.9,3.5,7.6,8.2,Yes,7.9,4.9,4.4,5.3,8.9,6.6,No,Moderate,No
+IMP00724,40,Male,Bachelor,Researcher,6,Remote,Large Corp,5.8,3.9,5.5,2,7.9,9.4,5.6,2.6,7.7,7.9,7.4,3.7,Yes,7.7,4.9,3.9,4.3,2.5,4.6,Yes,,No
+IMP00725,36,Female,PhD,Designer,3,,Startup,2.3,10.0,4.3,4,4.1,1.3,4.7,3.7,5.1,6.7,3.5,4.7,Yes,5.6,6.0,2.5,2.2,1.2,5.2,No,Mild,No
+IMP00726,22,Male,PhD,Manager,2,Hybrid,Mid-size,5.8,9.2,5.8,2,4.2,4.6,7.6,9.6,8.3,0.4,8.3,4.5,Yes,5.5,7.6,5.7,4.4,,5.4,No,Moderate,No
+IMP00727,54,Female,Master,Designer,13,Remote,Mid-size,1.9,7.0,9.2,2,3.6,6.6,3.6,5.8,8.3,4.2,7.8,6.2,Yes,7.5,9.3,5.9,5.9,5.8,4.4,No,Moderate,No
+IMP00728,44,Male,Master,Manager,6,Hybrid,Large Corp,6.7,8.8,4.9,2,3.3,2.2,3.8,3.8,6.0,7.3,6.9,4.4,No,7.6,5.0,4.6,3.4,7.1,4.7,Yes,Mild,No
+IMP00729,35,Female,Bachelor,Manager,8,Remote,,5.0,5.2,7.6,1,5.0,5.0,6.0,7.3,2.2,8.0,4.3,5.7,No,3.6,4.8,2.8,6.9,4.6,9.1,No,Moderate,Yes
+IMP00730,33,Male,Bachelor,Doctor,1,Hybrid,Mid-size,9.7,8.2,4.7,1,3.5,6.1,3.5,8.6,5.3,3.9,8.7,4.7,No,8.7,4.4,10.0,4.5,6.5,7.2,Yes,Mild,Yes
+IMP00731,39,Female,Master,Analyst,3,Remote,Startup,6.7,6.7,7.9,4,4.2,7.9,6.0,8.6,4.4,4.6,6.0,4.5,Yes,5.3,4.6,5.5,5.3,3.2,9.3,No,Moderate,No
+IMP00732,42,Male,Master,Manager,2,On-site,Mid-size,6.3,4.3,7.4,1,6.1,8.1,9.6,8.6,4.3,7.0,4.9,0.8,Yes,8.5,6.1,3.9,6.0,1.7,6.3,No,Mild,No
+IMP00733,35,Male,PhD,Developer,8,Remote,Mid-size,1.6,6.3,6.5,3,4.2,6.7,2.0,5.9,6.3,8.0,7.1,1.5,No,6.8,0.0,6.3,7.2,6.1,2.6,No,Mild,No
+IMP00734,23,Male,High School,Designer,11,Hybrid,Large Corp,6.2,2.7,3.9,0,6.1,4.2,2.4,6.4,3.8,4.6,5.6,,No,6.2,3.2,1.6,6.3,6.7,5.3,No,,No
+IMP00735,33,Female,High School,Entrepreneur,8,On-site,Mid-size,3.0,5.4,4.6,2,6.5,5.5,5.1,3.8,5.0,6.0,,4.0,No,8.3,1.1,5.6,2.8,8.5,6.0,No,Moderate,No
+IMP00736,52,Male,Bachelor,Designer,9,Remote,Startup,7.7,6.6,5.2,2,5.7,5.4,0.5,7.3,8.9,3.4,5.0,4.9,No,5.5,9.3,7.2,4.8,5.3,7.3,No,Mild,No
+IMP00737,49,Female,Master,Researcher,0,Hybrid,Large Corp,5.3,6.6,5.0,1,8.3,4.3,0.8,8.7,6.7,7.3,6.7,3.2,No,5.8,3.5,4.6,,7.5,5.9,No,Moderate,Yes
+IMP00738,36,Male,Bachelor,Developer,11,On-site,Startup,5.7,6.2,8.1,0,5.0,2.0,2.3,6.1,3.8,8.8,3.9,2.2,No,5.9,6.0,2.5,6.2,0.0,3.2,No,,No
+IMP00739,23,Female,High School,Analyst,8,On-site,Mid-size,8.8,8.3,7.4,2,8.1,,7.9,8.5,4.1,8.5,7.4,4.3,No,3.6,3.4,3.9,,1.6,5.2,Yes,Severe,Yes
+IMP00740,54,Female,Bachelor,Entrepreneur,0,Hybrid,Startup,5.5,4.7,9.0,2,1.4,8.1,6.6,7.5,5.5,7.2,2.1,0.8,No,2.1,1.6,8.0,7.4,6.1,9.0,Yes,Mild,Yes
+IMP00741,45,Male,High School,Entrepreneur,12,Remote,Startup,5.7,6.7,6.1,2,2.7,,5.6,3.9,8.1,1.9,6.0,0.5,Yes,3.6,9.5,,6.7,5.1,4.8,No,Mild,No
+IMP00742,35,Female,Bachelor,Analyst,10,On-site,Startup,4.1,6.0,4.1,3,6.7,6.5,4.8,4.0,8.3,4.0,3.6,6.6,No,7.7,6.2,5.1,4.7,9.0,5.3,No,Mild,No
+IMP00743,49,Non-binary,Bachelor,Manager,3,Hybrid,Startup,3.7,,2.3,1,3.8,8.8,6.5,4.7,5.7,3.9,7.9,8.6,No,6.2,9.3,8.3,5.7,8.3,5.9,Yes,Severe,Yes
+IMP00744,25,Male,Bachelor,Designer,10,Remote,Mid-size,6.5,7.7,6.3,1,8.2,9.7,5.5,8.3,5.3,6.1,6.8,5.4,No,3.8,,6.2,4.8,6.6,0.9,No,Severe,Yes
+IMP00745,46,Female,PhD,Developer,0,Remote,Mid-size,4.9,3.5,5.0,0,2.1,7.0,1.9,6.2,6.2,3.3,4.6,5.5,No,4.2,5.4,3.7,7.4,2.5,6.9,Yes,,No
+IMP00746,26,Female,Bachelor,Manager,5,On-site,Startup,7.7,5.7,6.8,3,3.9,7.9,4.6,4.1,8.2,7.3,0.0,4.4,No,2.1,4.0,1.8,7.1,1.7,5.9,No,,Yes
+IMP00747,34,Male,Bachelor,Researcher,1,Hybrid,Large Corp,8.1,6.6,3.1,0,6.3,6.2,2.8,6.2,3.4,4.0,6.8,3.5,Yes,7.7,4.0,5.6,5.6,3.6,5.7,No,Mild,No
+IMP00748,39,Male,Bachelor,Researcher,10,,Large Corp,4.9,2.5,5.5,2,6.9,4.7,3.4,7.0,6.3,5.1,3.7,9.9,Yes,3.6,4.1,4.0,7.5,5.5,8.5,Yes,,No
+IMP00749,51,Female,Master,Analyst,4,Hybrid,Large Corp,3.3,3.5,7.1,2,5.0,3.6,7.8,5.5,3.8,5.7,5.0,5.9,Yes,5.3,3.0,6.3,2.6,3.6,6.3,No,Mild,Yes
+IMP00750,36,Female,Master,Researcher,0,Hybrid,Mid-size,3.9,,7.2,1,4.6,7.0,5.9,10.0,8.8,6.3,4.6,8.5,Yes,9.6,6.6,5.9,6.4,1.6,4.8,Yes,Mild,No
+IMP00751,46,Female,Master,Analyst,0,Remote,Startup,4.6,3.2,4.1,2,7.5,3.6,,7.8,4.6,2.1,6.4,6.7,Yes,2.5,5.3,2.8,1.2,4.7,7.8,Yes,,Yes
+IMP00752,40,Male,High School,Entrepreneur,8,Hybrid,Startup,7.9,6.4,8.5,2,6.0,2.6,5.0,7.5,5.2,6.4,4.8,4.9,No,5.0,5.1,2.5,8.4,5.8,4.6,No,,No
+IMP00753,34,Male,Bachelor,Manager,5,Hybrid,Large Corp,4.9,8.3,4.9,2,5.3,3.1,,5.4,0.6,7.4,6.5,7.2,Yes,2.9,4.5,10.0,7.4,5.9,7.0,No,Mild,No
+IMP00754,29,Non-binary,Master,Analyst,8,Hybrid,Large Corp,4.0,3.4,6.2,3,4.3,8.2,3.9,7.9,7.0,8.6,6.2,4.6,Yes,6.1,5.1,5.0,4.1,5.8,3.7,No,Moderate,No
+IMP00755,34,Non-binary,Bachelor,Developer,8,Remote,Startup,6.3,6.8,6.6,2,5.7,7.3,6.6,7.3,7.5,3.6,3.0,5.5,No,2.0,2.3,4.7,3.7,6.6,5.5,No,Severe,Yes
+IMP00756,28,Female,Bachelor,Developer,3,On-site,Large Corp,3.4,10.0,6.2,0,1.0,3.2,6.7,3.7,5.1,4.7,4.0,6.7,No,5.7,7.5,,6.0,7.7,7.2,No,Severe,No
+IMP00757,38,Female,High School,Manager,8,On-site,,6.4,6.4,5.9,2,2.8,2.0,5.9,8.7,6.4,8.6,6.0,6.5,No,4.9,0.0,3.9,5.8,3.1,4.9,Yes,,No
+IMP00758,43,Female,Master,Manager,5,Hybrid,Startup,6.1,5.7,3.5,2,8.2,7.2,0.0,9.1,3.6,2.7,4.1,3.6,No,2.1,4.9,5.2,5.0,6.6,6.2,No,Mild,No
+IMP00759,31,Female,Master,Entrepreneur,7,Hybrid,Startup,5.5,6.3,7.2,1,2.0,7.2,2.3,4.8,2.4,2.1,3.9,6.2,No,6.3,8.1,5.1,1.6,2.6,,No,Moderate,No
+IMP00760,23,Female,High School,Manager,0,Remote,Startup,4.7,8.3,5.8,2,7.5,8.2,4.8,6.5,8.8,5.2,7.4,2.1,No,4.3,6.2,3.9,7.1,6.6,6.7,No,Moderate,No
+IMP00761,26,Female,Bachelor,Researcher,8,On-site,Startup,4.9,2.9,3.3,2,5.6,9.0,4.6,6.3,9.0,4.2,5.8,5.7,No,7.7,6.8,2.3,4.1,7.3,7.1,Yes,Severe,Yes
+IMP00762,26,Male,Master,Analyst,4,Remote,Startup,5.3,5.3,5.9,4,4.3,6.1,4.7,8.1,5.3,0.5,5.1,2.7,No,7.9,10.0,2.8,0.0,6.8,7.1,No,Severe,No
+IMP00763,24,Female,Master,Manager,5,Hybrid,Mid-size,5.9,2.8,3.8,4,1.5,6.0,8.2,6.7,0.2,6.6,8.2,5.7,Yes,7.2,7.8,,6.0,3.4,8.9,No,Moderate,No
+IMP00764,29,Male,Master,Developer,10,Remote,Startup,3.6,3.3,7.8,2,6.6,2.4,4.0,5.5,6.9,5.7,5.1,,,6.3,7.4,6.0,7.5,6.0,3.4,No,Mild,No
+IMP00765,37,Female,PhD,Designer,9,Hybrid,Startup,6.3,5.8,2.9,1,5.5,3.5,5.6,7.3,3.6,5.6,4.4,3.4,No,4.6,1.5,2.7,5.3,5.0,5.1,No,Moderate,No
+IMP00766,22,Male,Bachelor,Teacher,10,Remote,Mid-size,,7.4,6.4,2,2.6,2.1,5.5,6.3,4.9,5.0,4.0,3.6,Yes,4.3,6.4,2.8,4.1,5.8,2.6,No,Mild,No
+IMP00767,24,Female,Bachelor,Designer,10,Remote,Mid-size,5.7,4.0,9.3,1,0.7,7.4,8.2,5.1,5.6,6.7,3.4,3.0,No,2.3,0.0,1.2,6.0,4.0,6.2,No,Mild,No
+IMP00768,45,Female,PhD,Developer,10,Remote,,3.2,3.4,4.7,0,5.8,0.0,6.8,7.7,5.4,6.1,5.2,4.7,Yes,4.1,6.1,3.4,3.5,6.7,5.2,No,Moderate,No
+IMP00769,25,Female,Master,Designer,8,Hybrid,Large Corp,7.8,7.3,3.7,1,8.1,4.2,10.0,7.0,6.1,6.3,5.7,6.8,No,7.6,7.9,2.7,7.1,3.9,2.3,No,Severe,Yes
+IMP00770,23,Male,Master,Developer,3,On-site,Startup,3.2,6.4,6.1,2,5.5,4.0,4.8,5.7,3.5,8.0,7.6,3.6,No,4.2,3.3,1.5,7.7,8.2,10.0,Yes,Mild,Yes
+IMP00771,32,Male,High School,Developer,1,On-site,Mid-size,2.7,1.5,7.1,2,0.8,4.9,3.2,6.3,5.5,6.6,9.9,1.7,No,5.7,2.0,4.3,5.3,3.4,5.4,Yes,,No
+IMP00772,40,Male,Bachelor,Researcher,14,On-site,Large Corp,3.7,9.3,3.6,1,4.0,1.0,6.7,3.2,5.6,5.6,2.3,4.2,Yes,3.4,8.2,4.7,3.3,3.4,3.7,No,Mild,Yes
+IMP00773,32,Male,Bachelor,Doctor,11,On-site,Mid-size,5.8,7.2,6.9,2,5.4,6.1,4.2,6.0,4.1,5.4,4.4,4.4,No,5.5,4.3,8.1,4.0,4.2,5.7,No,Mild,No
+IMP00774,43,,Bachelor,Manager,8,Hybrid,Large Corp,5.3,5.1,6.7,2,3.3,7.6,5.0,4.3,5.7,5.6,4.9,9.7,No,3.2,7.2,2.8,3.6,3.8,6.1,No,Severe,Yes
+IMP00775,52,Female,Master,Developer,1,Remote,Large Corp,,,6.5,2,5.2,4.7,6.8,10.0,6.6,5.1,4.8,,No,8.1,2.7,5.6,5.9,6.9,2.9,No,Moderate,Yes
+IMP00776,31,Male,Master,Entrepreneur,5,Remote,Mid-size,5.2,7.7,5.6,2,1.2,4.4,4.7,6.5,8.5,4.9,3.5,5.5,No,6.1,2.9,1.9,6.5,1.2,5.4,No,Moderate,No
+IMP00777,42,Male,PhD,Researcher,4,On-site,Large Corp,5.3,3.6,4.0,0,7.0,5.1,6.7,5.9,3.9,7.1,7.5,2.4,,2.9,4.0,5.8,5.7,4.1,2.3,Yes,Moderate,No
+IMP00778,49,Male,Bachelor,Analyst,1,Remote,Startup,4.0,4.8,1.8,0,5.6,4.5,,4.7,4.6,7.3,7.2,6.2,Yes,7.3,3.1,7.5,6.7,4.4,,No,,No
+IMP00779,54,Female,Bachelor,Developer,7,Hybrid,Mid-size,4.6,3.8,4.0,2,7.3,2.9,2.5,6.7,9.6,7.1,6.6,7.9,No,3.0,6.1,6.5,,5.1,7.6,No,Mild,No
+IMP00780,35,Non-binary,Bachelor,Teacher,12,Hybrid,Large Corp,4.2,5.9,3.5,3,4.1,3.0,4.1,5.3,4.8,5.9,3.1,2.2,No,8.5,1.2,2.5,4.7,5.1,5.4,No,,Yes
+IMP00781,38,Male,Master,Developer,0,,Large Corp,9.9,,4.0,0,0.6,3.8,3.5,0.0,2.8,9.0,0.8,6.3,No,5.9,1.8,3.2,3.6,4.3,4.9,No,Mild,Yes
+IMP00782,53,Male,Bachelor,Manager,2,Hybrid,Mid-size,6.4,3.7,7.2,3,4.9,10.0,6.5,7.5,5.2,4.8,2.8,5.3,Yes,6.8,5.6,1.7,4.7,6.1,6.1,No,Mild,No
+IMP00783,22,Non-binary,Bachelor,Entrepreneur,9,On-site,Large Corp,6.5,9.0,5.7,1,4.8,6.8,0.5,9.3,4.5,8.7,4.0,3.1,No,4.2,3.9,3.1,5.3,6.2,6.8,No,Moderate,No
+IMP00784,33,Male,Bachelor,Entrepreneur,7,Hybrid,Mid-size,7.4,8.9,3.3,3,3.5,3.9,4.6,3.9,4.8,2.6,8.2,7.6,Yes,3.9,8.1,6.1,5.4,7.7,10.0,No,Mild,Yes
+IMP00785,48,Female,High School,Developer,8,On-site,Mid-size,5.6,6.3,8.5,1,2.0,5.2,9.6,6.0,6.5,9.4,4.4,3.6,Yes,8.2,6.9,2.6,5.0,2.9,3.7,Yes,Mild,No
+IMP00786,46,Male,Bachelor,Entrepreneur,4,Remote,Startup,1.6,7.3,9.0,3,2.6,6.9,9.0,6.8,10.0,5.3,3.6,4.3,No,2.8,1.3,0.0,6.3,6.2,3.0,Yes,Moderate,Yes
+IMP00787,38,Male,Master,Analyst,3,Remote,Mid-size,8.8,4.8,5.4,2,8.4,2.9,4.8,7.4,5.4,6.1,6.6,5.1,No,7.3,5.8,4.6,7.3,4.3,8.2,No,Mild,No
+IMP00788,26,Female,High School,Designer,10,On-site,Startup,6.4,4.9,5.1,4,5.2,8.8,8.5,5.7,4.7,3.8,2.0,6.0,No,4.9,9.4,2.3,4.5,4.7,4.7,No,Severe,Yes
+IMP00789,39,Female,Bachelor,Developer,7,Hybrid,Large Corp,1.9,3.8,4.2,0,3.2,0.9,3.2,6.2,6.0,6.9,4.8,1.7,No,1.8,4.8,5.8,4.2,8.7,3.9,No,Moderate,Yes
+IMP00790,28,Male,High School,Manager,3,Remote,Startup,3.5,5.7,3.6,2,3.0,5.6,3.9,5.9,4.7,2.9,5.8,6.1,Yes,7.3,8.4,3.7,5.1,5.2,1.4,No,Mild,No
+IMP00791,37,Female,Master,Designer,7,Hybrid,Startup,3.2,2.8,2.1,1,9.5,5.8,5.3,5.4,5.8,5.5,6.3,4.8,No,4.3,6.2,,3.0,5.7,5.8,No,Moderate,No
+IMP00792,54,Male,Master,Developer,0,Remote,Mid-size,4.7,4.4,4.2,0,3.5,4.9,9.6,6.1,5.4,5.0,6.5,4.1,No,7.2,0.0,8.1,8.5,2.9,4.9,No,Mild,No
+IMP00793,35,Female,High School,Entrepreneur,4,On-site,Mid-size,5.4,6.8,6.2,2,3.3,6.0,0.9,4.9,3.7,8.7,7.5,4.8,No,5.5,6.7,2.9,8.1,6.7,2.9,No,Mild,No
+IMP00794,22,Female,Master,Teacher,5,Hybrid,Large Corp,5.2,4.5,5.2,1,3.0,5.7,3.7,7.0,6.8,5.7,,8.3,Yes,7.5,5.1,6.2,7.3,4.1,2.0,Yes,,Yes
+IMP00795,25,Female,Bachelor,Doctor,1,,Startup,6.5,3.4,7.6,1,2.8,8.7,2.7,4.0,5.8,5.4,5.5,6.2,Yes,6.4,3.7,5.4,4.9,7.4,5.6,No,,No
+IMP00796,33,Female,Master,Entrepreneur,8,Hybrid,Startup,4.0,7.1,4.7,4,3.5,7.6,3.8,7.4,6.1,10.0,5.8,4.6,No,5.5,4.2,2.7,5.3,5.7,6.8,No,Severe,No
+IMP00797,23,Non-binary,Bachelor,Developer,4,Hybrid,Mid-size,9.8,7.6,4.2,1,7.6,6.2,4.6,6.9,4.7,2.4,2.5,3.0,No,4.6,10.0,4.4,7.2,5.9,5.2,No,Mild,No
+IMP00798,54,Non-binary,Bachelor,Manager,3,Hybrid,Mid-size,1.8,5.1,6.3,2,3.0,6.2,6.9,6.1,4.5,5.0,7.2,4.4,No,4.5,7.6,7.1,7.0,1.2,4.6,No,Moderate,No
+IMP00799,42,Female,PhD,Developer,3,On-site,Startup,5.0,7.3,4.2,2,6.3,8.3,4.1,9.0,2.9,7.0,3.0,2.7,No,1.4,5.6,2.5,5.8,3.2,8.5,No,Severe,Yes
+IMP00800,22,Male,Bachelor,Entrepreneur,8,Hybrid,Startup,7.2,5.6,7.0,1,0.0,5.4,6.6,4.5,3.6,4.9,,8.6,No,9.2,8.3,5.9,2.2,6.1,5.7,No,Moderate,No
+IMP00801,28,Non-binary,Bachelor,Doctor,10,Remote,Large Corp,7.0,5.2,6.3,0,4.9,9.3,6.9,6.3,5.0,4.2,,10.0,No,2.8,,5.4,6.9,4.9,4.5,No,Severe,Yes
+IMP00802,52,Non-binary,Bachelor,Designer,1,,Startup,2.1,6.8,4.4,1,2.2,5.0,2.6,4.9,5.1,6.2,4.6,4.7,Yes,5.5,2.2,1.4,3.2,6.2,6.7,No,Mild,No
+IMP00803,25,Male,Bachelor,Analyst,6,Remote,Startup,,4.5,5.6,3,5.2,3.0,6.6,5.4,8.0,6.4,7.7,6.7,No,5.0,4.7,8.8,3.8,,7.4,No,Severe,No
+IMP00804,41,Female,Master,Developer,7,Remote,Startup,6.6,5.6,4.8,2,4.7,7.2,4.4,0.8,3.8,6.0,6.9,5.9,No,4.3,3.5,3.3,0.0,4.1,1.2,No,Severe,Yes
+IMP00805,37,Male,PhD,Entrepreneur,2,Remote,Mid-size,,6.0,5.8,1,4.3,8.2,7.7,5.4,5.8,4.8,5.5,9.0,No,7.2,7.2,8.0,3.4,6.0,,No,Severe,Yes
+IMP00806,43,Female,Master,Researcher,8,Remote,Startup,5.9,1.4,2.7,1,2.6,6.2,4.3,3.8,8.7,4.8,5.8,7.0,Yes,5.4,6.5,7.8,6.9,3.6,9.3,No,Mild,No
+IMP00807,37,Female,PhD,Analyst,3,Remote,Mid-size,6.3,4.4,7.6,1,4.6,2.3,3.1,8.6,3.1,8.4,4.3,3.7,No,0.1,4.3,4.1,2.4,2.2,5.0,,Mild,No
+IMP00808,53,Non-binary,Master,Researcher,7,Remote,Mid-size,,5.6,6.9,0,3.2,4.6,5.9,6.5,7.2,5.4,7.5,6.8,Yes,4.9,3.4,5.4,7.1,4.4,7.0,,Mild,No
+IMP00809,25,Male,Bachelor,Manager,6,Remote,Mid-size,5.0,2.7,6.4,2,5.8,3.6,4.6,7.2,8.5,5.2,4.1,1.6,Yes,3.3,,2.5,7.3,4.2,2.4,No,,No
+IMP00810,47,Female,Master,Analyst,5,Hybrid,Startup,8.5,3.4,0.2,1,7.2,7.8,2.3,6.4,6.3,4.4,4.0,4.5,Yes,3.4,5.1,2.7,2.3,0.6,7.2,No,Mild,Yes
+IMP00811,52,Male,Bachelor,Teacher,11,Remote,Mid-size,7.2,6.8,6.0,3,8.3,3.3,5.8,7.3,3.4,7.1,5.7,4.0,No,6.9,5.7,,1.6,5.1,8.0,Yes,,No
+IMP00812,28,Female,Bachelor,Manager,9,Hybrid,Startup,7.2,7.1,6.8,1,6.1,4.9,10.0,5.3,5.3,8.8,8.2,3.3,Yes,5.4,5.0,4.4,4.2,4.7,6.9,No,Moderate,No
+IMP00813,38,Male,Master,Entrepreneur,9,Remote,Mid-size,6.2,6.4,4.3,2,10.0,,4.6,2.9,5.8,7.8,4.0,2.2,No,3.0,6.2,1.6,3.8,6.8,6.1,Yes,,No
+IMP00814,43,Female,PhD,Manager,9,On-site,Startup,4.5,,5.5,0,3.3,6.0,3.5,3.0,6.2,8.5,7.8,2.0,Yes,4.8,7.9,3.3,5.2,2.5,7.0,No,Moderate,No
+IMP00815,35,Female,PhD,Designer,11,Remote,Large Corp,9.7,4.3,0.2,0,8.7,6.9,7.0,6.9,5.3,7.2,2.7,4.4,No,4.6,1.5,2.8,6.0,,7.1,No,Severe,Yes
+IMP00816,31,Female,Master,Developer,3,Remote,Startup,5.0,5.1,3.2,0,6.4,,4.9,5.7,4.7,6.6,4.2,4.8,No,3.4,7.1,7.9,6.2,7.1,1.7,No,Mild,No
+IMP00817,46,Female,Master,Researcher,7,Hybrid,,2.3,2.2,7.9,3,7.1,3.1,5.5,6.0,5.5,6.0,7.0,5.2,Yes,3.9,5.9,6.0,4.1,6.2,6.3,No,Mild,No
+IMP00818,46,Female,Bachelor,Developer,8,On-site,Large Corp,6.8,7.9,7.2,1,5.5,9.1,5.1,4.8,4.8,3.7,7.1,8.1,Yes,5.6,8.0,4.7,6.1,7.1,7.3,No,Moderate,Yes
+IMP00819,38,Male,Master,Teacher,4,Remote,Startup,4.9,8.0,5.2,3,4.4,2.7,6.1,7.6,4.0,3.7,4.4,4.3,No,7.9,2.2,2.5,6.2,2.5,4.5,Yes,,No
+IMP00820,41,Male,High School,Manager,9,Remote,Startup,4.4,5.4,9.3,1,4.8,4.5,3.8,4.9,5.4,8.1,,3.1,No,5.9,4.8,7.6,4.1,,4.5,No,Mild,No
+IMP00821,24,Female,Bachelor,Teacher,11,Hybrid,Large Corp,8.5,9.7,5.6,2,3.0,,5.3,5.9,8.6,5.8,6.6,4.9,Yes,2.4,2.4,6.6,6.3,4.2,10.0,Yes,Mild,No
+IMP00822,51,Non-binary,PhD,Researcher,7,Hybrid,Mid-size,3.1,6.2,5.8,3,2.6,4.6,5.9,4.9,6.6,6.4,7.3,6.7,Yes,3.2,3.6,1.6,9.4,6.1,5.1,No,Moderate,Yes
+IMP00823,35,Female,Master,Teacher,0,On-site,,,1.7,2.8,0,7.8,7.4,10.0,6.9,6.1,4.7,4.4,4.1,No,4.0,1.5,5.0,5.0,2.5,7.9,No,Moderate,No
+IMP00824,41,Male,Bachelor,Analyst,10,,Mid-size,6.8,5.2,5.9,0,5.0,4.2,5.5,5.8,4.2,8.2,7.8,10.0,No,4.5,3.0,2.7,8.1,7.3,3.7,Yes,,Yes
+IMP00825,49,Male,Bachelor,Entrepreneur,10,On-site,Startup,2.9,2.5,7.3,0,3.1,5.1,3.7,5.0,3.2,7.5,2.9,3.2,Yes,5.8,5.1,1.3,5.2,2.8,4.0,Yes,,No
+IMP00826,35,Female,Bachelor,Developer,12,Remote,Mid-size,8.1,9.6,7.0,2,5.2,4.6,2.2,4.4,6.4,5.2,5.5,7.8,No,7.3,5.9,5.7,4.7,3.2,7.8,No,,No
+IMP00827,50,Female,Bachelor,Manager,5,Remote,Startup,4.5,5.0,3.4,3,6.6,4.6,6.2,5.6,3.1,6.8,6.0,6.0,Yes,6.4,,5.3,2.5,3.9,5.4,No,Mild,No
+IMP00828,35,Male,Master,Manager,10,Remote,,5.4,5.4,4.5,0,3.0,4.6,0.8,4.2,3.8,7.4,4.3,6.1,No,2.2,5.5,4.6,9.8,6.2,5.7,No,Moderate,Yes
+IMP00829,46,Male,Bachelor,Manager,4,On-site,Large Corp,3.4,2.8,3.2,0,5.8,2.8,8.0,8.0,4.4,6.2,4.0,6.7,No,4.8,2.8,6.3,7.5,5.2,4.1,Yes,Moderate,No
+IMP00830,51,,Bachelor,Analyst,11,Remote,Large Corp,4.7,4.7,7.2,1,3.6,3.9,6.8,4.6,4.9,7.3,6.3,9.0,No,5.0,6.2,4.3,6.5,2.3,3.0,No,Moderate,Yes
+IMP00831,44,Female,Master,Analyst,6,Hybrid,Mid-size,3.8,4.5,0.0,1,5.5,3.8,6.9,7.7,3.7,6.3,5.4,2.6,No,5.2,8.0,2.9,4.5,6.1,4.8,No,Moderate,No
+IMP00832,42,Female,PhD,Developer,3,Remote,Mid-size,5.2,4.1,6.0,3,3.2,8.0,,2.0,4.9,6.8,6.4,3.3,No,5.9,2.4,3.5,2.1,4.9,3.2,Yes,Mild,Yes
+IMP00833,44,Female,High School,Doctor,8,Hybrid,Startup,7.0,2.3,5.4,1,4.4,2.1,5.4,4.5,8.3,7.8,4.3,10.0,No,6.3,2.6,7.1,6.9,3.2,6.3,No,,No
+IMP00834,31,Female,PhD,Developer,5,Hybrid,Startup,2.1,4.2,4.8,3,3.7,6.2,6.2,1.5,4.2,2.4,4.8,3.8,Yes,5.6,2.7,7.4,8.3,2.9,3.0,No,,No
+IMP00835,28,Male,Master,Entrepreneur,10,Hybrid,Large Corp,5.5,,1.2,0,4.2,4.1,7.1,5.2,4.8,5.2,2.6,1.9,Yes,6.4,0.5,1.2,4.1,3.2,5.2,No,Mild,No
+IMP00836,31,Non-binary,PhD,Entrepreneur,9,On-site,Large Corp,3.9,6.7,1.9,1,7.6,7.6,5.9,8.2,7.7,5.1,4.9,7.2,Yes,5.4,7.0,4.0,3.4,4.7,0.9,Yes,Severe,Yes
+IMP00837,35,Male,Bachelor,Manager,7,Hybrid,Large Corp,4.2,0.8,3.3,1,3.8,4.5,7.9,4.8,5.5,4.9,1.4,7.6,Yes,4.4,5.5,3.3,6.2,5.3,6.2,No,,No
+IMP00838,22,Male,Bachelor,Teacher,2,Hybrid,Large Corp,7.0,0.3,1.1,4,5.0,7.5,6.1,5.9,8.1,8.2,0.0,5.3,Yes,4.6,3.4,4.3,6.5,5.1,7.0,Yes,,No
+IMP00839,54,Non-binary,Master,Doctor,8,Remote,Large Corp,5.5,8.9,3.7,3,4.8,6.2,5.0,4.9,8.9,3.8,3.8,3.0,No,5.7,1.7,5.7,4.5,3.4,6.9,No,Moderate,No
+IMP00840,49,Female,Master,Manager,0,Hybrid,Mid-size,0.7,7.7,5.8,3,3.1,2.5,3.7,5.1,5.4,6.0,4.0,7.1,No,0.0,,2.7,2.7,4.8,5.8,No,Severe,No
+IMP00841,34,Male,Bachelor,Developer,4,Remote,Mid-size,,4.7,4.9,2,4.6,3.3,,3.8,6.4,7.2,,6.6,No,6.2,6.1,8.2,7.5,6.3,1.1,No,Moderate,No
+IMP00842,24,Female,Bachelor,Teacher,0,Hybrid,Large Corp,6.9,,1.7,1,4.8,3.3,4.5,6.9,9.7,4.9,5.7,1.4,Yes,0.0,4.1,6.5,8.8,4.9,9.0,No,Mild,Yes
+IMP00843,44,Male,Bachelor,Manager,6,Remote,Startup,7.4,8.7,4.7,2,3.4,4.7,7.9,7.1,0.9,5.9,4.7,6.1,No,2.7,9.9,2.9,6.1,7.1,4.9,Yes,Moderate,Yes
+IMP00844,41,Non-binary,Bachelor,Developer,3,Hybrid,Startup,5.1,2.5,2.5,1,4.8,4.7,5.6,5.8,3.6,3.9,5.6,2.8,No,0.5,1.7,6.5,6.1,3.8,,No,Mild,No
+IMP00845,43,Female,High School,Developer,9,Hybrid,Mid-size,4.5,9.2,7.6,1,4.2,3.0,9.4,9.7,10.0,4.3,7.2,3.0,No,4.2,8.9,2.2,7.6,2.8,9.2,No,Severe,No
+IMP00846,50,Non-binary,Bachelor,Manager,6,Hybrid,Startup,6.2,6.2,5.9,2,1.5,5.1,5.9,4.7,0.6,6.4,,6.9,No,2.6,6.6,6.4,3.6,4.5,1.2,No,Severe,No
+IMP00847,49,Female,Bachelor,Developer,13,Remote,Mid-size,4.1,8.2,1.5,5,7.1,8.2,8.6,8.0,9.1,5.0,8.0,1.2,No,6.4,2.6,2.3,7.4,2.4,4.5,Yes,Moderate,Yes
+IMP00848,27,Male,Bachelor,Developer,2,Remote,Large Corp,3.3,7.8,4.6,1,7.8,6.1,9.0,5.7,3.4,3.8,5.1,7.4,No,4.9,8.1,5.5,6.1,,5.0,No,Moderate,Yes
+IMP00849,33,Male,PhD,Designer,2,Hybrid,Large Corp,5.9,3.3,1.9,2,7.6,1.9,5.4,6.9,3.2,5.8,4.1,8.7,No,2.8,2.3,3.5,7.9,6.6,,No,Moderate,No
+IMP00850,53,Female,Master,Manager,0,Hybrid,Startup,5.7,7.8,6.5,1,3.3,2.3,3.6,4.2,2.5,4.8,0.6,4.1,No,10.0,2.1,3.7,5.4,7.5,5.0,No,,No
+IMP00851,54,Non-binary,Master,Designer,7,Remote,Mid-size,4.5,6.6,5.2,2,2.7,2.0,5.3,8.7,4.7,2.6,3.1,1.4,Yes,7.2,4.4,0.5,4.6,10.0,7.1,No,,No
+IMP00852,27,Non-binary,Master,Researcher,8,On-site,Mid-size,8.0,5.3,4.8,2,4.2,7.5,6.0,5.3,8.1,5.3,4.7,1.6,No,0.0,7.4,3.2,5.0,4.2,6.9,No,Moderate,No
+IMP00853,48,,Bachelor,Developer,10,Remote,Startup,3.8,5.7,4.6,1,3.6,2.9,3.4,4.4,5.0,8.7,7.4,7.4,No,4.8,5.5,4.6,8.1,2.6,7.1,No,Mild,Yes
+IMP00854,31,Non-binary,Master,Developer,3,Hybrid,Startup,3.3,4.1,3.9,2,5.8,4.3,6.9,6.9,9.3,7.3,2.8,5.0,No,7.7,7.6,5.9,8.3,3.6,7.2,No,Moderate,No
+IMP00855,30,Non-binary,Bachelor,Entrepreneur,11,Hybrid,Mid-size,5.0,6.7,5.2,1,2.1,4.1,6.1,5.5,7.8,8.2,4.0,4.5,No,8.8,1.2,1.7,5.4,3.1,5.2,No,Mild,No
+IMP00856,35,,PhD,Teacher,5,Hybrid,Large Corp,8.6,,4.5,0,4.5,6.5,7.4,5.0,8.7,5.3,7.4,2.6,No,6.8,1.9,0.8,3.8,6.9,7.8,Yes,Moderate,Yes
+IMP00857,30,Male,Bachelor,Teacher,4,Remote,Large Corp,6.1,5.6,3.0,3,2.1,4.3,3.7,4.8,6.7,5.9,3.5,4.9,,2.9,4.5,6.0,10.0,8.1,2.6,No,,No
+IMP00858,21,Female,Bachelor,Developer,4,Remote,Large Corp,6.3,8.5,4.1,2,1.6,7.9,10.0,5.3,5.3,5.8,4.5,6.7,Yes,5.5,4.6,4.5,5.8,7.7,3.0,No,Severe,No
+IMP00859,52,Female,Master,Designer,2,On-site,Large Corp,8.4,5.1,7.2,1,2.7,4.9,6.6,9.9,2.7,2.6,7.3,4.5,Yes,5.7,6.5,7.3,4.1,2.8,7.1,Yes,Mild,No
+IMP00860,51,Male,PhD,Teacher,5,On-site,,,4.4,6.2,2,6.9,6.4,6.7,6.2,3.0,10.0,2.1,4.2,No,4.4,6.3,5.5,2.2,3.2,3.8,Yes,Moderate,Yes
+IMP00861,44,Female,High School,Analyst,7,Remote,Startup,4.1,5.4,3.5,3,3.1,3.5,5.1,5.2,6.1,5.5,6.9,3.7,No,4.3,7.0,2.1,7.2,5.6,4.3,Yes,Mild,Yes
+IMP00862,24,Non-binary,Bachelor,Analyst,0,Hybrid,Startup,7.8,6.0,4.4,2,3.7,3.6,8.1,5.4,5.2,6.1,5.0,1.3,No,1.9,3.4,4.1,8.6,1.5,7.8,No,Mild,No
+IMP00863,36,Male,Bachelor,Analyst,6,Hybrid,Startup,4.9,7.7,5.0,2,7.0,7.8,0.3,6.3,4.4,4.5,6.1,6.8,No,1.9,7.9,3.6,3.0,6.9,5.2,No,Severe,Yes
+IMP00864,21,Male,High School,Teacher,8,Remote,Mid-size,3.9,4.3,2.2,2,4.6,5.7,,5.9,4.8,4.0,9.4,10.0,Yes,8.3,8.8,5.8,5.3,4.8,6.6,No,Mild,No
+IMP00865,37,Male,Master,Developer,8,On-site,Large Corp,4.4,4.6,6.1,3,5.3,6.7,7.0,6.4,6.0,7.7,10.0,2.3,No,4.2,1.2,3.3,6.8,3.6,7.9,No,Moderate,No
+IMP00866,40,Non-binary,Bachelor,Researcher,10,Hybrid,Mid-size,6.1,9.0,4.7,0,6.3,8.0,7.0,5.2,10.0,5.9,1.0,5.1,No,3.5,2.3,5.7,7.3,4.0,3.1,No,Moderate,Yes
+IMP00867,28,Non-binary,Master,Developer,4,Hybrid,Mid-size,9.2,4.8,4.9,2,4.6,4.8,6.2,5.0,4.0,3.5,9.0,5.6,No,1.6,4.5,7.6,7.0,7.6,5.4,No,Severe,Yes
+IMP00868,31,Female,Bachelor,Researcher,11,On-site,Large Corp,5.8,5.7,5.4,0,7.8,5.4,6.2,5.2,3.8,1.9,6.6,0.0,No,7.7,3.3,2.8,5.8,6.0,6.8,No,Mild,No
+IMP00869,28,Female,Bachelor,Designer,6,Hybrid,Startup,6.8,6.5,6.0,1,5.8,5.0,4.7,4.3,7.0,3.2,4.9,8.6,No,3.2,3.8,5.5,3.6,2.3,2.8,Yes,,Yes
+IMP00870,37,Female,Master,Entrepreneur,0,Hybrid,Startup,5.5,5.9,3.0,2,5.3,3.6,8.4,5.6,8.1,2.8,4.7,5.7,Yes,3.6,4.0,4.6,3.4,6.7,5.9,No,Mild,No
+IMP00871,32,Male,Bachelor,Researcher,0,On-site,,6.1,8.3,4.9,2,8.8,1.2,4.7,7.6,3.4,6.9,4.1,2.5,Yes,3.5,,1.4,9.6,4.5,3.7,No,,No
+IMP00872,28,Male,Bachelor,Designer,0,Remote,Large Corp,3.4,4.2,6.1,1,6.3,6.3,5.1,9.5,2.9,5.4,6.1,3.0,Yes,8.6,5.6,2.5,4.4,1.7,9.3,Yes,,No
+IMP00873,24,Female,Bachelor,Developer,1,Remote,Large Corp,6.9,7.6,2.1,3,5.7,1.8,3.9,7.2,3.5,9.4,6.3,5.9,Yes,9.1,5.1,3.9,4.4,2.9,4.5,No,,No
+IMP00874,24,Male,Master,Researcher,8,On-site,Mid-size,2.7,3.9,5.4,0,2.1,5.9,5.9,4.0,5.4,7.9,6.4,6.6,No,5.9,5.4,5.7,8.7,5.1,6.4,,Moderate,Yes
+IMP00875,26,Male,Bachelor,Researcher,6,Remote,Mid-size,3.2,4.3,7.0,1,6.5,5.8,5.6,3.5,1.2,4.0,2.9,3.1,No,3.3,4.6,1.9,4.9,5.1,,Yes,,Yes
+IMP00876,39,Female,High School,Designer,2,On-site,Mid-size,5.8,7.8,3.9,2,4.9,2.8,5.8,3.5,7.0,4.9,8.5,10.0,No,6.2,10.0,,6.3,4.3,5.7,No,Moderate,No
+IMP00877,27,Female,Bachelor,Developer,7,On-site,Large Corp,3.2,6.8,6.2,0,3.5,4.8,4.0,6.1,7.4,3.2,3.9,2.9,No,7.0,5.4,6.8,4.1,5.3,5.8,No,Mild,No
+IMP00878,47,Female,Master,Developer,9,Remote,Large Corp,5.2,0.8,7.0,1,6.3,5.4,0.9,5.0,5.4,9.9,6.0,5.7,Yes,10.0,,,5.5,4.7,6.0,No,,No
+IMP00879,26,Female,Bachelor,Analyst,0,Remote,Mid-size,7.2,3.8,7.9,0,5.7,6.7,8.2,6.9,8.3,3.7,4.7,8.9,No,8.9,5.7,2.2,6.2,5.7,1.4,No,Moderate,Yes
+IMP00880,41,Female,PhD,Developer,0,Remote,Large Corp,4.2,9.4,4.1,5,6.3,3.3,5.4,7.4,4.7,5.3,4.4,5.5,No,5.4,3.7,1.3,3.5,5.8,3.6,Yes,Severe,Yes
+IMP00881,47,Male,Master,Designer,6,Hybrid,Startup,0.8,7.6,2.9,1,6.9,6.2,4.7,4.3,3.7,6.2,7.7,5.0,Yes,4.6,8.0,3.8,4.3,0.5,9.3,No,Moderate,Yes
+IMP00882,36,Female,Bachelor,Developer,3,Hybrid,Large Corp,5.4,,3.6,3,4.7,6.2,7.1,6.4,4.8,6.3,7.7,0.0,No,5.1,5.4,4.0,5.4,9.7,8.4,No,Severe,Yes
+IMP00883,27,Non-binary,Master,Entrepreneur,4,On-site,Large Corp,5.3,7.8,4.4,0,3.7,8.9,,9.2,2.8,4.5,9.0,3.3,Yes,3.4,1.9,4.5,4.7,6.7,3.4,No,Severe,Yes
+IMP00884,32,Female,PhD,Teacher,7,Remote,Mid-size,2.8,6.4,2.7,0,4.6,6.5,6.4,6.9,8.8,5.3,5.9,8.8,No,3.6,7.5,,1.8,5.5,5.2,No,Severe,Yes
+IMP00885,38,Female,High School,Manager,2,Hybrid,Mid-size,5.9,3.7,7.6,3,5.2,7.2,5.5,4.9,4.4,2.0,4.0,5.0,Yes,1.2,,4.6,5.3,4.3,7.1,No,,No
+IMP00886,49,Non-binary,Bachelor,Developer,13,On-site,Mid-size,4.2,,5.6,2,6.2,7.4,3.9,4.1,4.9,4.8,6.1,2.9,No,4.5,2.5,3.0,5.5,1.2,4.0,No,,No
+IMP00887,48,Non-binary,High School,Manager,15,On-site,Large Corp,3.8,4.1,4.1,2,2.2,7.2,6.8,6.9,8.5,6.2,4.6,3.5,Yes,3.8,5.2,3.0,8.2,7.2,,No,Moderate,Yes
+IMP00888,39,Male,Master,Manager,12,Remote,Mid-size,7.9,4.8,3.3,1,4.9,6.4,5.3,10.0,6.8,2.8,0.0,8.3,No,6.9,6.0,3.2,6.8,2.7,4.6,Yes,Mild,No
+IMP00889,32,Female,PhD,Developer,9,On-site,Mid-size,4.8,4.7,5.4,0,5.7,6.0,2.8,7.4,2.0,5.2,5.4,6.8,No,4.2,6.3,3.0,7.1,7.7,9.8,No,Moderate,Yes
+IMP00890,30,Male,Master,Developer,2,Hybrid,Startup,5.2,6.5,6.9,1,2.0,4.3,7.3,6.7,8.6,3.8,,5.8,No,5.0,6.0,8.6,4.3,2.0,3.1,No,Severe,Yes
+IMP00891,22,Male,Master,Doctor,5,Remote,Large Corp,7.9,8.3,5.3,0,4.6,4.3,6.2,6.7,7.8,5.1,8.9,3.6,No,4.3,3.3,0.0,5.9,5.2,7.6,No,Severe,Yes
+IMP00892,39,Male,Bachelor,Manager,12,On-site,Startup,8.8,7.5,6.9,2,5.6,7.4,10.0,8.9,6.7,4.4,4.6,7.5,,4.2,1.7,3.4,5.9,4.1,1.4,No,Severe,Yes
+IMP00893,53,Male,Bachelor,Doctor,2,On-site,Large Corp,8.7,6.2,5.8,4,3.1,8.6,3.7,4.7,2.5,5.7,,5.7,Yes,5.0,5.3,1.5,7.4,2.2,4.9,No,Mild,No
+IMP00894,41,Female,Master,Researcher,6,,Mid-size,5.4,7.2,6.6,4,3.2,5.0,5.9,10.0,8.0,6.4,5.4,,Yes,5.7,6.8,0.4,4.8,5.6,5.9,No,Moderate,No
+IMP00895,48,Male,Bachelor,Researcher,5,On-site,Mid-size,3.1,8.8,7.7,2,4.5,7.6,4.3,4.6,6.7,6.4,4.8,4.3,Yes,5.6,8.1,2.8,6.6,3.3,6.7,No,Mild,No
+IMP00896,53,Female,PhD,Researcher,9,Remote,Startup,5.0,8.2,6.0,0,5.8,3.8,2.9,6.0,5.2,4.9,9.2,3.7,No,3.1,9.1,8.2,7.1,4.6,3.3,No,Severe,Yes
+IMP00897,39,Female,Master,Teacher,6,Remote,Startup,8.2,7.0,5.2,0,4.2,7.4,2.0,5.8,4.9,8.5,4.2,3.1,Yes,6.5,4.1,2.8,10.0,3.4,0.3,No,,No
+IMP00898,42,Non-binary,Bachelor,Entrepreneur,9,Remote,Large Corp,3.0,2.4,5.7,1,4.1,,6.9,8.5,2.3,0.2,6.1,2.4,No,6.9,6.7,1.6,4.5,4.7,9.0,No,Moderate,No
+IMP00899,47,Female,Master,Developer,11,On-site,Startup,3.1,5.0,5.9,3,6.1,1.3,2.0,4.2,3.0,8.8,4.0,2.8,Yes,3.5,8.6,9.4,4.4,,4.5,No,,No
+IMP00900,37,Female,Master,Teacher,6,,Large Corp,4.8,5.7,8.1,0,2.7,,9.6,3.5,8.8,6.3,3.4,6.9,No,4.6,3.9,3.8,10.0,2.7,,No,Moderate,Yes
+IMP00901,32,Female,Bachelor,Manager,8,On-site,Mid-size,3.6,5.8,6.1,3,3.9,7.0,5.2,6.1,8.9,6.5,6.2,5.4,Yes,3.6,3.5,2.2,4.1,6.7,6.3,No,Mild,No
+IMP00902,45,,Master,Teacher,2,On-site,Large Corp,4.5,10.0,0.0,2,1.2,6.4,4.3,3.1,5.5,2.6,3.9,5.1,No,7.4,5.9,3.5,4.2,2.2,4.6,No,Severe,Yes
+IMP00903,25,Female,Bachelor,Analyst,4,On-site,Mid-size,1.4,3.2,10.0,0,5.1,3.9,7.5,7.3,6.9,5.5,9.1,6.4,No,7.0,3.5,6.0,6.6,10.0,4.2,Yes,Mild,No
+IMP00904,47,Female,Master,Developer,13,Remote,Mid-size,4.7,8.2,4.5,2,4.3,,2.7,8.6,4.0,4.7,4.5,4.1,Yes,3.4,5.1,4.3,9.1,3.9,3.6,Yes,,Yes
+IMP00905,27,Non-binary,Master,Manager,2,On-site,Large Corp,5.0,7.1,5.7,1,4.8,9.5,7.5,6.0,5.7,4.5,5.4,6.3,No,6.4,1.8,5.9,2.9,6.8,7.7,Yes,Severe,Yes
+IMP00906,50,Female,PhD,Analyst,4,Hybrid,Startup,1.9,5.0,8.1,3,8.1,,4.7,9.5,4.3,7.1,6.9,5.0,No,7.1,2.9,5.8,7.7,7.0,10.0,,Moderate,No
+IMP00907,41,Male,High School,Manager,4,Remote,Mid-size,5.2,1.7,5.7,1,5.9,,5.4,5.5,6.4,4.2,8.6,,Yes,5.2,,3.4,5.1,0.4,4.1,No,,No
+IMP00908,29,Female,Bachelor,Developer,7,Remote,Mid-size,4.3,6.1,1.1,0,4.3,7.5,3.3,6.3,7.9,9.5,4.9,7.1,Yes,6.0,6.0,3.3,1.9,3.0,0.8,Yes,Moderate,No
+IMP00909,43,Male,Master,Doctor,9,Remote,Mid-size,6.2,6.7,8.7,1,3.6,4.1,7.4,7.3,5.8,6.2,4.8,6.9,No,3.3,5.5,2.9,8.3,4.8,5.5,Yes,Mild,Yes
+IMP00910,35,Male,Bachelor,Manager,3,Remote,Mid-size,4.4,5.4,2.6,2,4.1,3.4,3.1,5.2,6.2,7.2,6.8,6.3,No,5.4,6.4,5.6,6.2,8.7,3.0,Yes,Mild,Yes
+IMP00911,41,,Master,Analyst,9,Remote,Startup,7.5,7.8,4.5,1,4.2,4.2,,6.9,7.3,4.1,5.9,8.2,Yes,3.9,6.0,2.6,6.3,8.3,9.0,Yes,Mild,Yes
+IMP00912,23,Female,Master,Developer,7,Hybrid,Large Corp,8.1,4.1,4.5,3,5.5,3.7,5.4,4.7,4.7,0.7,7.8,8.0,No,4.1,4.4,2.9,6.7,8.2,8.0,No,Mild,No
+IMP00913,30,Non-binary,Master,Analyst,5,On-site,Large Corp,4.0,4.4,5.2,4,1.4,3.6,6.1,3.5,5.1,4.4,7.9,0.8,Yes,5.1,9.1,4.4,7.1,7.0,7.5,No,Mild,No
+IMP00914,26,Non-binary,Bachelor,Manager,12,Remote,Startup,6.1,6.0,5.1,1,6.9,6.3,6.7,6.7,7.8,6.8,4.2,6.1,No,3.9,7.9,3.7,4.4,5.5,5.6,Yes,Severe,Yes
+IMP00915,30,Male,Master,Entrepreneur,7,Hybrid,Mid-size,7.6,6.3,6.8,3,7.2,4.3,7.7,3.9,4.1,2.6,3.2,8.9,Yes,1.2,4.4,5.9,3.1,5.6,6.6,No,Mild,No
+IMP00916,54,Male,Master,Teacher,10,On-site,Startup,1.6,1.5,6.2,1,3.6,5.0,,4.2,8.3,3.7,3.5,3.9,No,6.1,0.4,4.9,1.3,3.7,5.3,Yes,,No
+IMP00917,50,Non-binary,Bachelor,Manager,13,On-site,Large Corp,2.6,6.2,5.6,0,5.5,8.0,4.0,9.6,7.4,3.2,4.6,7.5,No,5.7,2.4,7.1,6.4,5.8,7.3,No,Severe,No
+IMP00918,37,,Master,Developer,8,On-site,Large Corp,3.1,4.7,1.6,4,3.8,7.1,6.9,8.3,4.3,5.4,3.4,6.5,No,4.6,7.1,1.9,0.3,3.9,9.0,Yes,Severe,Yes
+IMP00919,42,Female,Bachelor,Designer,8,On-site,Startup,5.9,7.1,5.5,2,4.4,5.9,1.4,7.1,7.3,4.9,2.6,7.2,No,8.7,,4.6,2.7,4.8,6.9,No,Moderate,Yes
+IMP00920,53,Male,PhD,Entrepreneur,9,On-site,Mid-size,7.9,6.6,3.2,2,7.6,,5.4,9.5,4.6,4.2,2.0,2.9,No,3.8,2.7,3.7,6.0,3.1,8.4,No,Mild,No
+IMP00921,34,Female,Master,Manager,6,On-site,Mid-size,4.9,6.1,3.1,3,7.4,8.1,4.8,5.1,6.0,5.2,5.8,4.5,No,9.1,5.2,3.8,7.9,1.9,4.1,No,Mild,Yes
+IMP00922,42,Female,Bachelor,Analyst,4,Hybrid,Startup,1.4,6.1,3.6,2,6.1,5.6,5.7,9.6,10.0,4.2,6.4,4.9,Yes,4.1,7.4,9.4,5.8,4.0,4.4,Yes,Mild,No
+IMP00923,54,Female,Master,Developer,12,On-site,Startup,5.4,4.0,4.0,0,2.1,0.8,2.8,9.1,5.7,7.0,1.7,2.5,No,4.4,,6.0,4.8,7.6,7.5,No,Moderate,Yes
+IMP00924,54,Female,Bachelor,Developer,8,Remote,Large Corp,9.3,6.5,2.9,1,6.8,4.6,5.4,5.4,7.4,9.0,6.2,5.7,No,4.1,2.4,0.0,5.9,3.0,0.0,No,Mild,No
+IMP00925,39,Female,High School,Analyst,5,On-site,Startup,5.5,3.7,3.7,0,5.7,1.7,4.4,8.2,3.4,9.8,6.9,,Yes,4.8,,4.3,0.8,8.0,5.1,No,Mild,No
+IMP00926,34,Female,PhD,Researcher,2,On-site,Mid-size,4.9,6.3,8.1,1,4.4,7.5,8.1,3.2,5.0,7.8,2.8,3.8,Yes,3.2,4.0,3.4,5.3,4.2,1.0,Yes,,No
+IMP00927,28,Female,Bachelor,Designer,14,On-site,Startup,4.0,7.3,6.8,0,5.6,6.3,6.1,2.4,6.6,4.3,7.7,3.3,Yes,3.9,,3.5,3.1,3.4,0.7,Yes,,No
+IMP00928,24,Male,Master,Designer,17,Remote,Mid-size,4.6,5.8,4.7,0,4.8,7.8,5.7,7.5,8.3,10.0,7.5,3.8,No,2.1,9.2,0.0,8.1,1.7,4.2,Yes,Severe,Yes
+IMP00929,42,Female,Master,Manager,2,Hybrid,Startup,6.4,6.0,0.0,3,4.1,8.0,4.8,4.4,7.4,2.3,5.5,1.2,Yes,4.5,3.8,3.1,4.8,0.5,1.1,Yes,Mild,No
+IMP00930,23,Male,Bachelor,Designer,8,Remote,Mid-size,6.4,10.0,6.0,2,4.6,5.0,4.8,5.1,3.3,6.4,6.7,,No,8.2,3.6,4.7,2.5,5.3,4.8,No,Severe,Yes
+IMP00931,41,Female,Bachelor,Entrepreneur,6,Hybrid,Large Corp,3.1,7.2,7.1,0,5.9,1.3,8.4,2.1,6.2,2.7,6.5,4.4,Yes,3.3,6.7,5.7,6.7,3.8,2.5,No,,No
+IMP00932,29,Male,Master,Analyst,8,On-site,,5.7,4.7,5.4,0,6.9,4.2,8.3,3.7,6.7,1.2,5.8,6.4,Yes,8.7,3.9,5.5,3.8,4.7,7.7,No,,Yes
+IMP00933,46,Male,Master,Teacher,1,Remote,Mid-size,9.2,6.0,4.6,0,4.2,4.1,7.2,7.7,4.2,5.0,6.3,5.9,No,6.2,0.1,1.6,4.1,10.0,5.4,No,Moderate,Yes
+IMP00934,52,Male,High School,Analyst,12,Hybrid,Mid-size,2.4,,8.1,1,7.4,5.0,5.9,6.4,7.4,7.4,6.0,5.6,Yes,8.0,5.5,1.3,8.2,1.3,5.4,Yes,,No
+IMP00935,33,Non-binary,Bachelor,Manager,0,On-site,Startup,6.8,3.2,4.3,2,5.4,9.5,3.7,7.1,3.0,5.8,8.3,7.8,No,6.5,8.9,3.3,4.1,6.8,4.2,No,Severe,Yes
+IMP00936,50,Male,Master,Developer,0,On-site,Large Corp,2.6,3.5,3.3,3,3.9,3.7,4.6,6.0,6.2,3.5,3.2,,Yes,4.0,3.7,2.7,4.3,2.6,4.6,No,Mild,No
+IMP00937,36,Female,PhD,Entrepreneur,9,Remote,Large Corp,9.2,2.5,6.6,5,3.9,9.2,8.3,7.4,6.3,6.3,2.0,4.8,No,5.0,3.7,1.9,6.8,2.0,7.1,No,Moderate,No
+IMP00938,42,,Bachelor,Researcher,11,On-site,Large Corp,6.2,6.1,5.4,1,2.1,4.6,3.6,8.6,2.2,4.5,5.3,6.4,No,3.7,1.8,2.3,7.3,9.5,4.3,No,Severe,No
+IMP00939,21,,Master,Entrepreneur,5,On-site,Mid-size,6.9,4.3,7.5,1,5.5,7.8,6.0,6.8,5.8,3.3,6.7,5.6,Yes,4.3,4.6,3.6,4.0,1.3,4.7,No,Mild,No
+IMP00940,26,Male,PhD,Doctor,7,,Mid-size,3.0,6.7,1.7,0,7.3,7.1,5.9,8.5,6.2,6.0,3.3,7.1,No,7.9,8.2,6.8,7.7,9.0,,No,Severe,Yes
+IMP00941,25,Female,Bachelor,Analyst,7,Hybrid,Large Corp,7.0,6.7,7.3,2,3.5,8.7,2.3,6.1,4.7,3.3,5.2,2.8,No,2.4,4.2,3.1,7.1,2.1,5.6,No,Mild,Yes
+IMP00942,52,Male,Master,Developer,10,Remote,Mid-size,5.1,5.3,3.9,2,3.3,2.4,5.8,6.9,5.1,6.6,5.3,6.8,No,4.6,7.5,4.3,7.8,1.4,3.1,No,Mild,Yes
+IMP00943,48,Male,Bachelor,Entrepreneur,10,Hybrid,Mid-size,5.4,10.0,2.8,1,6.8,6.0,3.3,6.6,7.6,7.3,6.4,7.2,Yes,3.9,2.8,6.4,7.6,5.5,5.5,No,Moderate,No
+IMP00944,27,Female,Bachelor,Researcher,10,Hybrid,Mid-size,5.8,7.1,3.3,3,2.6,5.4,7.5,5.5,3.5,3.0,,6.9,Yes,4.0,2.7,4.1,7.0,4.0,7.2,Yes,,No
+IMP00945,37,Female,High School,Analyst,12,Remote,Startup,8.7,4.6,3.3,3,7.8,6.3,5.4,6.0,7.9,5.1,4.6,4.2,Yes,6.2,7.8,7.1,3.6,6.9,6.8,No,Mild,No
+IMP00946,32,Female,High School,Manager,0,On-site,Mid-size,6.5,5.4,4.8,0,7.6,,4.7,3.9,6.5,3.5,4.4,7.1,No,5.2,7.1,2.3,6.3,4.0,7.4,No,,No
+IMP00947,51,Male,Bachelor,Developer,12,Remote,Startup,5.0,2.6,6.0,3,3.9,4.0,5.6,5.3,5.9,2.7,3.6,3.0,No,6.6,3.8,1.1,7.5,5.2,6.2,No,,No
+IMP00948,31,Male,Master,Analyst,14,On-site,Startup,4.3,5.5,5.1,0,4.7,2.3,6.0,3.9,7.8,3.8,4.6,5.6,No,6.6,2.9,6.5,1.5,5.9,2.8,No,Moderate,Yes
+IMP00949,22,Female,Bachelor,Developer,4,Remote,Startup,4.5,7.4,7.0,0,4.6,9.4,6.9,5.4,5.1,5.6,4.6,5.9,Yes,4.8,6.2,6.0,5.9,2.8,7.8,No,Moderate,Yes
+IMP00950,49,Female,PhD,Developer,16,Remote,Startup,3.0,7.1,0.2,2,2.1,7.5,7.2,7.7,10.0,6.3,7.1,6.7,No,6.7,5.7,3.0,3.9,8.5,4.2,Yes,Severe,Yes
+IMP00951,36,Male,High School,Researcher,4,Hybrid,Startup,7.3,4.2,5.2,3,8.5,8.3,7.1,3.3,5.3,5.3,7.1,,Yes,4.4,7.1,3.9,1.5,2.9,3.6,No,Mild,No
+IMP00952,35,Male,Master,Designer,11,Remote,Startup,2.7,2.6,4.7,3,8.3,4.3,2.2,8.0,6.3,4.5,4.9,4.8,No,5.5,0.9,6.1,6.3,2.8,7.8,No,,No
+IMP00953,48,,Bachelor,Developer,10,Remote,Mid-size,3.6,5.6,7.0,0,8.4,,5.2,4.5,6.3,6.5,6.0,,No,2.3,,4.3,9.5,6.0,9.6,No,Moderate,Yes
+IMP00954,41,Male,Bachelor,Manager,3,Remote,,3.8,6.3,6.9,0,3.3,5.3,4.1,5.1,5.8,3.3,5.1,4.3,Yes,4.6,2.5,1.9,3.7,3.2,5.3,Yes,,No
+IMP00955,28,Non-binary,Master,Doctor,5,Hybrid,Mid-size,7.7,7.5,4.6,0,8.4,6.1,8.2,5.8,3.8,5.6,,5.7,No,4.7,4.4,2.0,5.6,7.8,5.6,Yes,Mild,No
+IMP00956,26,Male,Bachelor,Teacher,14,Remote,Startup,4.6,3.2,1.9,0,5.9,3.8,4.0,2.1,5.0,7.0,7.3,6.5,,2.2,,3.0,3.4,6.5,6.5,No,Severe,No
+IMP00957,47,Male,Master,Entrepreneur,0,Hybrid,Large Corp,2.8,5.3,4.0,2,5.0,4.5,6.8,5.2,5.0,2.6,4.2,9.0,No,4.0,7.2,5.3,6.2,7.3,2.4,Yes,Moderate,No
+IMP00958,38,Male,Master,Doctor,0,Hybrid,Large Corp,2.3,4.4,6.4,3,8.4,7.0,5.3,3.7,4.6,5.6,10.0,4.8,No,4.9,2.8,6.2,4.5,6.9,3.0,No,Severe,Yes
+IMP00959,45,Female,Bachelor,Manager,8,Remote,Startup,6.5,3.7,7.6,3,7.4,6.1,3.0,7.0,5.8,4.8,4.3,3.2,Yes,5.7,4.3,3.9,7.6,4.9,,Yes,,No
+IMP00960,26,Male,Bachelor,Doctor,0,Remote,Mid-size,3.9,5.6,1.9,0,4.5,7.1,7.3,4.8,4.8,7.1,,4.5,No,6.0,5.2,7.1,4.1,7.2,1.9,No,Severe,Yes
+IMP00961,48,Male,Master,Analyst,6,Remote,Startup,3.1,4.3,5.3,0,4.6,4.6,7.2,6.7,2.9,3.3,0.9,4.9,No,1.1,6.2,5.2,5.6,1.4,3.9,No,Moderate,No
+IMP00962,39,Male,Master,Manager,0,Remote,Mid-size,5.0,5.8,5.9,1,5.2,2.7,6.9,6.1,4.9,4.3,6.4,5.7,No,6.3,6.7,0.2,6.2,5.1,6.0,Yes,Mild,No
+IMP00963,34,Female,High School,Manager,5,Remote,Large Corp,7.1,4.3,2.7,2,3.0,1.2,8.2,2.7,4.6,5.1,4.9,2.1,Yes,6.0,3.1,2.7,4.3,5.9,7.2,Yes,,No
+IMP00964,46,Female,Bachelor,Doctor,0,Remote,Mid-size,3.5,7.7,2.3,0,2.4,5.6,5.4,8.0,4.4,4.9,,3.4,Yes,2.3,8.0,5.9,8.6,7.4,2.2,Yes,Mild,No
+IMP00965,51,Male,Bachelor,Doctor,6,Remote,Large Corp,8.0,3.0,7.4,2,5.7,5.0,5.7,6.0,7.5,5.0,2.8,1.8,No,1.6,4.1,1.4,3.2,1.7,3.3,No,Mild,No
+IMP00966,26,Male,Bachelor,Analyst,5,Hybrid,Mid-size,,6.1,5.8,4,2.9,5.8,7.4,6.3,5.3,2.5,3.3,5.0,No,5.8,10.0,3.9,6.1,6.9,8.4,No,Moderate,No
+IMP00967,49,Non-binary,Bachelor,Manager,6,Remote,Startup,8.2,3.9,3.2,0,10.0,3.7,5.7,6.1,5.7,7.5,4.6,4.6,No,7.1,3.7,5.2,4.9,5.4,2.6,No,Mild,No
+IMP00968,27,Female,High School,Analyst,2,Hybrid,Startup,7.7,7.0,5.4,1,6.5,4.1,7.8,9.8,5.2,1.8,3.5,8.2,Yes,4.8,3.4,7.5,5.7,5.7,2.1,No,,No
+IMP00969,49,Female,PhD,Teacher,1,On-site,Startup,7.0,0.0,4.8,2,2.3,,5.7,8.0,5.3,4.9,2.6,4.5,Yes,5.2,6.8,4.5,8.9,3.7,6.3,No,,No
+IMP00970,22,Non-binary,Master,Analyst,0,Hybrid,Mid-size,4.7,7.7,5.0,0,7.4,6.5,4.3,4.0,4.0,5.5,8.2,0.6,Yes,6.0,6.4,2.5,4.9,4.8,10.0,No,Mild,No
+IMP00971,51,Male,Master,Analyst,0,Hybrid,Mid-size,4.5,6.6,3.9,0,2.4,9.7,8.6,3.5,4.8,5.5,,3.4,Yes,2.0,5.0,0.6,5.6,3.7,3.5,No,Moderate,No
+IMP00972,30,Male,Master,Designer,7,Hybrid,Startup,4.3,4.6,1.0,0,5.6,1.5,8.1,6.9,5.2,6.1,7.9,5.4,Yes,2.7,5.2,5.7,4.2,3.1,4.4,No,Moderate,No
+IMP00973,24,Male,Bachelor,Analyst,7,Remote,Mid-size,5.2,6.1,3.1,1,6.0,6.7,4.4,5.9,6.8,5.0,7.8,7.2,No,4.9,4.8,4.5,2.2,8.7,4.2,,Severe,Yes
+IMP00974,23,Male,Master,Analyst,5,,Mid-size,6.6,7.6,5.0,2,2.3,3.7,6.6,7.8,8.6,6.3,8.9,2.8,Yes,5.1,5.9,7.3,4.9,8.1,6.6,No,Moderate,Yes
+IMP00975,21,Female,Bachelor,Entrepreneur,9,Hybrid,Mid-size,8.3,9.0,6.5,1,0.0,7.5,5.3,3.2,5.5,7.1,5.8,3.8,No,6.7,3.5,0.9,6.0,4.5,4.1,No,Moderate,No
+IMP00976,52,Female,Bachelor,Developer,3,Hybrid,Large Corp,6.4,0.0,5.6,0,4.2,5.7,1.8,3.8,8.0,5.7,3.2,4.0,Yes,6.2,5.2,6.1,3.1,6.9,4.1,Yes,,No
+IMP00977,29,Male,Master,Manager,3,Remote,Mid-size,6.7,3.5,3.1,1,5.6,6.9,3.0,5.3,8.5,6.3,,8.0,No,4.2,6.5,3.4,4.2,4.4,8.5,No,Severe,No
+IMP00978,54,Male,High School,Doctor,13,On-site,Large Corp,6.8,4.7,5.1,2,7.5,4.9,6.8,5.9,8.8,8.9,4.4,4.9,,4.6,5.8,9.6,5.1,7.5,2.9,No,Moderate,No
+IMP00979,28,Non-binary,Master,Analyst,1,On-site,Mid-size,6.4,3.6,5.2,0,5.9,6.6,7.8,2.8,7.2,6.0,7.0,4.5,No,1.9,6.3,3.2,4.8,4.6,3.9,Yes,Moderate,Yes
+IMP00980,44,Female,PhD,Doctor,12,Hybrid,Startup,4.6,3.6,8.7,2,5.6,6.0,5.2,6.4,4.7,6.4,2.4,6.8,No,6.3,4.4,3.8,2.4,7.2,5.3,No,Moderate,No
+IMP00981,34,Male,Bachelor,Designer,10,Hybrid,Mid-size,4.2,7.3,5.1,0,6.4,7.7,3.9,5.0,6.2,6.8,6.2,2.9,,4.2,8.6,4.6,1.7,3.6,2.5,No,Severe,No
+IMP00982,33,Male,Bachelor,Teacher,9,Remote,Mid-size,2.1,5.7,4.0,0,2.4,3.9,6.7,4.4,6.1,3.6,5.6,3.0,Yes,7.5,8.5,7.1,5.2,3.5,3.2,Yes,,No
+IMP00983,36,Non-binary,Master,Researcher,10,Hybrid,Startup,6.1,4.4,6.3,0,4.7,2.7,5.2,4.6,4.8,2.3,4.2,3.8,No,6.9,5.5,4.6,4.3,2.4,5.4,No,,No
+IMP00984,40,Non-binary,Bachelor,Manager,9,On-site,Large Corp,3.8,3.9,5.3,4,4.9,7.3,4.7,1.3,2.6,3.2,5.3,6.6,No,6.5,5.0,6.5,7.2,,,No,Moderate,Yes
+IMP00985,28,Female,Bachelor,Manager,7,Hybrid,Large Corp,4.1,7.9,3.4,1,7.3,5.2,4.9,4.9,6.9,4.8,5.9,6.7,Yes,7.8,8.9,6.0,0.0,5.3,5.7,No,Moderate,No
+IMP00986,40,Female,Bachelor,Teacher,4,Remote,Mid-size,6.9,,3.3,1,3.3,7.0,1.8,4.9,8.0,4.7,2.6,6.4,Yes,6.2,2.7,6.0,4.4,6.8,8.0,No,,No
+IMP00987,42,Non-binary,Master,Developer,2,Remote,Large Corp,4.0,5.7,6.1,2,2.0,5.8,8.0,7.9,7.9,2.7,4.2,8.2,Yes,3.9,7.6,5.2,10.0,4.4,3.3,No,Moderate,No
+IMP00988,42,Female,Bachelor,Manager,5,On-site,Startup,8.0,5.8,2.8,3,7.1,6.6,2.7,6.7,5.1,6.0,,5.0,No,8.3,4.5,0.0,4.4,6.5,4.7,No,Mild,Yes
+IMP00989,28,Male,High School,Developer,3,Remote,Mid-size,6.2,7.8,3.6,0,4.8,9.0,7.6,5.9,5.4,8.2,6.1,5.6,No,7.9,2.1,3.8,5.4,8.3,2.5,No,Severe,Yes
+IMP00990,52,Non-binary,Bachelor,Researcher,7,On-site,Startup,6.8,5.4,5.4,1,4.7,2.9,3.1,6.1,6.6,4.7,5.3,1.7,Yes,3.8,3.1,,8.7,,10.0,No,,No
+IMP00991,32,Male,High School,Doctor,7,Hybrid,Large Corp,2.1,6.8,2.4,0,7.1,8.2,4.8,9.4,6.7,2.7,2.5,5.1,No,6.1,5.3,3.2,2.7,7.7,7.4,No,Severe,Yes
+IMP00992,27,Male,Bachelor,Designer,6,Remote,Large Corp,5.8,7.2,8.2,3,3.8,4.3,4.6,6.3,5.0,8.0,1.7,6.1,Yes,3.1,4.4,3.0,5.8,,,,,No
+IMP00993,44,Male,PhD,Researcher,8,Remote,Mid-size,4.5,6.0,4.6,2,1.9,9.1,6.2,7.3,5.6,4.2,3.7,4.9,No,4.2,3.5,4.0,6.0,6.9,4.1,No,Severe,No
+IMP00994,39,Female,Master,Analyst,8,On-site,Mid-size,5.8,4.9,5.6,3,4.6,4.5,6.4,3.2,4.1,3.5,7.0,6.7,No,6.9,6.4,2.0,7.0,2.4,2.6,No,Mild,No
+IMP00995,37,Male,Master,Researcher,8,Remote,Startup,3.1,0.4,4.6,1,1.3,2.6,6.6,7.9,4.2,4.6,6.3,2.6,Yes,6.6,6.6,4.6,7.4,2.3,2.6,No,,No
+IMP00996,48,Male,Bachelor,Researcher,1,Remote,Large Corp,4.0,3.1,6.1,0,6.3,4.5,4.2,6.9,3.5,6.2,2.5,,No,4.6,2.2,6.9,6.4,5.7,5.1,No,,No
+IMP00997,52,Male,PhD,Researcher,4,On-site,Startup,6.0,7.4,7.5,1,8.3,4.2,9.7,8.6,5.5,5.3,6.8,4.5,No,4.2,7.5,5.6,5.7,5.2,4.6,Yes,Severe,Yes
+IMP00998,23,Female,PhD,Entrepreneur,5,On-site,Mid-size,1.4,6.7,4.5,1,6.9,5.8,7.3,6.2,9.4,9.1,6.2,6.8,No,3.7,4.4,3.7,2.0,4.9,6.0,No,Severe,No
+IMP00999,28,Male,PhD,Developer,4,On-site,Mid-size,4.0,4.4,4.2,0,9.6,5.7,4.7,6.4,6.3,10.0,4.6,4.8,No,6.6,8.0,,6.1,10.0,3.1,Yes,Moderate,Yes
+IMP01000,42,Non-binary,Bachelor,Doctor,0,On-site,Large Corp,5.8,7.5,5.1,0,4.8,,5.1,5.7,5.0,4.6,5.0,5.3,No,7.3,5.7,8.3,6.8,1.6,1.7,Yes,,No
